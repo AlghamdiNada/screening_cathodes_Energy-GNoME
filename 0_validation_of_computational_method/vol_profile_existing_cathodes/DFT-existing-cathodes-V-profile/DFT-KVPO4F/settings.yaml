@@ -1,0 +1,36 @@
+continue: True
+calculation: vc-relax
+system: ./KVPO4F.cif
+input_dft: 'XC-000I-000I-000I-000I-497L-498L'
+ecutwfc: 90
+ecutrho: 360
+etot_conv_thr: 0.0001
+forc_conv_thr: 0.001
+pseudopotentials:
+  K: K_ONCV_PBE-1.2.upf
+  O: O_ONCV_PBE-1.2.upf
+  V: V_ONCV_PBE-1.2.upf
+  P: P_ONCV_PBE-1.2.upf
+  F: F_ONCV_PBE-1.2.upf
+command: srun --cpu-bind=cores /leonardo/pub/userexternal/nalghamd/programs/q-e/bin/pw.x -in pwscf.in
+pseudo_dir: PP-r2scan
+electron_maxstep: 1000
+kpts: [2, 4, 2]
+koffset: [0, 0, 0]
+optimizer:
+  type: FIRE2
+  fmax: 0.05
+  max steps: 5000
+output files:
+  thermo: VP/thermo.csv
+  trajectory: VP/trj.xyz
+  convex hull: VP/hull.csv
+  voltage: VP/voltage.csv
+states folder: VP/states
+working ion:
+  charge carried: 1
+  chemical potential:
+          K: -773.877
+mixing_beta: 0.3
+voltage_max: 6
+voltage_min: 0.2

@@ -1,0 +1,20 @@
+continue: False
+removal_method: semi_brute_force
+system: ./MgV2O4_supercell.cif
+mace_model: ../MACE-matpes-r2scan-omat-ft.model
+optimizer:
+  type: FIRE2
+  fmax: 0.0005
+  max steps: 5000
+output files:
+  thermo: VP/thermo.csv
+  trajectory: VP/trj.xyz
+  convex hull: VP/hull.csv
+  voltage: VP/voltage.csv
+states folder: VP/states
+working ion:
+  charge carried: 2
+  chemical potential:
+    Mg: ./Mg_mp-153_conventional_standard.cif
+voltage_max: 6
+voltage_min: 0.2

@@ -1,0 +1,35 @@
+continue: custom
+post_process: true
+calculation: vc-relax
+system: ./Li2MnO3_mp-18988_conventional_standard.cif
+input_dft: 'XC-000I-000I-000I-000I-497L-498L'
+ecutwfc: 85
+ecutrho: 340
+etot_conv_thr: 0.0001
+forc_conv_thr: 0.001
+pseudopotentials:
+        Li: Li_ONCV_PBE-1.2.upf
+        O: O_ONCV_PBE-1.2.upf
+        Mn: Mn_ONCV_PBE-1.2.upf
+command: srun --cpu-bind=cores /leonardo/pub/userexternal/nalghamd/programs/q-e/bin/pw.x -in pwscf.in
+pseudo_dir: PP-r2scan
+electron_maxstep: 1000
+kpts: [7, 3, 7]
+koffset: [0, 0, 0]
+optimizer:
+  type: FIRE2
+  fmax: 0.05
+  max steps: 5000
+output files:
+  thermo: VP/thermo.csv
+  trajectory: VP/trj.xyz
+  convex hull: VP/hull.csv
+  voltage: VP/voltage.csv
+states folder: VP/states
+working ion:
+  charge carried: 1
+  chemical potential:
+          Li: ./Li.cif
+          #         Li: -194.356
+mixing_beta: 0.7
+voltage_max: 10

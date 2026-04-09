@@ -1,0 +1,20 @@
+continue: False
+removal_method: semi_brute_force
+system: ./KVPO4F.cif
+mace_model: ../MACE-matpes-r2scan-omat-ft.model
+optimizer:
+  type: FIRE2
+  fmax: 0.0005
+  max steps: 5000
+output files:
+  thermo: VP/thermo.csv
+  trajectory: VP/trj.xyz
+  convex hull: VP/hull.csv
+  voltage: VP/voltage.csv
+states folder: VP/states
+working ion:
+  charge carried: 1
+  chemical potential:
+          K: ./K.cif
+voltage_max: 6
+voltage_min: 0.2

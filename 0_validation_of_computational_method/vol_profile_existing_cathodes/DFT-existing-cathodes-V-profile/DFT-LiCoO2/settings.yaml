@@ -1,0 +1,33 @@
+continue: convex_hull
+calculation: vc-relax
+system: ./2x1x1_LiCoO2.cif 
+input_dft: 'XC-000I-000I-000I-000I-497L-498L'
+ecutwfc: 70
+ecutrho: 280
+etot_conv_thr: 0.0001
+forc_conv_thr: 0.001
+pseudopotentials:
+  Li: Li_ONCV_PBE-1.2.upf
+  Co: Co_ONCV_PBE-1.2.upf
+  O: O_ONCV_PBE-1.2.upf
+command: srun --cpu-bind=cores /leonardo/pub/userexternal/nalghamd/programs/q-e/bin/pw.x -in pwscf.in
+pseudo_dir: PP-r2scan
+electron_maxstep: 1000
+#kpts: [18, 18, 3] # QE input generator suggestion
+kpts: [8, 8, 2]
+koffset: [0, 0, 0]
+optimizer:
+  type: FIRE2
+  fmax: 0.05
+  max steps: 5000
+output files:
+  thermo: VP/thermo.csv
+  trajectory: VP/trj.xyz
+  convex hull: VP/hull.csv
+  voltage: VP/voltage.csv
+states folder: VP/states
+working ion:
+  charge carried: 1
+  chemical potential:
+          #Li: ./Li.cif
+         Li: -194.31760353
