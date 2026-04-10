@@ -1,0 +1,22 @@
+continue: false
+system: ./K16S128Ti96.cif
+mace_model: ../../MACE-matpes-r2scan-omat-ft.model
+removal_method: semi_brute_force
+optimizer:
+  type: FIRE2
+  fmax: 0.001
+  max steps: 18000
+output files:
+  thermo: VP/thermo.csv
+  trajectory: VP/trj.xyz
+  convex hull: VP/hull.csv
+  voltage: VP/voltage.csv
+states folder: VP/states
+working ion:
+  charge carried: 1
+  chemical potential:
+    K: ../K.cif
+plots: false
+voltage_max: 6.0
+voltage_min: 0.5
+    

@@ -1,0 +1,23 @@
+continue: false
+#system: ./Cd18Mg18Nd54O252W54.cif
+system: ./Cd12Mg12Nd36O168W36.cif
+mace_model: ../../MACE-matpes-r2scan-omat-ft.model
+removal_method: semi_brute_force
+optimizer:
+  type: FIRE2
+  fmax: 0.001
+  max steps: 20000
+output files:
+  thermo: VP/thermo.csv
+  trajectory: VP/trj.xyz
+  convex hull: VP/hull.csv
+  voltage: VP/voltage.csv
+states folder: VP/states
+working ion:
+  charge carried: 2
+  chemical potential:
+    Mg: ../Mg.cif
+plots: false
+voltage_max: 6.0
+voltage_min: 0.5
+    
