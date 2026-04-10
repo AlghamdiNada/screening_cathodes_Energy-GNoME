@@ -1,0 +1,70 @@
+&CONTROL
+  calculation = 'vc-relax'
+  etot_conv_thr =   1.6000000000d-04
+  forc_conv_thr =   1.0000000000d-04
+  outdir = './out/'
+  prefix = 'aiida'
+  pseudo_dir = './pseudo/'
+  tprnfor = .true.
+  tstress = .true.
+  verbosity = 'high'
+  max_seconds = 82800
+  nstep = 100
+/
+&SYSTEM
+  degauss =   2.0000000000d-02
+  ecutrho =   4.8000000000d+02
+  ecutwfc =   6.0000000000d+01
+  ibrav = 0
+  nat = 16
+  nosym = .false.
+  nspin = 2
+  ntyp = 3
+  occupations = 'smearing'
+  smearing = 'cold'
+  starting_magnetization(1) =   1.0000000000d-01
+  starting_magnetization(2) =   1.0000000000d-01
+  starting_magnetization(3) =   3.8461538462d-01
+/
+&ELECTRONS
+  conv_thr =   3.2000000000d-09
+  electron_maxstep = 80
+  mixing_beta =   4.0000000000d-01
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+F      18.9984032 f_pbesol_v1.4.uspp.F.UPF
+K      39.0983 K.pbesol-spn-kjpaw_psl.1.0.0.UPF
+V      50.9415 v_pbesol_v1.4.uspp.F.UPF
+ATOMIC_POSITIONS crystal
+K            0.4753780000       0.4753780000       0.2467820000
+K            0.5246220000       0.5246220000       0.7532180000
+K            0.1672000000       0.1672000000       0.2247560000
+K            0.8328000000       0.8328000000       0.7752440000
+V            0.1893880000       0.1893880000       0.7162410000
+V            0.8106120000       0.8106120000       0.2837590000
+F            1.0000000000       0.5000000000       0.5000000000
+F            0.5000000000      -0.0000000000       0.5000000000
+F            0.0568750000       0.0568750000       0.6684020000
+F            0.9431250000       0.9431250000       0.3315980000
+F            0.3447160000       0.3447160000       0.6874100000
+F            0.6552840000       0.6552840000       0.3125900000
+F            0.8986380000       0.3778420000       0.9193130000
+F            0.3778420000       0.8986380000       0.9193130000
+F            0.1013620000       0.6221580000       0.0806870000
+F            0.6221580000       0.1013620000       0.0806870000
+K_POINTS automatic
+8 8 7 0 0 0
+CELL_PARAMETERS angstrom
+      7.2422749100       0.0000000000       0.0000000000
+      4.8538250971       5.3750285849       0.0000000000
+      3.1933312691       1.4189900619       6.6433368187
+HUBBARD (ortho-atomic)
+U V-3d 4.1

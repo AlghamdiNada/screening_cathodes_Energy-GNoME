@@ -1,0 +1,80 @@
+&CONTROL
+  calculation = 'vc-relax'
+  etot_conv_thr =   2.4000000000d-04
+  forc_conv_thr =   1.0000000000d-04
+  outdir = './out/'
+  prefix = 'aiida'
+  pseudo_dir = '/leonardo_scratch/large/userexternal/nalghamd/mc_mace/GNoME-screening/2_space_group_DFT/pseudo_SSSP1.3_aiida'
+  tprnfor = .true.
+  tstress = .true.
+  verbosity = 'high'
+  nstep = 180
+  max_seconds = 75600
+/
+&SYSTEM
+  degauss =   2.0000000000d-02
+  ecutrho =   4.8000000000d+02
+  ecutwfc =   6.0000000000d+01
+  ibrav = 0
+  nat = 24
+  nosym = .false.
+  nspin = 2
+  ntyp = 4
+  occupations = 'smearing'
+  smearing = 'cold'
+  starting_magnetization(1) =   1.0000000000d-01
+  starting_magnetization(2) =   1.0000000000d-01
+  starting_magnetization(3) =   1.0000000000d-01
+  starting_magnetization(4) =   3.8461538462d-01
+/
+&ELECTRONS
+  conv_thr =   4.8000000000d-09
+  electron_maxstep = 250
+  mixing_beta =   4.0000000000d-01
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+K      39.0983 K.pbesol-spn-kjpaw_psl.1.0.0.UPF
+O      15.9994 O.pbesol-n-kjpaw_psl.0.1.UPF
+Si     28.0855 Si.pbesol-n-rrkjus_psl.1.0.0.UPF
+V      50.9415 v_pbesol_v1.4.uspp.F.UPF
+ATOMIC_POSITIONS crystal
+K            0.2870610000       0.7163040000       0.8220330000
+K            0.7129390000       0.2836960000       0.1779670000
+V            0.0000000000       0.0000000000       0.0000000000
+Si           0.7004320000       0.8131600000       0.2562650000
+Si           0.2995680000       0.1868400000       0.7437350000
+Si           0.1457830000       0.8317620000       0.3673770000
+Si           0.8542170000       0.1682380000       0.6326230000
+Si           0.3175050000       0.4970720000       0.3111160000
+Si           0.6824950000       0.5029280000       0.6888840000
+O            0.4532230000       0.6100570000       0.1808790000
+O            0.5467770000       0.3899430000       0.8191210000
+O            0.2044150000       0.6367530000       0.3872680000
+O            0.7955850000       0.3632470000       0.6127320000
+O            0.8777480000       0.7317990000       0.8161460000
+O            0.1222520000       0.2682010000       0.1838540000
+O            0.8836160000       0.7346880000       0.3513760000
+O            0.1163840000       0.2653120000       0.6486240000
+O            0.7379620000       0.9019000000       0.0810610000
+O            0.5000000000       0.5000000000       0.5000000000
+O            0.2975940000       0.0097240000       0.5779760000
+O            0.7024060000       0.9902760000       0.4220240000
+O            0.8247720000       0.0876910000       0.8122030000
+O            0.1752280000       0.9123090000       0.1877970000
+O            0.2620380000       0.0981000000       0.9189390000
+K_POINTS automatic
+7 7 7 0 0 0
+CELL_PARAMETERS angstrom
+      7.0458421300       0.0000000000       0.0000000000
+     -2.8402932033       6.7232350697       0.0000000000
+     -2.0737126906      -2.2132421796       6.9493601187
+HUBBARD (ortho-atomic)
+U V-3d 3.9

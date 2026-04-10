@@ -1,0 +1,81 @@
+&CONTROL
+  calculation = 'vc-relax'
+  etot_conv_thr =   2.2000000000d-04
+  forc_conv_thr =   1.0000000000d-04
+  outdir = './out/'
+  prefix = 'aiida'
+  pseudo_dir = '/leonardo_scratch/large/userexternal/nalghamd/mc_mace/GNoME-screening/2_space_group_DFT/pseudo_SSSP1.3_aiida'
+  tprnfor = .true.
+  tstress = .true.
+  verbosity = 'high'
+  nstep = 180
+  max_seconds = 75600
+  restart_mode = 'restart'
+/
+&SYSTEM
+  degauss =   2.0000000000d-02
+  ecutrho =   1.0800000000d+03
+  ecutwfc =   9.0000000000d+01
+  ibrav = 0
+  nat = 22
+  nosym = .false.
+  nspin = 2
+  ntyp = 4
+  occupations = 'smearing'
+  smearing = 'cold'
+  starting_magnetization(1) =   1.0000000000d-01
+  starting_magnetization(2) =   3.1250000000d-01
+  starting_magnetization(3) =   1.0000000000d-01
+  starting_magnetization(4) =   3.3333333333d-01
+/
+&ELECTRONS
+  conv_thr =   4.4000000000d-09
+  electron_maxstep = 250
+  mixing_beta = 0.7  !4.0000000000d-01
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+F      18.9984032 f_pbesol_v1.4.uspp.F.UPF
+Fe     55.845 Fe.pbesol-spn-kjpaw_psl.0.2.1.UPF
+K      39.0983 K.pbesol-spn-kjpaw_psl.1.0.0.UPF
+Mn     54.938045 mn_pbesol_v1.5.uspp.F.UPF
+CELL_PARAMETERS (angstrom)
+   7.696684290   0.017674036  -0.007662128
+  -0.320322698   7.690032079   0.007686912
+  -3.486620265  -4.046731916   5.521002916
+
+ATOMIC_POSITIONS (crystal)
+K                0.5000000000        0.5000000000       -0.0000000000
+K                0.0000000000        0.0000000000        0.0000000000
+K                0.0000000000        0.5000000000        0.0000000000
+K                0.0000000000        1.0000000000        0.5000000000
+Mn               0.5000000000        0.5000000000        0.5000000000
+Fe               0.5000000000       -0.0000000000       -0.0000000000
+Fe              -0.0000000000        0.5000000000        0.5000000000
+Fe               0.5000000000        1.0000000000        0.5000000000
+F                0.8755906302        0.5875857961        0.2892298059
+F                0.2016329792        0.9136399018        0.2892238561
+F                0.1989944116        0.8076212617        0.7665325570
+F                0.4571204457        0.6982615828        0.3816178227
+F                0.4589069426        0.0675366772        0.7665522035
+F                0.1833246837        0.4245052439        0.3816256421
+F                0.8166753163        0.5754947561        0.6183743579
+F                0.5410930574        0.9324633228        0.2334477965
+F                0.5428795543        0.3017384172        0.6183821773
+F                0.8010055884        0.1923787383        0.2334674430
+F                0.3964325334        0.2393370815        0.1357721203
+F                0.1244093698        0.4124142039        0.7107701941
+F                0.7983670208        0.0863600982        0.7107761439
+F                0.6035674666        0.7606629185        0.8642278797
+K_POINTS automatic
+7 7 8 0 0 0
+HUBBARD (ortho-atomic)
+U Fe-3d 4.5
+U Mn-3d 4.7

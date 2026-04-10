@@ -1,0 +1,65 @@
+&CONTROL
+  calculation = 'vc-relax'
+  etot_conv_thr =   1.1000000000d-04
+  forc_conv_thr =   1.0000000000d-04
+  outdir = './out/'
+  prefix = 'aiida'
+  pseudo_dir = '/leonardo_scratch/large/userexternal/nalghamd/mc_mace/GNoME-screening/2_space_group_DFT/pseudo_SSSP1.3_aiida'
+  tprnfor = .true.
+  tstress = .true.
+  verbosity = 'high'
+  nstep = 50
+  max_seconds = 75600
+/
+&SYSTEM
+  degauss =   2.0000000000d-02
+  ecutrho =   3.2000000000d+02
+  ecutwfc =   4.0000000000d+01
+  ibrav = 0
+  nat = 9
+  nosym = .false.
+  nspin = 2
+  ntyp = 2
+  occupations = 'smearing'
+  smearing = 'cold'
+  starting_magnetization(1) =   1.0000000000d-01
+  starting_magnetization(2) =   1.0000000000d-01
+  starting_magnetization(3) =   4.1666666667d-01
+/
+&ELECTRONS
+  conv_thr =   2.2000000000d-09
+  electron_maxstep = 250
+  mixing_beta = 4.0000000000d-01
+  diagonalization = 'cg'
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+S      32.065 s_pbesol_v1.4.uspp.F.UPF
+Ti     47.867 ti_pbesol_v1.4.uspp.F.UPF
+
+CELL_PARAMETERS (angstrom)
+   5.978359332   0.000169679   0.000202946
+  -2.989403233   5.177281801   0.000202903
+   0.997528501   1.727912778   6.811570721
+
+ATOMIC_POSITIONS (crystal)
+Ti               0.0000000000        0.0000000000        0.0000000000
+Ti               0.3331118332        0.6668881638        0.0000000030
+Ti               0.6668881668        0.3331118362       -0.0000000030
+S                0.9305744591        0.5980284900        0.2055689554
+S                0.2655368543        0.2655368575        0.2054396344
+S                0.5980284900        0.9305744609        0.2055689542
+S                0.7344631457        0.7344631425        0.7945603656
+S                0.0694255409        0.4019715100        0.7944310446
+S                0.4019715100        0.0694255391        0.7944310458
+K_POINTS automatic
+9 9 7 0 0 0
+HUBBARD (ortho-atomic)
+U Ti-3d 4.7
