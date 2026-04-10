@@ -13,7 +13,7 @@ This repository contains the input files required to reproduce the results prese
 Validates the computational workflow against known materials.
 
 #### `phonons_database_MACE_test/`
-Contains files for validating MACE predicted dynamical stability against phonon database [REF](https://mdr.nims.go.jp/collections/8g84ms862?locale=en) and [REF](doi:10.1038/ s41524-025-01650-1).
+Contains files for validating MACE predicted dynamical stability against phonon database [REF](https://mdr.nims.go.jp/collections/8g84ms862?locale=en) and [REF](https://doi.org/10.1038/s41524-025-01650-1).
 
 #### `vol_profile_existing_cathodes/`
 Voltage profile validation using existing experimentally characterized cathode materials to benchmark accuracy.
