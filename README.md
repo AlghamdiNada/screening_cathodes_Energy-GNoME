@@ -32,7 +32,7 @@ DFT refinement inputs for the most promising cathode candidates identified throu
 
 ## Citation
 
-If you use this data in your research, please cite the follwoing pre-print:
+If you use this work in your research, please cite the follwoing:
 
 ```bibtex
 @article{alghamdi2025screening,
