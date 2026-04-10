@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+42458,H7Al3O14P2Sr,27,[6.84120114 6.84120114 6.84120051],-173.44645174153922,5,[34.2060057  34.2060057  34.20600255],3375,38,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+541433,Bi16Cd8O32,56,[11.45048233 11.45048233 11.45048233],-290.3399953459602,5,[57.25241165 57.25241165 57.25241165],7000,0,False

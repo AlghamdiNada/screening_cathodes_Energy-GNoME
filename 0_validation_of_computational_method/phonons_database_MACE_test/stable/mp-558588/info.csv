@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558588,Ba12Pt24S36,72,[11.14566158 11.14566158 13.2509114 ],-385.67610099089836,4,[44.58264632 44.58264632 53.0036456 ],4608,0,False

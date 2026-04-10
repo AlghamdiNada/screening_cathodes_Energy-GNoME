@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+752671,Ba6I18Sr3,27,[14.52274217 14.52251412  7.82212148],-90.57208478392722,5,[72.61371085 72.6125706  39.1106074 ],3375,0,False

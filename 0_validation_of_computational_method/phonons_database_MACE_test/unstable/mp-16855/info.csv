@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16855,K6O26Si4Ta6,42,[9.20529361 9.20529361 7.892929  ],-342.30703440207776,5,[46.02646805 46.02646805 39.464645  ],5250,0,False

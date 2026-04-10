@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+989552,La2Mo2N6,10,[5.74091048 5.74091048 5.74090964],-90.95913935018977,5,[28.7045524 28.7045524 28.7045482],1250,0,False

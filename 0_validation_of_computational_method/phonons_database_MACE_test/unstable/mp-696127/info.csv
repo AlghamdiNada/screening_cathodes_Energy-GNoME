@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+696127,Ge2Li20P4Se24,50,[ 9.287435  9.287435 13.368956],-194.04170550453634,5,[46.437175 46.437175 66.84478 ],6250,93,True

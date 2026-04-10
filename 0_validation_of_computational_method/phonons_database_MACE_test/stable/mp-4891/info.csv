@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4891,Al4Ho4O12,20,[5.14522288 5.3135455  7.35118279],-159.21292760520993,5,[25.7261144  26.5677275  36.75591395],2500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29993,Ag2F12Ta2,16,[4.99290932 4.99290932 9.35569868],-94.03555840852047,5,[24.9645466 24.9645466 46.7784934],2000,18,True

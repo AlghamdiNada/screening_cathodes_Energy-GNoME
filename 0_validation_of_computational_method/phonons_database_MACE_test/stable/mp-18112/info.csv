@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18112,Ge8Se20Sr8,36,[12.39348995  8.52535437 12.20324559],-156.94539804418292,5,[61.96744975 42.62677185 61.01622795],4500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12453,Cu4Ho4S8,16,[ 3.92513478  6.23001225 13.31628342],-87.94770787816856,5,[19.6256739  31.15006125 66.5814171 ],2000,0,False

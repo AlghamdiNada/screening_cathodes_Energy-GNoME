@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9514,C2Al2Mg,5,[3.39064637 3.39064637 5.823716  ],-27.674330114144496,5,[16.95323185 16.95323185 29.11858   ],625,0,False

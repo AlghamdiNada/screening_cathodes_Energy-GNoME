@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23421,Cl10Li2Yb4,16,[8.19645846 8.19645846 7.17747104],-66.78064946055991,5,[40.9822923 40.9822923 35.8873552],2000,44,True

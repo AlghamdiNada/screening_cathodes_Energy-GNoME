@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23391,Cr2I12Tl8,22,[9.37497834 9.37497834 9.952214  ],-67.3044008040566,5,[46.8748917 46.8748917 49.76107  ],2750,0,False

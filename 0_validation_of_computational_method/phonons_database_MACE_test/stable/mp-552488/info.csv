@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+552488,Cu2La2O2Se2,8,[4.069512 4.069512 8.82454 ],-50.30510894120141,5,[20.34756 20.34756 44.1227 ],1000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23891,H2Na2O2,6,[3.3531446  3.36858739 5.70552898],-27.288937971519218,5,[16.765723   16.84293695 28.5276449 ],750,20,True

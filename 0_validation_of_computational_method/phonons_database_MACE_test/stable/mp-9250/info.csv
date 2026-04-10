@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9250,Li2Rb2Se2,6,[4.60204775 4.60204775 7.50977297],-19.74546568945544,5,[23.01023875 23.01023875 37.54886485],750,0,False

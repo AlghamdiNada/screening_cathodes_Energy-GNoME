@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+31135,Si38Te16,54,[10.55554921 10.55554921 10.55554896],-251.07854235868106,5,[52.77774605 52.77774605 52.7777448 ],6750,0,False

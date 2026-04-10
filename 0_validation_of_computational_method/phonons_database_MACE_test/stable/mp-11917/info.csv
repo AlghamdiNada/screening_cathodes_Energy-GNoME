@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+11917,Be2MgN2,5,[2.94091868 2.94091717 5.06363173],-30.902495612262964,5,[14.7045934  14.70458585 25.31815865],625,0,False

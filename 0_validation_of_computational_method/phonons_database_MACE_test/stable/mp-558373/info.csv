@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558373,Nb12O36Pr4,52,[ 7.737911    5.444385   16.66490375],-461.81079199990864,4,[30.951644 21.77754  66.659615],3328,0,False

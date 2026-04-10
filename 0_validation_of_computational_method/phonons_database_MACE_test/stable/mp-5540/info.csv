@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5540,B8O14Sr2,24,[ 4.24129241  4.43227665 10.72692872],-189.16390900955224,5,[21.20646205 22.16138325 53.6346436 ],3000,0,False

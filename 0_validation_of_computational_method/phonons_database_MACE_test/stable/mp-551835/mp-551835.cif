@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2I2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89646740
+_cell_length_b   7.61883360
+_cell_length_c   8.72226498
+_cell_angle_alpha   115.91072465
+_cell_angle_beta   113.25218444
+_cell_angle_gamma   90.04292195
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2I2O
+_chemical_formula_sum   'Ba4 I4 O2'
+_cell_volume   370.32552508
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.40679201  0.23187485  0.81351014  1
+  Ba  Ba1  1  0.59320799  0.76812515  0.18648986  1
+  Ba  Ba2  1  0.09324826  0.41840959  0.18667120  1
+  Ba  Ba3  1  0.90675174  0.58159041  0.81332880  1
+  I  I4  1  0.35033925  0.69349307  0.70080961  1
+  I  I5  1  0.85024126  0.00743688  0.70056391  1
+  I  I6  1  0.14975874  0.99256312  0.29943609  1
+  I  I7  1  0.64965975  0.30650693  0.29919039  1
+  O  O8  1  0.25005274  0.50000810  -0.00001107  1
+  O  O9  1  0.74994826  0.49999190  0.00001107  1

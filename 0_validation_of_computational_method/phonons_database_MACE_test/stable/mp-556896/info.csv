@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556896,Ag2Au2Ba8O12,24,[ 7.32453392  7.32453392 11.631725  ],-130.90616013398554,5,[36.6226696 36.6226696 58.158625 ],3000,0,False

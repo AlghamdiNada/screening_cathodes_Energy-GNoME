@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29888,Cl6Er2O24,32,[9.18076046 9.18084485 5.5401272 ],-152.1418962462069,5,[45.9038023  45.90422425 27.700636  ],4000,0,False

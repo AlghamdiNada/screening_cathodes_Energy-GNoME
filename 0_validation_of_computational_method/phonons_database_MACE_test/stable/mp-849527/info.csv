@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+849527,In4O12Rb12,28,[ 7.0916327   7.75869261 11.35828284],-118.78606287766864,5,[35.4581635  38.79346305 56.7914142 ],3500,0,False

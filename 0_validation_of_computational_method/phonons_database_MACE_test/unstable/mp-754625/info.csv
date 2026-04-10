@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754625,N4O8Sr4Ta4,20,[7.05208367 7.05208367 5.80719287],-174.3884634130447,5,[35.26041835 35.26041835 29.03596435],2500,28,True

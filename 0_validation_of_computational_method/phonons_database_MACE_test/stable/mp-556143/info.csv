@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-556143,Ga12Na12O48Te8,80,[10.86438222 10.86438222 10.86438222],-438.1736233634718,3,[32.59314666 32.59314666 32.59314666],2160,0,False

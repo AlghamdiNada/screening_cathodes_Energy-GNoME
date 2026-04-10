@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-570218,H36Be12Li12,60,[ 6.15836315  6.02929539 13.1850479 ],-202.14096675164302,3,[18.47508945 18.08788617 39.5551437 ],1620,0,False

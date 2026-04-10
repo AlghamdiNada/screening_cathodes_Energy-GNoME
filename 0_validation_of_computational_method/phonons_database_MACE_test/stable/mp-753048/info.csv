@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+753048,O12Sn3Ti3,18,[5.68486842 5.68486842 7.44589438],-135.55522385915413,5,[28.4243421 28.4243421 37.2294719],2250,0,False

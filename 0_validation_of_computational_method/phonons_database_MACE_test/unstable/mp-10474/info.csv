@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+10474,F6NaP,8,[5.45108393 5.45108401 5.45108266],-39.147699499221034,5,[27.25541965 27.25542005 27.2554133 ],1000,37,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14105,Al2O4Tl2,8,[5.71726945 5.71726945 5.71726945],-48.367338048477365,5,[28.58634725 28.58634725 28.58634725],1000,64,True

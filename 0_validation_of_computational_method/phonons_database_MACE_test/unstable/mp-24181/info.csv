@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+24181,HCsGaO10P3,16,[6.20563857 6.27872729 6.27872681],-106.32434497500296,5,[31.02819285 31.39363645 31.39363405],2000,1,True

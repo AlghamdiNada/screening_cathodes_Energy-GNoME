@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+961711,PtSiZr,3,[4.34332421 4.34332421 4.34332421],-22.85962557910883,5,[21.71662105 21.71662105 21.71662105],375,0,False

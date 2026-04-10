@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-29226,Ca9Ga12O27,48,[11.05868684 11.05868684  5.32453866],-297.6084849110324,3,[33.17606052 33.17606052 15.97361598],1296,0,False

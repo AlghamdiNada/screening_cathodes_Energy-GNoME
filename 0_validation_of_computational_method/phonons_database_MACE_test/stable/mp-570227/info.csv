@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+570227,Be24Cl48,72,[17.13752903 17.13752903 17.13752903],-281.71920065716733,5,[85.68764515 85.68764515 85.68764515],9000,0,False

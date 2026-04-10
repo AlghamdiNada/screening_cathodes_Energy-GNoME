@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559957,Ge4O20Sr4Ti4,32,[9.16686    6.896233   7.34878232],-238.42738786244252,5,[45.8343    34.481165  36.7439116],4000,0,False

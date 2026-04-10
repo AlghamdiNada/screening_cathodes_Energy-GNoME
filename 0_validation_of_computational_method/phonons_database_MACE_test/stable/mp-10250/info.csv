@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+10250,BaF3Li,5,[3.98858164 3.98858164 3.98858164],-26.60892412306759,5,[19.9429082 19.9429082 19.9429082],625,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555076,F24K4Na4Sn4,36,[ 5.97777034  8.08349343 11.70419697],-165.7227988032679,5,[29.8888517  40.41746715 58.52098485],4500,0,False

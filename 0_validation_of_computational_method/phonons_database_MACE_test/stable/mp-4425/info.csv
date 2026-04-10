@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4425,Pt6Se16Ta4,26,[ 3.58893521 11.10481046 15.32830064],-155.115547201924,5,[17.94467605 55.5240523  76.6415032 ],3250,0,False

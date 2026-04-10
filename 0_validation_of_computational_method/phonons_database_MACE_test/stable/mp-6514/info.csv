@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6514,La2Na2O8Ti2,14,[ 3.788244  3.788244 13.210421],-109.24458086857274,5,[18.94122  18.94122  66.052105],1750,9,True

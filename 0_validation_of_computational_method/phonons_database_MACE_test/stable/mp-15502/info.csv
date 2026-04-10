@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+15502,Ba32P32Ti8,72,[13.27348972 13.27348972 13.27348972],-372.92620864824517,5,[66.3674486 66.3674486 66.3674486],9000,0,False

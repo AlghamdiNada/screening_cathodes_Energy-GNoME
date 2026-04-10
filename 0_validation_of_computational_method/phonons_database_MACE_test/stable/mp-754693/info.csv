@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754693,Bi6Lu2O12,20,[6.96675965 6.96675965 6.9667595 ],-127.78807220306805,5,[34.83379825 34.83379825 34.8337975 ],2500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+541694,K8Na12P12Si4,36,[ 4.800822 13.222475 14.663715],-125.5855199368898,5,[24.00411  66.112375 73.318575],4500,0,False

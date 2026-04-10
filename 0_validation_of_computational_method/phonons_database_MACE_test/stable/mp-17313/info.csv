@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17313,Al16Be2Mg6O32,56,[ 5.74035949  5.74035949 18.507774  ],-401.6921339512403,4,[22.96143796 22.96143796 74.031096  ],3584,0,False

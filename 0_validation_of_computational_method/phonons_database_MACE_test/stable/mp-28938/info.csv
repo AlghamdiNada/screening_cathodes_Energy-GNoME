@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28938,Cl14Nb6Te2,22,[ 6.95827391  6.95831148 13.24531568],-118.76799646193706,5,[34.79136955 34.7915574  66.2265784 ],2750,0,False

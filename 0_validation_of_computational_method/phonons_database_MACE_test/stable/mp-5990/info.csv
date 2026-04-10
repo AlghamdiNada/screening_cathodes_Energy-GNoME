@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5990,B12Cs2Li2O20,36,[8.80481657 8.80481657 8.80481657],-273.478092438863,5,[44.02408285 44.02408285 44.02408285],4500,0,False

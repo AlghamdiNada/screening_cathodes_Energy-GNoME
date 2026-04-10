@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554947,B6Na6O24Si6,42,[8.13476016 8.13476016 7.786419  ],-305.0794235363493,4,[32.53904064 32.53904064 31.145676  ],2688,0,False

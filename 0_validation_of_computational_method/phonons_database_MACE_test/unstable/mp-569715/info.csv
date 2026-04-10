@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+569715,Bi2Cu2P4Se12,20,[ 6.6123405  6.6123405 14.73771  ],-82.37128594124775,5,[33.0617025 33.0617025 73.68855  ],2500,0,False

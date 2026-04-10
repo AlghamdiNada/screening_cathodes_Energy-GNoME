@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+19803,Cd2In4O8,14,[6.52096505 6.52096455 6.52096516],-71.47941721922612,5,[32.60482525 32.60482275 32.6048258 ],1750,0,False

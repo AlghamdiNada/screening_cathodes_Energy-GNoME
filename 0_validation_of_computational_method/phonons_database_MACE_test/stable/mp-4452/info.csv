@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4452,CdGa2S4,7,[5.59116485 5.59116359 6.46595332],-27.765863451312864,5,[27.95582425 27.95581795 32.3297666 ],875,0,False

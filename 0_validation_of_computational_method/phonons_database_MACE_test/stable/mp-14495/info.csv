@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14495,Li12O8Zn2,22,[6.47903959 6.47903959 4.60690804],-104.29337935502437,5,[32.39519795 32.39519795 23.0345402 ],2750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+607806,Ho12N4Se12,28,[ 7.65622822  7.65622822 12.50163631],-181.0405536853116,5,[38.2811411  38.2811411  62.50818155],3500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+568301,Bi2Br6,8,[7.03529825 7.25180445 7.25180293],-23.68636286260377,5,[35.17649125 36.25902225 36.25901465],1000,0,False

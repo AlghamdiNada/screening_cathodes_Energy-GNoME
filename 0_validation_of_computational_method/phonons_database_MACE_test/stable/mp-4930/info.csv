@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4930,Al4O10Ti2,16,[5.0050733  5.00507382 9.666436  ],-128.03098088229135,5,[25.0253665 25.0253691 48.33218  ],2000,0,False

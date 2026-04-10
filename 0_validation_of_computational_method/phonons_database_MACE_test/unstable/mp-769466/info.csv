@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769466,Ge2O7Y2,11,[5.7575532  5.7575532  4.96100838],-85.24350553371715,5,[28.787766  28.787766  24.8050419],1375,38,True

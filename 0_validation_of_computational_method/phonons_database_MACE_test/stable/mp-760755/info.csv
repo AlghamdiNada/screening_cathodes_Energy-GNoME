@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+760755,Al11KO17,29,[11.83674989 11.83674989 11.83674904],-212.2284921878431,5,[59.18374945 59.18374945 59.1837452 ],3625,0,False

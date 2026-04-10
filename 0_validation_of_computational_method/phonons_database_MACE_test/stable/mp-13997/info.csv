@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13997,Al10F40Rb10,60,[10.31202646 10.31202743 10.31202608],-318.5991836729062,4,[41.24810584 41.24810972 41.24810432],3840,12,True

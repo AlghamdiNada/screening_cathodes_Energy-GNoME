@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+24150,HLiNd2O3,7,[6.84735122 6.84735122 6.84735122],-47.03333988364174,5,[34.2367561 34.2367561 34.2367561],875,0,False

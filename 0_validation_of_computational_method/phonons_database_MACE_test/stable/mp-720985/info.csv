@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+720985,CaClEr15O28Se11Si8,64,[10.86995704 10.86995704 11.85805854],-469.95863683568655,4,[43.47982816 43.47982816 47.43223416],4096,0,False

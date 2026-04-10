@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+541393,K6Na2O18Re4,30,[ 6.1257463  6.1257463 14.551163 ],-202.0799708838597,5,[30.6287315 30.6287315 72.755815 ],3750,2,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+569978,Cl8Na2Ti3,13,[7.86815409 7.86815332 7.86815241],-60.7780936349667,5,[39.34077045 39.3407666  39.34076205],1625,0,False

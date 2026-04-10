@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+638070,C4B26Li2,32,[7.31724719 7.31724719 7.31724719],-217.83245677849058,4,[29.26898876 29.26898876 29.26898876],2048,7,True

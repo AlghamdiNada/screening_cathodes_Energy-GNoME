@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29722,Ca22In2Sb18,42,[12.08651199 12.08649832 12.0864375 ],-161.48135529424803,5,[60.43255995 60.4324916  60.4321875 ],5250,0,False

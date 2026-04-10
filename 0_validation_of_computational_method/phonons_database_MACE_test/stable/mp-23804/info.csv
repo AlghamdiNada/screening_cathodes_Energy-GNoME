@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23804,H6FeMg2,9,[4.49370638 4.49370669 4.49370709],-33.92593800011254,5,[22.4685319  22.46853345 22.46853545],1125,0,False

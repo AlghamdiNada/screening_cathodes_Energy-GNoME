@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6281,Ca6Na2O12Ru2,22,[6.56245651 6.56245651 6.56245678],-140.74740751920086,5,[32.81228255 32.81228255 32.8122839 ],2750,0,False

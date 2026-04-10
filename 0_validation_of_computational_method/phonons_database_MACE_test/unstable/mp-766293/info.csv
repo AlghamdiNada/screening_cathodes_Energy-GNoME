@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+766293,Ag2Al22O34,58,[ 5.65565048  5.65565048 22.792219  ],-420.91525232237865,4,[22.62260192 22.62260192 91.168876  ],3712,4,True

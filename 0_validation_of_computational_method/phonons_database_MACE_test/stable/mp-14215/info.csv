@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14215,Ba32Ge8P32,72,[13.224191 13.224191 13.224191],-335.31071942283074,5,[66.120955 66.120955 66.120955],9000,0,False

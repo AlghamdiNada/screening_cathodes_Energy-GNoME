@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8873,BGeLiO4,7,[4.75614451 4.75614451 4.75614451],-47.63404977312224,5,[23.78072255 23.78072255 23.78072255],875,0,False

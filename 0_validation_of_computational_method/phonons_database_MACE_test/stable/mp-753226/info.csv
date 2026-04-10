@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+753226,AgO2Sm,4,[3.63372971 6.54914665 3.63372959],-26.10858812098468,5,[18.16864855 32.74573325 18.16864795],500,0,False

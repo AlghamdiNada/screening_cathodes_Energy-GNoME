@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28944,Bi2Cl2Te2,6,[ 4.28365172  4.28365064 13.09041388],-21.344570225318908,5,[21.4182586 21.4182532 65.4520694],750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+15796,HoLiSe2,4,[6.85186506 6.85186506 6.85186585],-20.182883995181466,5,[34.2593253  34.2593253  34.25932925],500,0,False

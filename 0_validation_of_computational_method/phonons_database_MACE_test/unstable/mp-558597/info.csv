@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558597,F16Li2Na2Y4,24,[6.76251058 6.76251058 7.127615  ],-150.73445123650143,5,[33.8125529 33.8125529 35.638075 ],3000,32,True

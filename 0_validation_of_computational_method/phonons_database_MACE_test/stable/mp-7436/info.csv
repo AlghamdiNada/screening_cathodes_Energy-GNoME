@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7436,Cu2K2Te2,6,[ 4.43921955  4.43921948 10.05900949],-19.322463644991295,5,[22.19609775 22.1960974  50.29504745],750,0,False

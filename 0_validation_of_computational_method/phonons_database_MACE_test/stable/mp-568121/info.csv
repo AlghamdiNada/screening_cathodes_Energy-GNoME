@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+568121,Mn16Si28,44,[ 5.43272198  5.43266687 17.12332659],-312.12265601913447,4,[21.73088792 21.73066748 68.49330636],2816,0,False

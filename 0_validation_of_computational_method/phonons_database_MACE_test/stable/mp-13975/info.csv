@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13975,Er2O2Se,5,[3.77849704 3.77849589 6.72783968],-38.05331923266136,5,[18.8924852  18.89247945 33.6391984 ],625,0,False

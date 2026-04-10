@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6044,B2O40P10Sr12,64,[11.7669461 11.7669461 11.7669461],-465.1655418235193,4,[47.0677844 47.0677844 47.0677844],4096,0,False

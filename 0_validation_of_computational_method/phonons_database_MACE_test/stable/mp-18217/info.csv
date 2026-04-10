@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18217,Al4K12Se12,28,[13.10160551  8.10653919 10.4660688 ],-102.89259644046342,5,[65.50802755 40.53269595 52.330344  ],3500,0,False

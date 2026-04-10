@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+540784,O13Rb2Ti6,21,[8.21556107 8.21556107 9.13042308],-173.87443480163475,5,[41.07780535 41.07780535 45.6521154 ],2625,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9160,Au8La16O36,60,[ 6.33130087 12.11519718 12.12043998],-428.00737942650744,4,[25.32520348 48.46078872 48.48175992],3840,0,False

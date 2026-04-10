@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+637213,GeI2La2,5,[11.4125544  11.4125544  11.41255385],-23.839480290071634,5,[57.062772   57.062772   57.06276925],625,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557027,Be4O14Rb4Si4,26,[5.199926 8.439101 9.013887],-177.2521473453447,5,[25.99963  42.195505 45.069435],3250,0,False

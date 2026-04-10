@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3978,O18Si6Sr6,30,[ 7.13626051  7.13626051 10.9044951 ],-222.3773742934552,5,[35.68130255 35.68130255 54.5224755 ],3750,0,False

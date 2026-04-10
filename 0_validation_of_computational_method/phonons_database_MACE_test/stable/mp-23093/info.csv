@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23093,Bi2Nd2O12Sr4,20,[ 6.196978   6.022121  10.4881198],-130.73016193292793,5,[30.98489  30.110605 52.440599],2500,0,False

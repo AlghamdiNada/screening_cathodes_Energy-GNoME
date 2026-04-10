@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+20817,Ge4Pt4Se4,12,[6.02894882 6.05269499 6.11051989],-62.37783721813064,5,[30.1447441  30.26347495 30.55259945],1500,0,False

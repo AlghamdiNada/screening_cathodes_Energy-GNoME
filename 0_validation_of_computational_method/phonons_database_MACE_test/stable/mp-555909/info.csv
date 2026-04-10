@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555909,Cl3O10Se2Tb5,20,[6.73083542 6.73083542 9.90766473],-136.62516140345164,5,[33.6541771  33.6541771  49.53832365],2500,0,False

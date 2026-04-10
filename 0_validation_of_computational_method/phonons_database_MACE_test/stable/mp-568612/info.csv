@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+568612,Cl24Hg24P16Sn4,68,[12.13392 12.13392 12.13392],-179.85760069320537,5,[60.6696 60.6696 60.6696],8500,0,False

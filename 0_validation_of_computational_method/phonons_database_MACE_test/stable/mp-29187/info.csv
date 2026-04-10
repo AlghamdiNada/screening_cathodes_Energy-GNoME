@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29187,Co4P12Si12,28,[ 5.738756  5.945287 12.733842],-165.95945883624685,5,[28.69378  29.726435 63.66921 ],3500,0,False

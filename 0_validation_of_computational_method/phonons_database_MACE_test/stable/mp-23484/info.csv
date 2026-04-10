@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23484,Au2Cl6Cs2,10,[7.46498905 7.46498961 7.6156896 ],-29.5287579057078,5,[37.32494525 37.32494805 38.078448  ],1250,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+755643,In2O6Rb6,14,[7.06166937 7.06166937 6.99356755],-59.28714803998299,5,[35.30834685 35.30834685 34.96783775],1750,0,False

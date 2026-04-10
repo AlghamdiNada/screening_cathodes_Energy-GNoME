@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754466,AgF3Li2,6,[2.98787778 2.98787778 8.220965  ],-25.59963809907491,5,[14.9393889 14.9393889 41.104825 ],750,0,False

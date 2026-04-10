@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+768154,C2Mg2Na6O14P2,26,[6.58353652 5.10957665 8.79323529],-165.40237624620994,5,[32.9176826  25.54788325 43.96617645],3250,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-639478,O48Si24,72,[11.8976794 11.8976794 11.8976794],-568.7753613846869,3,[35.6930382 35.6930382 35.6930382],1944,30,True

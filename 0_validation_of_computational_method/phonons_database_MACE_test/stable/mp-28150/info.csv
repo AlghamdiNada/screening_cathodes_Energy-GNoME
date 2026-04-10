@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28150,Ba2Nb4O12,18,[ 6.140931   4.010429  10.6762278],-153.09821412385196,5,[30.704655 20.052145 53.381139],2250,0,False

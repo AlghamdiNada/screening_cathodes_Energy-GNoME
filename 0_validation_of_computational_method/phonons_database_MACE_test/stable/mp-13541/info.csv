@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13541,B2MgO6Sr2,11,[5.25210341 5.25210341 6.19853982],-78.74672959199822,5,[26.26051705 26.26051705 30.9926991 ],1375,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5548,Cd4O14Ta4,22,[7.36059947 7.36059947 7.36059947],-168.82332771699953,5,[36.80299735 36.80299735 36.80299735],2750,0,False

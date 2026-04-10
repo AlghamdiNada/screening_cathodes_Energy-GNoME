@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9947,C7Si7,14,[17.70033064 17.70033064 17.70033138],-105.019465296612,5,[88.5016532 88.5016532 88.5016569],1750,0,False

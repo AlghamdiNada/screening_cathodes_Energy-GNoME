@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-554203,Cl2Ga6Li8O24Si6,46,[8.615363 8.615363 8.615363],-295.65829250860213,3,[25.846089 25.846089 25.846089],1242,0,False

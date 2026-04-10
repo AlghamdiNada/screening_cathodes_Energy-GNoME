@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555865,Al6F34Na2Sr7,49,[9.81563566 9.81563566 7.37441972],-277.9660224354586,4,[39.26254264 39.26254264 29.49767888],3136,0,False

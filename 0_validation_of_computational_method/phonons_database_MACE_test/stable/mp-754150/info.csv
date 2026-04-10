@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754150,Ga2La6O12,20,[7.54533114 7.54533114 5.68137309],-156.52977890151433,5,[37.7266557  37.7266557  28.40686545],2500,0,False

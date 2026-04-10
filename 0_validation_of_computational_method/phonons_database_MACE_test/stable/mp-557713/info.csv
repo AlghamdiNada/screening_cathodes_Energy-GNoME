@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557713,Ba4La2O12Ta2,20,[6.0915674  6.15036742 8.60992854],-161.9524428704394,5,[30.457837  30.7518371 43.0496427],2500,0,False

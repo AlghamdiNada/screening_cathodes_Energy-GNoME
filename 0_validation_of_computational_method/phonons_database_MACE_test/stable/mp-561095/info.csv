@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+561095,F4Ge4Ho6Li2O16,32,[ 9.2210999   9.2210999  11.68939787],-228.3197440326307,5,[46.1054995  46.1054995  58.44698935],4000,0,False

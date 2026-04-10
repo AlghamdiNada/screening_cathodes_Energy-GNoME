@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1217,K32Si32,64,[12.62359893 12.62359893 12.62359893],-208.00196290754613,5,[63.11799465 63.11799465 63.11799465],8000,0,False

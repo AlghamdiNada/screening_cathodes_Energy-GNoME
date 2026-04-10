@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+540635,Ba2Ge6O18Sn2,28,[ 7.02224923  7.02224923 10.394294  ],-180.7337910220459,5,[35.11124615 35.11124615 51.97147   ],3500,0,False

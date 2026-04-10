@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-6326,Al12Li12O48Si12,84,[10.45943523 10.45943613 11.26025947],-605.8255219538356,3,[31.37830569 31.37830839 33.78077841],2268,2,True

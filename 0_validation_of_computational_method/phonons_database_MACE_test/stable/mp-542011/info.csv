@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+542011,Cs8S28Ti6,42,[11.60701398 11.60701398 14.00862175],-210.53220292230583,5,[58.0350699  58.0350699  70.04310875],5250,0,False

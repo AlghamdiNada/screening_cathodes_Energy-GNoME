@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+973064,H3La,4,[4.04784421 4.04784421 4.04784421],-17.323528880149375,5,[20.23922105 20.23922105 20.23922105],500,2,True

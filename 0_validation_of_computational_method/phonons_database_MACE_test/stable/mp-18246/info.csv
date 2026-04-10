@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18246,K12Mn2Te8,22,[10.95917052 10.95917747  8.44833417],-75.65530414900351,5,[54.7958526  54.79588735 42.24167085],2750,0,False

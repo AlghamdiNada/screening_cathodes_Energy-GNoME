@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554207,Bi16Br4O32Ta4,56,[ 5.49521318  5.54216272 29.45139572],-367.4079602806228,4,[ 21.98085272  22.16865088 117.80558288],3584,8,True

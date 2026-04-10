@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554286,La12O10S16Ti4,42,[ 4.020371   12.77072    16.48571446],-312.9444353966049,5,[20.101855  63.8536    82.4285723],5250,32,True

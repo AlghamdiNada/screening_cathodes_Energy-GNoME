@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+20261,Ga2MnSe4,7,[5.69844006 5.69542051 6.7603486 ],-32.61491811676872,5,[28.4922003  28.47710255 33.801743  ],875,0,False

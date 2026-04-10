@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29136,Cu6N10Sr12,28,[8.64558738 8.64558738 7.33400003],-139.30253108778504,5,[43.2279369  43.2279369  36.67000015],3500,0,False

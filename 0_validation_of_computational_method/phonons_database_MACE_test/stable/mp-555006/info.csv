@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555006,Cs2Ga4O32P10,48,[ 9.370082    7.558591   10.35815725],-329.1844449270598,5,[46.85041    37.792955   51.79078625],6000,0,False

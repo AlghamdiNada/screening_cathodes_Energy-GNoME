@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+861513,H2O10Rb10Si2,24,[ 6.66392411  6.66392411 12.1794729 ],-119.27893774193677,5,[33.31962055 33.31962055 60.8973645 ],3000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-556740,B18Na18O72Si18,126,[14.05524146 14.05524146  7.789891  ],-916.1614974842022,3,[42.16572438 42.16572438 23.369673  ],3402,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6825,C4Ho8N24Si16,52,[ 9.985314    5.937849   11.91406041],-422.1832138166954,4,[39.941256   23.751396   47.65624164],3328,0,False

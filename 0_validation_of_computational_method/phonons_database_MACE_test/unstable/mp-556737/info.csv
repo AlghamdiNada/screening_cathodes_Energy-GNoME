@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556737,O12Pr12S14Ti4,42,[ 3.932725   12.140152   16.68130846],-314.2774102310493,5,[19.663625  60.70076   83.4065423],5250,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5860,HgK2O2,5,[3.90556726 3.9055678  7.52594052],-17.516358343231573,5,[19.5278363 19.527839  37.6297026],625,0,False

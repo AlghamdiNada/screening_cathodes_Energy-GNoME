@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555194,F6Hg3S2Si,12,[7.40494297 7.40494297 4.90985   ],-46.15014972186671,5,[37.02471485 37.02471485 24.54925   ],1500,31,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+553278,Nd4O4Se3,11,[4.01690519 6.78274544 8.46630651],-79.51391658276039,5,[20.08452595 33.9137272  42.33153255],1375,0,False

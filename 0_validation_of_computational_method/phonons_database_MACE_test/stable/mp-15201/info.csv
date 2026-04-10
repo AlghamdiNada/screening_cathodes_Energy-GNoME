@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+15201,O28Pr8Ti8,44,[ 5.51914343  7.72039827 13.11704388],-382.53265634343387,4,[22.07657372 30.88159308 52.46817552],2816,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-978840,Li24N48Si24Sr12,108,[10.70433669 10.70433669 10.70433669],-709.9841320709081,3,[32.11301007 32.11301007 32.11301007],2916,0,False

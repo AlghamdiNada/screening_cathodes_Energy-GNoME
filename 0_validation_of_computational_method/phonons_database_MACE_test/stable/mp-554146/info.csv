@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554146,In8K28O26,62,[31.3201836   6.82883879  6.84307395],-264.217117602802,5,[156.600918    34.14419395  34.21536975],7750,0,False

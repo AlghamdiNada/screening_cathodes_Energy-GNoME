@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29213,Cd4Ge14O32,50,[11.31129901 11.31129901  4.65609581],-301.5075467436654,4,[45.24519604 45.24519604 18.62438324],3200,0,False

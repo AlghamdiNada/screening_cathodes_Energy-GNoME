@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+981103,CdO4Sr3,8,[5.06237884 5.06237884 5.06237884],-43.71903030489123,5,[25.3118942 25.3118942 25.3118942],1000,25,True

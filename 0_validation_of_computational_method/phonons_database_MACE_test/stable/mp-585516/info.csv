@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+585516,Ca12O28Si8,48,[12.78857849 12.78857849 12.78857849],-351.9387716936171,4,[51.15431396 51.15431396 51.15431396],3072,0,False

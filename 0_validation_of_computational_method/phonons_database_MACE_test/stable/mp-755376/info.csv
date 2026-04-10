@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+755376,Er6O18Te3,27,[8.98383132 8.98369137 5.11548037],-194.79518216387362,5,[44.9191566  44.91845685 25.57740185],3375,0,False

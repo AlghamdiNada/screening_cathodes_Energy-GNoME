@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-5512,Al28O50Sr8,86,[ 4.88226272  8.4806483  24.7696504 ],-627.7517716338439,3,[14.64678816 25.4419449  74.3089512 ],2322,0,False

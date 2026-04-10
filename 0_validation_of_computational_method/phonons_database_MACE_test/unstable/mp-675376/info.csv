@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+675376,Ag2Ho2Se4,8,[ 8.07006275 10.86835176  7.27507472],-37.87199976498088,5,[40.35031375 54.3417588  36.3753736 ],1000,0,False

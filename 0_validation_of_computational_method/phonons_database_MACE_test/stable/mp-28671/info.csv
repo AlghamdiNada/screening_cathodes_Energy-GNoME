@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28671,Br10Te4Zr2,16,[8.92776905 8.92776917 9.38950625],-60.53930364887151,5,[44.63884525 44.63884585 46.94753125],2000,0,False

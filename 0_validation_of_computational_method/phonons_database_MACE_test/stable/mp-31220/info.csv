@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+31220,Al2Si2Te6,10,[6.88931547 6.88931598 7.41726321],-39.5407014902643,5,[34.44657735 34.4465799  37.08631605],1250,0,False

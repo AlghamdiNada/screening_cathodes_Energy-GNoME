@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+757574,Ba8In8O19,35,[9.41062933 9.41062933 8.51715386],-199.88160389655087,5,[47.05314665 47.05314665 42.5857693 ],4375,0,False

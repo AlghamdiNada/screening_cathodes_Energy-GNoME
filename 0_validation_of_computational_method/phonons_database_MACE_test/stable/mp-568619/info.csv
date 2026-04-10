@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+568619,C5Si5,10,[ 3.07652583  3.0765258  12.58369976],-75.02212468052134,5,[15.38262915 15.382629   62.9184988 ],1250,0,False

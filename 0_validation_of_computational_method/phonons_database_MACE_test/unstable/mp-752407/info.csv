@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+752407,Dy4Ge4O14,22,[11.01802039  4.94438925  5.63322112],-162.76096450720215,5,[55.09010195 24.72194625 28.1661056 ],2750,44,True

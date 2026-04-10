@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13900,Cu4O4Sr2,10,[5.4509605  5.45096009 6.24573346],-51.81934707390422,5,[27.2548025  27.25480045 31.2286673 ],1250,0,False

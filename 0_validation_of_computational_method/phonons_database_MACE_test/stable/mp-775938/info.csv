@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+775938,O24Ti12,36,[ 4.54425708  5.51788923 14.8964619 ],-320.0648412992155,5,[22.7212854  27.58944615 74.4823095 ],4500,0,False

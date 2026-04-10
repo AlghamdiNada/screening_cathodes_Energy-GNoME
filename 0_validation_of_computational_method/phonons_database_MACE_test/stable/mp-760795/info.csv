@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+760795,Al10O16Zn,27,[9.70320911 9.70320911 9.70320884],-195.87900943415448,5,[48.51604555 48.51604555 48.5160442 ],3375,0,False

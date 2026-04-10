@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8973,N6Na2Si4,12,[4.87350679 5.46567508 5.46567488],-86.5233254964928,5,[24.36753395 27.3283754  27.3283744 ],1500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+570876,Ga16Na4Nd4Se32,56,[15.14430967 12.50537918 12.48149581],-233.38876113871854,5,[75.72154835 62.5268959  62.40747905],7000,0,False

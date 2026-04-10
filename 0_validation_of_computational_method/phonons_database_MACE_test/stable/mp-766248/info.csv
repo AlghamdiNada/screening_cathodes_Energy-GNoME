@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+766248,Al22In2O34,58,[ 5.65614676  5.65614676 23.061733  ],-423.42659126957875,4,[22.62458704 22.62458704 92.246932  ],3712,3,True

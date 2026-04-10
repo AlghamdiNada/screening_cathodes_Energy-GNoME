@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+722890,H24Ir4Li12,40,[4.73026666 8.4483082  8.48957194],-157.67151882788363,4,[18.92106664 33.7932328  33.95828776],2560,22,True

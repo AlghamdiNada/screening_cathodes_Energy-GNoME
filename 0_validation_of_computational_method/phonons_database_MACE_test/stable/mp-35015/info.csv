@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+35015,Bi2Na2Se4,8,[7.45328103 7.45328103 7.45328103],-30.026362560701752,5,[37.26640515 37.26640515 37.26640515],1000,19,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+677078,AlCa11ClO18Si3,34,[10.59294899  8.7164138   8.68372008],-234.23287461663284,5,[52.96474495 43.582069   43.4186004 ],4250,0,False

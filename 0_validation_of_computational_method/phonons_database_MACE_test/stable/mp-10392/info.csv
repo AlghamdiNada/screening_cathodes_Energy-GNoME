@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+10392,Cd2O12Pt2Sr6,22,[6.87165181 6.87165181 6.87165132],-125.98259346604912,5,[34.35825905 34.35825905 34.3582566 ],2750,0,False

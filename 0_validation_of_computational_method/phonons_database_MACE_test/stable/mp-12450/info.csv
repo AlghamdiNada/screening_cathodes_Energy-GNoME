@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12450,Li2Nd4O12Os2,20,[5.850069   5.47632    9.49085247],-152.5577246481787,5,[29.250345   27.3816     47.45426235],2500,0,False

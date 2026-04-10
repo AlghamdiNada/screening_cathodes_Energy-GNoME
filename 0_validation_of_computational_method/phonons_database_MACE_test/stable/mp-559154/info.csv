@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559154,Bi4O22Ti8,34,[ 7.58566072  7.58566072 14.98301253],-272.4244272116709,5,[37.9283036  37.9283036  74.91506265],4250,2,True

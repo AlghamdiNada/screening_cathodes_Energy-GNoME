@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+568108,Br16In8,24,[ 7.99673514 10.39436981 10.51214458],-65.88910012736726,5,[39.9836757  51.97184905 52.5607229 ],3000,0,False

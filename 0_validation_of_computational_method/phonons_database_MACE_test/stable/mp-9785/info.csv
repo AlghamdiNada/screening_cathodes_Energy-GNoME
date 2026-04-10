@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9785,Ba2Ho4O10Pd2,18,[6.552544 6.552544 5.916395],-130.30718006792927,5,[32.76272  32.76272  29.581975],2250,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+15472,C2Ba4CuLiO10,18,[8.79005495 8.79005495 8.79005495],-118.86095770239716,5,[43.95027475 43.95027475 43.95027475],2250,0,False

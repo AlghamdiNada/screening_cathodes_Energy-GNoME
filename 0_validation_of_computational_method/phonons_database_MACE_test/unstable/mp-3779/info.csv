@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3779,Cr2Si2Te6,10,[8.25989701 8.25989776 8.25989744],-50.51746909506188,5,[41.29948505 41.2994888  41.2994872 ],1250,0,False

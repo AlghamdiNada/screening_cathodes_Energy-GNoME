@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28828,Cl8FeLi6,15,[7.29885519 7.29885519 7.29885519],-58.373074013502105,5,[36.49427595 36.49427595 36.49427595],1875,0,False

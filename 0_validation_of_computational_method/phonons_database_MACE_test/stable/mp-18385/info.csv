@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18385,Lu8O28Si8,44,[ 6.49300517  6.49300517 11.84644502],-360.50499006547795,4,[25.97202068 25.97202068 47.38578008],2816,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9200,AuK3O,5,[5.22438571 5.22438571 5.22438571],-15.063472238710126,5,[26.12192855 26.12192855 26.12192855],625,0,False

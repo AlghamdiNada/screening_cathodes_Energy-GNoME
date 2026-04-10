@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28734,Cl15CoZr6,22,[8.89217493 8.89219192 8.89218261],-122.28825428633304,5,[44.46087465 44.4609596  44.46091305],2750,0,False

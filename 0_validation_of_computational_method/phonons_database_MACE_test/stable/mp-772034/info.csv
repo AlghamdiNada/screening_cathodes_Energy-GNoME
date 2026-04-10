@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+772034,Ba12I36La4,52,[ 8.089429    8.691317   33.89918334],-185.32136721873064,5,[ 40.447145   43.456585  169.4959167],6500,0,False

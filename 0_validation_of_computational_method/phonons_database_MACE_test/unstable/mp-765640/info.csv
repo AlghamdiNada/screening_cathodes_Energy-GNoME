@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+765640,O47Sm3Ta17,67,[ 3.88085445 12.70448745 19.27065231],-644.5696352258288,4,[15.5234178  50.8179498  77.08260924],4288,12,True

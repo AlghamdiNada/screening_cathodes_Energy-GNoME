@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554641,Mg2O16Si4Sr6,28,[ 5.52594212  5.52594212 14.03528168],-197.26762623317657,5,[27.6297106 27.6297106 70.1764084],3500,0,False

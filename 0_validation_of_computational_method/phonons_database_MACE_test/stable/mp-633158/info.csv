@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+633158,H6FNaO6Te,15,[5.70912742 5.70912742 5.70912816],-74.71397500619369,5,[28.5456371 28.5456371 28.5456408],1875,0,False

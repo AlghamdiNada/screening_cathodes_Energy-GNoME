@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+697236,H4Mg2O12Se4,22,[ 5.326555    5.689381   10.80082567],-117.34992559559936,5,[26.632775   28.446905   54.00412835],2750,0,False

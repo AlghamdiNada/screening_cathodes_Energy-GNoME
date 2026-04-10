@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13374,La4O12Tm4,20,[5.85709  6.051442 8.468151],-167.74318776346934,5,[29.28545  30.25721  42.340755],2500,0,False

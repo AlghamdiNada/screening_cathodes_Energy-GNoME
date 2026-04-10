@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+676563,Cu4O22Ta8,34,[ 6.26721473  6.26721473 13.08020957],-298.91663121899177,5,[31.33607365 31.33607365 65.40104785],4250,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6853,Ca3Ga3O14Si2Ta,23,[8.21188163 8.21188163 5.026812  ],-167.4601882528608,5,[41.05940815 41.05940815 25.13406   ],2875,5,True

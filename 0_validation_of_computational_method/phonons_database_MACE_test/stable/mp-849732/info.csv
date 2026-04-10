@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+849732,LiO12SbTe3,17,[8.556363  4.906855  5.2370567],-93.03350423074208,5,[42.781815  24.534275  26.1852835],2125,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769077,Mg4O16Te6,26,[ 6.81827072  6.81827072 11.58384128],-146.02441473793934,5,[34.0913536 34.0913536 57.9192064],3250,0,False

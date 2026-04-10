@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+755141,Ho2Na2O4,8,[6.01099233 6.01099233 6.01099233],-54.02694972834607,5,[30.05496165 30.05496165 30.05496165],1000,0,False

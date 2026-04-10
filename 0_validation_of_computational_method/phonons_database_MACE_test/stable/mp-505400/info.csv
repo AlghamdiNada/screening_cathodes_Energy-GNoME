@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+505400,Ba2F20Zr4,26,[8.36889319 8.36889319 8.74717896],-172.68733407007764,5,[41.84446595 41.84446595 43.7358948 ],3250,0,False

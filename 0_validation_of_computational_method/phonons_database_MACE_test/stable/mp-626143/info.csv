@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+626143,H2MgO2,5,[3.1807896 3.1807896 4.8903211],-26.835925445776798,5,[15.903948  15.903948  24.4516055],625,0,False

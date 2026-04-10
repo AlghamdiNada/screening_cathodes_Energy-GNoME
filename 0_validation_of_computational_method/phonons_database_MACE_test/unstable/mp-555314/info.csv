@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555314,O21Si6Sr7Zr,35,[8.51788771 8.51788771 8.51788847],-263.1135085788446,5,[42.58943855 42.58943855 42.58944235],4375,10,True

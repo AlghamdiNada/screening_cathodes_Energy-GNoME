@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+756117,Li4O12Te2Ti2,20,[4.991119 5.138877 8.496212],-128.83805755933446,5,[24.955595 25.694385 42.48106 ],2500,0,False

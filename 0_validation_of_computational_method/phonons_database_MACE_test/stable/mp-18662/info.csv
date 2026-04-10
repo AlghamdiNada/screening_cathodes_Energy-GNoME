@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18662,Ho8O28Si8,44,[ 5.0175749   8.09082588 13.59636894],-360.0923682366845,4,[20.0702996  32.36330352 54.38547576],2816,0,False

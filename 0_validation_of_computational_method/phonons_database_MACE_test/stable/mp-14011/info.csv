@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-14011,Al8O72P24,104,[12.06083962 12.06083962 12.06083962],-760.654010711698,3,[36.18251886 36.18251886 36.18251886],2808,0,False

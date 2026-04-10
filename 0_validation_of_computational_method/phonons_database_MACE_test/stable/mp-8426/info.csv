@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8426,K2Se,3,[5.42486145 5.42486102 5.42486023],-8.913965956733986,5,[27.12430725 27.1243051  27.12430115],375,0,False

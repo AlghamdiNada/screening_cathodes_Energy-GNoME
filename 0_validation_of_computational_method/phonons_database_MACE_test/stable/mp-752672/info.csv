@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+752672,Dy4Na4O8,16,[8.2506404  8.2506404  6.01746572],-108.04728589016835,5,[41.253202  41.253202  30.0873286],2000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28353,Na24Te24,48,[ 9.16534196  9.91995065 15.93643261],-139.7996999983236,5,[45.8267098  49.59975325 79.68216305],6000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+614572,Ca12In4P12,28,[ 4.15225447 12.06461163 13.52466107],-124.6151607799882,5,[20.76127235 60.32305815 67.62330535],3500,0,False

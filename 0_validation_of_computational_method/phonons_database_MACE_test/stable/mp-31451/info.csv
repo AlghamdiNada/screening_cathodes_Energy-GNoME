@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+31451,BiCoZr,3,[4.3756376  4.37563773 4.37563775],-20.602611730306005,5,[21.878188   21.87818865 21.87818875],375,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+697331,H16Mg8Ni4,28,[7.78707425 7.78707425 6.41968976],-94.21846563646712,5,[38.93537125 38.93537125 32.0984488 ],3500,0,False

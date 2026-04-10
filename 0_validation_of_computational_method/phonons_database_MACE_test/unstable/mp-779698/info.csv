@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+779698,O40Te16Zn8,64,[ 8.810335  8.810335 12.931155],-328.4731944219369,4,[35.24134 35.24134 51.72462],4096,64,True

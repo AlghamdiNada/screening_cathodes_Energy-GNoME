@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16597,Er6K18O42Si12,78,[ 9.90896662  9.90896662 14.436153  ],-531.0593562510804,4,[39.63586648 39.63586648 57.744612  ],4992,0,False

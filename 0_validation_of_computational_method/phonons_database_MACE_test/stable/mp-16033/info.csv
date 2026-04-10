@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16033,O2Sm2Te,5,[4.00505994 4.00506038 6.9702353 ],-36.993056960849906,5,[20.0252997 20.0253019 34.8511765],625,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555918,Hg8O12Se4,24,[5.03493381 9.93756849 9.93756863],-87.75497545354233,5,[25.17466905 49.68784245 49.68784315],3000,0,False

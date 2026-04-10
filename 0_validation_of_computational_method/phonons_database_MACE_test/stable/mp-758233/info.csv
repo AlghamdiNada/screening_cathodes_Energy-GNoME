@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+758233,Nb18O50P2,70,[15.8684   15.8684    3.898103],-616.1567239126431,4,[63.4736   63.4736   15.592412],4480,5,True

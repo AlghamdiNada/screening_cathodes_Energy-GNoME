@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+34932,HCaN,3,[3.7793912  3.52808135 3.77938993],-15.807902808812576,5,[18.896956   17.64040675 18.89694965],375,60,True

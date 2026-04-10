@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556066,F2Li2O8Si2Sr4,18,[5.466433   6.638211   6.99738158],-118.57813947263166,5,[27.332165  33.191055  34.9869079],2250,1,True

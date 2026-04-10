@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4030,Pt3Rb2S4,9,[6.33368444 6.33368486 7.26034838],-42.83390209372122,5,[31.6684222 31.6684243 36.3017419],1125,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16613,Al2Au2O4,8,[ 2.89769013  2.89769012 12.21781225],-48.72885987538411,5,[14.48845065 14.4884506  61.08906125],1000,0,False

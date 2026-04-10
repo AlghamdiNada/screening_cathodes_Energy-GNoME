@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7193,Lu2O7Si2,11,[4.71275877 5.51752031 5.51752028],-90.3148226643769,5,[23.56379385 27.58760155 27.5876014 ],1375,0,False

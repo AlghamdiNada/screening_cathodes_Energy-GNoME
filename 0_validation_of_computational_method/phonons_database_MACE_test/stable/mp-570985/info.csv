@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+570985,C27Si27,54,[ 3.0765093   3.07650915 67.94943436],-405.11117654956155,4,[ 12.3060372   12.3060366  271.79773744],3456,0,False

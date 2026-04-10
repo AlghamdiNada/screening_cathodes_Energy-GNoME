@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+768766,O14Sb2Tb6,22,[6.48759437 6.48759437 7.544353  ],-170.18152673575383,5,[32.43797185 32.43797185 37.721765  ],2750,40,True

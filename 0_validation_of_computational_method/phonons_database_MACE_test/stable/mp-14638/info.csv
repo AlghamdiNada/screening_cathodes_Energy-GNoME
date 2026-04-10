@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14638,F12Ga2Li2Rb4,20,[10.27361345 10.27361345 10.27361381],-91.43954895837093,5,[51.36806725 51.36806725 51.36806905],2500,0,False

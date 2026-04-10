@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560228,K12O14Ti4,30,[ 9.389676   6.642968  11.4560431],-179.747497003092,5,[46.94838   33.21484   57.2802155],3750,0,False

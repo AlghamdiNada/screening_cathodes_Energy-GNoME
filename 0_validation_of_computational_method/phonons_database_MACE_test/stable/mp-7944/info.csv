@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7944,Na8Sb8,16,[ 6.34242564  6.78524533 11.13958056],-48.297192576043,5,[31.7121282  33.92622665 55.6979028 ],2000,0,False

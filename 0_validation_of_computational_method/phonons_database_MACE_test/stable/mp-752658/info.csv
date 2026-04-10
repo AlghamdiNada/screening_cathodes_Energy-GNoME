@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+752658,O2SeY2,5,[3.8306058  3.83059377 6.7994962 ],-41.87857994510193,5,[19.153029   19.15296885 33.997481  ],625,0,False

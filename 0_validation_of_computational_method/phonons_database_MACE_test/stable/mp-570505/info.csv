@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+570505,Al8Ca12N16,36,[5.78412618 9.53713232 9.55597235],-227.2597988880845,5,[28.9206309  47.6856616  47.77986175],4500,0,False

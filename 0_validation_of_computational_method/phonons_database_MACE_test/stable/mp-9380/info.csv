@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9380,Ge12O27Sr3,42,[11.38136906 11.38137122  4.77696274],-271.8508103331581,5,[56.9068453 56.9068561 23.8848137],5250,0,False

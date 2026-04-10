@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29594,B16La20N36,72,[ 7.719456  9.814284 12.658205],-603.0811864199009,4,[30.877824 39.257136 50.63282 ],4608,0,False

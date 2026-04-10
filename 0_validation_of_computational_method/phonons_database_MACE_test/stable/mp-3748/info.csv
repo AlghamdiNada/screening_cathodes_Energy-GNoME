@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3748,AlCuO2,4,[5.88135224 5.88135233 5.88135278],-25.62472771232013,5,[29.4067612  29.40676165 29.4067639 ],500,0,False

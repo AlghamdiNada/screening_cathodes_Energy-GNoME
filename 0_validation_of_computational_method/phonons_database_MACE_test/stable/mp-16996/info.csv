@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16996,Ga4Li12O20Si4,40,[ 4.905516  5.433221 15.74239 ],-249.25277645945255,4,[19.622064 21.732884 62.96956 ],2560,0,False

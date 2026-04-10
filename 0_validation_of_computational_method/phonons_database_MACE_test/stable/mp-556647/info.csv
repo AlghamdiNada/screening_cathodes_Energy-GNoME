@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556647,Ba10Cl2O30Re6,48,[11.12461371 11.12461371  7.937733  ],-357.507322593144,5,[55.62306855 55.62306855 39.688665  ],6000,0,False

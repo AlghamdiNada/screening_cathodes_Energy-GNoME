@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+984696,Hf3Te12Tl12,27,[9.82309151 9.82328478 9.82298534],-107.10570764067002,5,[49.11545755 49.1164239  49.1149267 ],3375,0,False

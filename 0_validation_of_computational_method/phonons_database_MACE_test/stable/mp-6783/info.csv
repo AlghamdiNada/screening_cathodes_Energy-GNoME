@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6783,Li6Na6O24S6,42,[7.76769011 7.76769011 9.958784  ],-241.16596384735388,4,[31.07076044 31.07076044 39.835136  ],2688,0,False

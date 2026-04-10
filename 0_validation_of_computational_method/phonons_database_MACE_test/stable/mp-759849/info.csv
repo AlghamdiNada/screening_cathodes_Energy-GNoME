@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+759849,Li4O32Ti12Zn6,54,[8.464165   8.462361   8.47282357],-406.8129383634657,4,[33.85666    33.849444   33.89129428],3456,0,False

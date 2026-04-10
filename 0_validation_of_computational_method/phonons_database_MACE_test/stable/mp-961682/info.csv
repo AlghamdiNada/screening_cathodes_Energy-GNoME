@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+961682,PdSnTi,3,[4.36678071 4.36677809 4.36678237],-18.51886720562314,5,[21.83390355 21.83389045 21.83391185],375,0,False

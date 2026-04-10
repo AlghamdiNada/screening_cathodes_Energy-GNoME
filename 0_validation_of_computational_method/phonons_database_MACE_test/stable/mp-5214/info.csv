@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5214,O32Te12Ti4,48,[9.53573741 9.53564435 9.53570518],-300.1304672313961,5,[47.67868705 47.67822175 47.6785259 ],6000,0,False

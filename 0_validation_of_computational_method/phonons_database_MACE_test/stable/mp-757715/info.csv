@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+757715,Bi12O24Tb4,40,[9.60853627 9.60853627 9.60853627],-254.51480850509384,5,[48.04268135 48.04268135 48.04268135],5000,10,True

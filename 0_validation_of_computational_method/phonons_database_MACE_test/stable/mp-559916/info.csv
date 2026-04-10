@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559916,Al5Na17O16,38,[16.64815031 16.64815031  5.93814288],-195.53933808419177,5,[83.24075155 83.24075155 29.6907144 ],4750,0,False

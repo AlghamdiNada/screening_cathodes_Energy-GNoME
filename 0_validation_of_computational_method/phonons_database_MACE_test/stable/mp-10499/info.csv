@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+10499,Li4O48P12Zr8,72,[ 8.83884391  8.94681054 12.37464507],-575.6050187186349,4,[35.35537564 35.78724216 49.49858028],4608,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23331,Bi8O24Si6,38,[8.89223981 8.89228619 8.89227072],-258.84776742114144,5,[44.46119905 44.46143095 44.4613536 ],4750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13384,Ag2Er2P4Se12,20,[ 6.65356498  6.65356498 15.231708  ],-89.01007127347302,5,[33.2678249 33.2678249 76.15854  ],2500,0,False

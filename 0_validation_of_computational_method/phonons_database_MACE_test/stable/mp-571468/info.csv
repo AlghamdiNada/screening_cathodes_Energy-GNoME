@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+571468,Cu2Ho6Se14Si2,24,[10.30603464 10.30603464  6.033409  ],-125.32732001126352,5,[51.5301732 51.5301732 30.167045 ],3000,0,False

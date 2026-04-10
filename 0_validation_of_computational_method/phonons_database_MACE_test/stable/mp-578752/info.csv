@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+578752,In2Sb18Sr22,42,[12.68983991 12.68981836 12.68982944],-156.30715920547232,5,[63.44919955 63.4490918  63.4491472 ],5250,0,False

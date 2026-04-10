@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14963,Nb2O14Pr6,22,[6.70116877 6.70116877 7.74940451],-187.51433567123763,5,[33.50584385 33.50584385 38.74702255],2750,44,True

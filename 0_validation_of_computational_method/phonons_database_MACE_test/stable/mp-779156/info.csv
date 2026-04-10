@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+779156,Cd4O16Se4,24,[5.04132043 7.33486766 9.55532582],-116.59228937600216,5,[25.20660215 36.6743383  47.7766291 ],3000,0,False

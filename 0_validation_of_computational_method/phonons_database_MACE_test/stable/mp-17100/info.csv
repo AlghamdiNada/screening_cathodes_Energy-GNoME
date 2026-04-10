@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17100,In8O28P8,44,[10.49427772  7.5325952   8.4832724 ],-287.5134525849146,5,[52.4713886 37.662976  42.416362 ],5500,1,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28688,Hg3O6Sr3,12,[ 3.84402602  3.84402457 19.1433961 ],-55.34797083252219,5,[19.2201301  19.22012285 95.7169805 ],1500,0,False

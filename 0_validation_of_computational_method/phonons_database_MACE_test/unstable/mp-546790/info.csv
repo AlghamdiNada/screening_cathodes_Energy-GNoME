@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+546790,Cu2La2O2Te2,8,[4.182825 4.182825 9.38487 ],-48.6530028966283,5,[20.914125 20.914125 46.92435 ],1000,0,False

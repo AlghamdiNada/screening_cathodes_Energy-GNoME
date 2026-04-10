@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13755,Ba4Na4O36P12,56,[ 5.90072  11.277446 12.48901 ],-392.25896066464236,4,[23.60288  45.109784 49.95604 ],3584,0,False

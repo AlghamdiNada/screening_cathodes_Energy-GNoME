@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769144,Ge12O36Sn12,60,[ 7.15438283 11.74797256 13.32631948],-367.65595676841633,4,[28.61753132 46.99189024 53.30527792],3840,28,True

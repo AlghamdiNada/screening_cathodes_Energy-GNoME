@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560297,Li4O20Si4Ta4,32,[7.88454521 7.44971708 7.4726029 ],-263.8447588550604,5,[39.42272605 37.2485854  37.3630145 ],4000,0,False

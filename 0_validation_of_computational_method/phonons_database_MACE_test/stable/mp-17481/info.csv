@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17481,Mg8O18Ta4,30,[ 5.15875743  5.15875758 14.02729245],-233.21260798707257,5,[25.79378715 25.7937879  70.13646225],3750,0,False

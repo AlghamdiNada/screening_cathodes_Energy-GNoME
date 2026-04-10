@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13326,Lu2Pr2Se6,10,[4.0329571 6.8518537 9.9481706],-58.176033621376845,5,[20.1647855 34.2592685 49.740853 ],1250,0,False

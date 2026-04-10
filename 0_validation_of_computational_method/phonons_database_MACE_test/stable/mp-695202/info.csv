@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+695202,Al9CuMg4O36Si9,59,[9.479709   9.832207   9.88382226],-436.7129198242245,4,[37.918836   39.328828   39.53528904],3776,0,False

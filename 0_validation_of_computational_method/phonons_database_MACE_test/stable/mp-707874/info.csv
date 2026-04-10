@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+707874,H34Ba14Cu6,54,[11.81455285 11.81459862  7.50843461],-185.33080227207364,5,[59.07276425 59.0729931  37.54217305],6750,0,False

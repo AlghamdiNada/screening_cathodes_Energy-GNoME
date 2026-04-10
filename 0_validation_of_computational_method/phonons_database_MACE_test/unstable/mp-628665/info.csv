@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+628665,Al4Bi4Cl16Te4,28,[10.65820414 10.65820414 10.65820414],-103.95017039565755,5,[53.2910207 53.2910207 53.2910207],3500,0,False

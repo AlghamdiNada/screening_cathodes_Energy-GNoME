@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6526,Ge2Na2O10Sb2,16,[5.57344316 5.57344319 7.23887406],-95.50128220584565,5,[27.8672158  27.86721595 36.1943703 ],2000,0,False

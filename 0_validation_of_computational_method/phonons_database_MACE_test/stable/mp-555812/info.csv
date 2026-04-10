@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555812,Bi2Na2O12Sr6,22,[7.04864181 7.04864181 7.04864196],-126.40398401106717,5,[35.24320905 35.24320905 35.2432098 ],2750,0,False

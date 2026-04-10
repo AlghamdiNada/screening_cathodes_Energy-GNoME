@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+561022,F48Mg12Sr12,72,[17.113055    7.641522    7.90727813],-391.82978816895894,4,[68.45222    30.566088   31.62911252],4608,0,False

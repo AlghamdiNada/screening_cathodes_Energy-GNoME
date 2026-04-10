@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17569,F28Pt4Sm4,36,[ 5.50685401  8.97506548 12.06329613],-186.66505362848227,5,[27.53427005 44.8753274  60.31648065],4500,0,False

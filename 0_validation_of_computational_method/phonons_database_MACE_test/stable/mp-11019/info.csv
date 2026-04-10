@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+11019,Cu2Ga2O4,8,[ 2.97185305  2.971854   11.44881994],-43.4780424754436,5,[14.85926525 14.85927    57.2440997 ],1000,0,False

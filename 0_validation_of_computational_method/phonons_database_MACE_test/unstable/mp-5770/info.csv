@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5770,AgNO2,4,[4.51349884 4.51349884 4.51349884],-21.294001013127257,5,[22.5674942 22.5674942 22.5674942],500,38,True

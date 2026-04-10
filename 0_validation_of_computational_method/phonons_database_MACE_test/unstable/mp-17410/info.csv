@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17410,Cs4Er12Se20,36,[ 4.10020931 12.3355918  21.99361423],-193.40423615954103,5,[ 20.50104655  61.677959   109.96807115],4500,0,False

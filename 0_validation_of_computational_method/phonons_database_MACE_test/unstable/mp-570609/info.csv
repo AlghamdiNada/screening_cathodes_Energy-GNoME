@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+570609,Cl16Ga4Tl4,24,[ 7.06277352  9.44867498 10.72039944],-77.26611063670897,5,[35.3138676 47.2433749 53.6019972],3000,0,False

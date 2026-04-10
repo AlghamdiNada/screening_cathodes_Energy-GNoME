@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29738,ClO3Tl,5,[4.57492833 4.57492765 4.57492833],-20.41431800933971,5,[22.87464165 22.87463825 22.87464165],625,0,False

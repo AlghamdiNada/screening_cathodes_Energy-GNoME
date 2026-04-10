@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558102,K2Li2O10Si4,18,[4.874509   6.0847     8.30369295],-123.94239085695332,5,[24.372545   30.4235     41.51846475],2250,0,False

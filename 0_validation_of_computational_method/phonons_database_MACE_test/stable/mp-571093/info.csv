@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+571093,HAlBaSi,4,[4.33422752 4.33422752 5.262552  ],-16.091113508860648,5,[21.6711376 21.6711376 26.31276  ],500,0,False

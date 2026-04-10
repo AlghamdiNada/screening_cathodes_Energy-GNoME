@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+760400,BiNa5O5,11,[4.51313103 5.87045539 6.49639157],-50.17423476871203,5,[22.56565515 29.35227695 32.48195785],1375,0,False

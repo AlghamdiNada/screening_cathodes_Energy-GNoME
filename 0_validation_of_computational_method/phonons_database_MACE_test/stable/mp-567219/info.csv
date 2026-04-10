@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+567219,Ca3Li4N6Si2,15,[5.67935697 5.67935697 5.99877452],-89.08603532245894,5,[28.39678485 28.39678485 29.9938726 ],1875,0,False

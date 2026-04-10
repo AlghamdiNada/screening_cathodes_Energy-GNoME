@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6198,Ga8O32Si8Sr4,52,[8.50534085 9.33035852 9.3303574 ],-363.23959671334865,4,[34.0213634  37.32143408 37.3214296 ],3328,0,False

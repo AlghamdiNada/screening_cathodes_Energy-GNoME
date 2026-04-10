@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754154,Cs2Ho2O4,8,[ 3.5114697   3.51146802 13.65628753],-51.68936190815681,5,[17.5573485  17.5573401  68.28143765],1000,0,False

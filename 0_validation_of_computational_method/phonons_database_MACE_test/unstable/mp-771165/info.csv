@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+771165,Dy8O20Ti4,32,[ 3.635513  7.458122 15.566065],-275.87208262963685,5,[18.177565 37.29061  77.830325],4000,0,False

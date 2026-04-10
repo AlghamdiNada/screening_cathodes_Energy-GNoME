@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557516,Be4K4O22Si6Zn4,40,[9.645792 9.645792 9.645792],-262.2012959754614,5,[48.22896 48.22896 48.22896],5000,0,False

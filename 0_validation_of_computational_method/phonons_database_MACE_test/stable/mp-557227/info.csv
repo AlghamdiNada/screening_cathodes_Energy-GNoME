@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-557227,Ca12FKO26S2Si4,46,[14.49748214 14.49748214 14.49748292],-315.09183774318524,3,[43.49244642 43.49244642 43.49244876],1242,0,False

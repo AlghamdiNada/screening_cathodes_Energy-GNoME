@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7911,Cu4K4O4,12,[5.48476629 7.0912351  7.09123604],-50.91967622633644,5,[27.42383145 35.4561755  35.4561802 ],1500,0,False

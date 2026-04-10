@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+561443,Ba3P2S8,13,[6.6996984  6.69969859 8.75186042],-65.5953805256172,5,[33.498492   33.49849295 43.7593021 ],1625,11,True

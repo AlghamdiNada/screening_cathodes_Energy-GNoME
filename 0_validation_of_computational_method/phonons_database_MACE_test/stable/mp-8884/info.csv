@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8884,Te2Zn2,4,[4.30804018 4.30803886 7.1086741 ],-10.275860794574882,5,[21.5402009 21.5401943 35.5433705],500,0,False

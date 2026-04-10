@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28392,Al8Sb24Sr20,52,[10.42027424 12.21689202 13.51607695],-202.21937340093817,5,[52.1013712  61.0844601  67.58038475],6500,0,False

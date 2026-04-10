@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29357,C2Cl28Zr12,42,[ 9.53949996  9.53949996 11.5518648 ],-245.81937914649387,5,[47.6974998 47.6974998 57.759324 ],5250,0,False

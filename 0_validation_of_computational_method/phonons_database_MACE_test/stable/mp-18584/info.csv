@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18584,Ho8O16Se4Si4,32,[ 6.042021  6.950926 10.821426],-246.81075948162308,5,[30.210105 34.75463  54.10713 ],4000,0,False

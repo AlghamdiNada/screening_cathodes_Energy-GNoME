@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+676456,Al5La2O24Sr6Ta3,40,[18.33394309 18.33394309 18.33394375],-317.10675985273133,5,[91.66971545 91.66971545 91.66971875],5000,11,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+989520,BiCl6NaRb2,10,[7.74426599 7.74426599 7.74426599],-33.810360061536045,5,[38.72132995 38.72132995 38.72132995],1250,31,True

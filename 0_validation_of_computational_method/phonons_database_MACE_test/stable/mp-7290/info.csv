@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7290,Er6Ga2S12,20,[6.38823605 8.43151277 8.43151251],-116.65873774778146,5,[31.94118025 42.15756385 42.15756255],2500,0,False

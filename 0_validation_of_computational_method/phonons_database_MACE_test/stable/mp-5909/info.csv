@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5909,Ge6O24Zn12,42,[8.83137532 8.83137533 8.83137513],-224.63982227703798,5,[44.1568766  44.15687665 44.15687565],5250,0,False

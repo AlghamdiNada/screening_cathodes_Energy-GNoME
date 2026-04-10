@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769246,O36Sr16Ta8,60,[ 5.811993   10.228956   17.90492959],-479.2557510267584,4,[23.247972   40.915824   71.61971836],3840,0,False

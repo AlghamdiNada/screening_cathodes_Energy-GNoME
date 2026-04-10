@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+758096,F12O4Sb4,20,[9.31185  9.31185  3.775778],-96.28982270483006,5,[46.55925 46.55925 18.87889],2500,26,True

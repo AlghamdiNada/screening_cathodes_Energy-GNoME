@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-667379,Al64Ba7O103,174,[ 9.80636234  9.80636234 23.177009  ],-1290.4730132573636,3,[29.41908702 29.41908702 69.531027  ],4698,0,False

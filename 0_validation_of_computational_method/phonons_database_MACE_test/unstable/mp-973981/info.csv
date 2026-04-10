@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+973981,Br2Lu2O2,6,[3.72589343 3.72589343 8.74631276],-39.69665495271622,5,[18.62946715 18.62946715 43.7315638 ],750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+643061,H14Mg6Re2,22,[ 4.82451597  4.82452713 10.54654164],-85.83986807237079,5,[24.12257985 24.12263565 52.7327082 ],2750,44,True

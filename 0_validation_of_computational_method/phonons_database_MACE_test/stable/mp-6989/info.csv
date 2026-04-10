@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6989,Ba2O6Se2,10,[4.72731693 5.68404761 6.88163359],-59.43772930300576,5,[23.63658465 28.42023805 34.40816795],1250,0,False

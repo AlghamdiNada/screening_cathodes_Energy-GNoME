@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+541600,LaO7RbTa2,11,[ 3.910394  3.910394 11.314458],-96.35456143113512,5,[19.55197 19.55197 56.57229],1375,39,True

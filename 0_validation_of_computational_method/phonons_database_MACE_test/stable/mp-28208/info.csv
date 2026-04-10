@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28208,Cl12Fe2Zr2,16,[ 6.36425208  6.36425208 13.339216  ],-78.11720230636206,5,[31.8212604 31.8212604 66.69608  ],2000,0,False

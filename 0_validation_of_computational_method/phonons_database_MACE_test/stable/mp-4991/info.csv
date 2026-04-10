@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4991,O14Sn4Tb4,22,[7.36966564 7.36966564 7.36966564],-159.5387857851053,5,[36.8483282 36.8483282 36.8483282],2750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23376,Br14Ga2Se2,18,[ 6.58025353  6.71946614 14.89823672],-44.1591043967907,5,[32.90126765 33.5973307  74.4911836 ],2250,0,False

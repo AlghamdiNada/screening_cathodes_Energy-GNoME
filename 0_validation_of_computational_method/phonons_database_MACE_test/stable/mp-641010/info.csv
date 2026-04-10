@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+641010,La16N8Te12,36,[ 7.51634334 11.69897623 11.87870996],-241.58383955487892,5,[37.5817167  58.49488115 59.3935498 ],4500,0,False

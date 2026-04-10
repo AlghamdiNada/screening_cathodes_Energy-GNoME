@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+24148,HLa2LiO3,7,[3.581696   3.798394   6.97237655],-47.778311564321896,5,[17.90848    18.99197    34.86188275],875,0,False

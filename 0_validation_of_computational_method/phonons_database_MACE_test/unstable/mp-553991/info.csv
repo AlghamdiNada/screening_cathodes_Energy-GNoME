@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+553991,Ga4O8Ti,13,[3.02988811 6.31835397 8.04047977],-86.32426181214008,5,[15.14944055 31.59176985 40.20239885],1625,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23486,Cl6Ni2Rb2,10,[6.97274846 6.97274707 5.88951826],-35.482846733524305,5,[34.8637423  34.86373535 29.4475913 ],1250,0,False

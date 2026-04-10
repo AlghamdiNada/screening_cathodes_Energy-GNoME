@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769380,Li2O24P6Sn3Ti,36,[8.86718566 8.86718566 8.8671851 ],-253.07437446231586,5,[44.3359283 44.3359283 44.3359255],4500,2,True

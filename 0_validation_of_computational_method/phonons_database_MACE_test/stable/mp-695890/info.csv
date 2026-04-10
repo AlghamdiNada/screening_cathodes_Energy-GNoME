@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-695890,H8Mg20O36Si6,70,[ 5.163712  8.828419 14.134205],-441.35558198484057,3,[15.491136 26.485257 42.402615],1890,0,False

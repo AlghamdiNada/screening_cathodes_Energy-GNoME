@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-24802,H4Al12O52Si12Sr8,88,[ 5.667888 10.368623 16.538738],-646.1236717778962,3,[17.003664 31.105869 49.616214],2376,0,False

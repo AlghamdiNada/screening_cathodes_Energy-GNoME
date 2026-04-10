@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+552934,Ba2BrCuO2,6,[ 4.34457486  4.34457486 10.18105258],-31.325783840711324,5,[21.7228743 21.7228743 50.9052629],750,0,False

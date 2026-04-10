@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7908,Al2Te4Zn,7,[6.03266166 6.03266135 7.32329335],-24.328209578837544,5,[30.1633083  30.16330675 36.61646675],875,0,False

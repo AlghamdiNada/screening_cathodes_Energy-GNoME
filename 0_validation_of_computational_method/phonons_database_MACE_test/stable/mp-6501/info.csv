@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6501,Ba4Ho8O20Zn4,36,[ 5.741873  7.122838 12.400116],-251.10187822520095,5,[28.709365 35.61419  62.00058 ],4500,0,False

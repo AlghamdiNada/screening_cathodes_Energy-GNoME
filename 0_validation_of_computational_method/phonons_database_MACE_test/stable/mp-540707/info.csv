@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+540707,Cs4Ge6O18Sn2,30,[ 7.40594654  7.40594654 10.627952  ],-179.60110246540606,5,[37.0297327 37.0297327 53.13976  ],3750,0,False

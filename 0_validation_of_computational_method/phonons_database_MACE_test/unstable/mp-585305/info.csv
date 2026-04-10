@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-585305,Bi6Li18O58P16,98,[10.32719369 10.32719369 14.163639  ],-643.843499545595,3,[30.98158107 30.98158107 42.490917  ],2646,94,True

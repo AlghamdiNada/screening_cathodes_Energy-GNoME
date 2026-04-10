@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+866141,Fe2SiTi,4,[3.99296333 3.99296333 3.99296333],-32.67194941460393,5,[19.96481665 19.96481665 19.96481665],500,0,False

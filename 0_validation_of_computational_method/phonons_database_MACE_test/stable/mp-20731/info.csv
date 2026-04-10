@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+20731,HgIn2Se4,7,[5.93791869 5.93791959 7.20103987],-22.420508118483866,5,[29.68959345 29.68959795 36.00519935],875,0,False

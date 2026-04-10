@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+753173,Ho2I2O2,6,[3.9071804  3.9071804  9.40566742],-38.34914796478534,5,[19.535902  19.535902  47.0283371],750,0,False

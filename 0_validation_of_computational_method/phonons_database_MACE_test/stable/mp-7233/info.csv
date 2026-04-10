@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7233,La2O2Se,5,[4.08729761 4.08729806 7.16384495],-38.781158771310146,5,[20.43648805 20.4364903  35.81922475],625,0,False

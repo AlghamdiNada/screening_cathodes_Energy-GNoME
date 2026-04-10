@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+31075,Br8Hg12Se8,28,[10.15708414 10.15708414  9.92954071],-52.87708515655407,5,[50.7854207  50.7854207  49.64770355],3500,0,False

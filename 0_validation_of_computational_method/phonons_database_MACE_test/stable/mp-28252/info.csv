@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28252,Ba20Ga8S32,60,[12.93405243 12.93405243 12.029547  ],-292.81654796245687,5,[64.67026215 64.67026215 60.147735  ],7500,0,False

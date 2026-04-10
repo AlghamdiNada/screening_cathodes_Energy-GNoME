@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29364,Li5O5Sb,11,[4.00344892 5.22401996 5.7823088 ],-59.07326183363016,5,[20.0172446 26.1200998 28.911544 ],1375,9,True

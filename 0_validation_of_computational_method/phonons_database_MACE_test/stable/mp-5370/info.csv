@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5370,Er2Nb2O8,12,[5.09006869 5.25383668 6.49522247],-106.11219106698769,5,[25.45034345 26.2691834  32.47611235],1500,0,False

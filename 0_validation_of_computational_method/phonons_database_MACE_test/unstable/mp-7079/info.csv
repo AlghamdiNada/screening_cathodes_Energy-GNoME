@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7079,CaO7Si2Zr,11,[5.59458406 5.59458406 4.74677746],-89.90858504240407,5,[27.9729203 27.9729203 23.7338873],1375,0,False

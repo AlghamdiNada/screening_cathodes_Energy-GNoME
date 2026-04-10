@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+770379,Ge4O20Tm8,32,[ 3.62622659 10.09695298 10.91803331],-247.29718603298758,5,[18.13113295 50.4847649  54.59016655],4000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+767214,C2Al2Li4O14P2,24,[6.191535   5.019407   8.36991026],-167.64555192101574,5,[30.957675  25.097035  41.8495513],3000,2,True

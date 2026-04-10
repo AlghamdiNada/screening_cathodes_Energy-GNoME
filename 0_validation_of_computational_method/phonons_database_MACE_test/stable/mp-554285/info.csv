@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-554285,Cl3F12Na45O60S15,135,[12.32685838 12.32685851 14.15477481],-712.8691958972985,3,[36.98057514 36.98057553 42.46432443],3645,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9107,Cu2Na2S6Zr2,12,[6.81193218 6.81193218 9.80788   ],-66.47407219057514,5,[34.0596609 34.0596609 49.0394   ],1500,0,False

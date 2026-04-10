@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+569806,K10Na2Se54Ti12,78,[13.62490538 13.62490538 14.060204  ],-360.4344448881269,5,[68.1245269 68.1245269 70.30102  ],9750,0,False

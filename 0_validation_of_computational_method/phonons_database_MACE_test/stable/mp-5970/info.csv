@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5970,Ba4Cu8S8,20,[ 4.03982642  9.24482989 10.3892751 ],-88.90688910525117,5,[20.1991321  46.22414945 51.9463755 ],2500,0,False

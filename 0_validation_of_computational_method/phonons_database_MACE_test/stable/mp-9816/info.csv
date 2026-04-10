@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9816,F4Ge,5,[4.6003263  4.60032581 4.60032803],-23.184269006961653,5,[23.0016315  23.00162905 23.00164015],625,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+696275,H8Cl6N2Sn,17,[7.16782709 7.16782709 7.16782709],-70.87756723924441,5,[35.83913545 35.83913545 35.83913545],2125,122,True

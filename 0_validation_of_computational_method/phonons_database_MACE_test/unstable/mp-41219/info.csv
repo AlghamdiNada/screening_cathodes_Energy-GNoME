@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+41219,BaLiO6PrTe,10,[5.70468154 5.70468154 5.70468154],-63.24519965619419,5,[28.5234077 28.5234077 28.5234077],1250,107,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+776125,Cu2O24P6SnTi3,36,[8.70600199 8.70600199 8.70600126],-266.0796494374918,5,[43.53000995 43.53000995 43.5300063 ],4500,64,True

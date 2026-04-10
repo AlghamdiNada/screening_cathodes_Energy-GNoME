@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6980,CuS2Sc,4,[3.73793898 3.73793907 5.99504719],-23.368681256156513,5,[18.6896949  18.68969535 29.97523595],500,0,False

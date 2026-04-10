@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28879,Ca5P8,13,[6.88201073 6.88201321 7.49592424],-63.93438023889076,5,[34.41005365 34.41006605 37.4796212 ],1625,0,False

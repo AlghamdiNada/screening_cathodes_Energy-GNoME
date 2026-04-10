@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3612,Nb4O16Sb4,24,[ 5.01633864  5.60810958 11.91305374],-185.35526879125345,5,[25.0816932 28.0405479 59.5652687],3000,7,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+571061,Cl12Nb12Se40,64,[19.24395548  7.5523247  12.18918395],-327.94450438106406,5,[96.2197774  37.7616235  60.94591975],8000,0,False

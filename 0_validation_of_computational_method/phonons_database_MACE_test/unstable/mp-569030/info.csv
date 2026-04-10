@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+569030,Be9Cl18,27,[11.4618706  11.46187026  8.33424014],-105.13824203015,5,[57.309353  57.3093513 41.6712007],3375,0,False

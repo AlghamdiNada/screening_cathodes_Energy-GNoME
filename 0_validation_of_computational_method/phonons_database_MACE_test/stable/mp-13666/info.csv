@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13666,P4S12Ti2,18,[ 6.86344461  6.86344519 11.30646377],-96.87521564075408,5,[34.31722305 34.31722595 56.53231885],2250,0,False

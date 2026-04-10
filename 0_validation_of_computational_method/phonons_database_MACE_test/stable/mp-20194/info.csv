@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+20194,CeO2,3,[3.86607151 3.86607158 3.866071  ],-26.179911402207097,5,[19.33035755 19.3303579  19.330355  ],375,4,True

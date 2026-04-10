@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556020,Al4F24Li12,40,[4.83263011 8.15155685 9.39960853],-209.84044238650702,4,[19.33052044 32.6062274  37.59843412],2560,0,False

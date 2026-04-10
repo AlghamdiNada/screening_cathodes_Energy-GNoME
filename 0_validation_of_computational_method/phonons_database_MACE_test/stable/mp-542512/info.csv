@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+542512,Na2O12Pr4Ru2,20,[6.002272   5.583877   9.72230425],-145.84806743598023,5,[30.01136    27.919385   48.61152125],2500,0,False

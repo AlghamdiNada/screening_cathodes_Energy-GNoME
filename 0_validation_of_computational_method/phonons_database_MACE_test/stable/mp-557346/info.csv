@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557346,S18Zn18,36,[ 3.80705855  3.80705815 56.06641709],-123.10197315299268,5,[ 19.03529275  19.03529075 280.33208545],4500,0,False

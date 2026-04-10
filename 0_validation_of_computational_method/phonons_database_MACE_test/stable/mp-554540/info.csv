@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554540,Li15O18Re3,36,[ 5.0134931   5.01333458 14.06395081],-225.73729657071578,4,[20.0539724  20.05333832 56.25580324],2304,0,False

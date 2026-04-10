@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6224,Li4O16Sc4Si4,28,[ 4.864246  6.032788 10.529915],-216.93282864229002,5,[24.32123  30.16394  52.649575],3500,0,False

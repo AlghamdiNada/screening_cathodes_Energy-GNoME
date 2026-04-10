@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23614,Bi4Nb4O18Sr2,28,[13.01244535 13.01244535  5.688484  ],-210.79264471637447,5,[65.06222675 65.06222675 28.44242   ],3500,0,False

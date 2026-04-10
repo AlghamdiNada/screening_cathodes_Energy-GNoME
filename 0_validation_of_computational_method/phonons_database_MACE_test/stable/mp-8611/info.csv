@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8611,CeLi8O6,15,[6.2368963  6.23689661 6.23689606],-83.36643994581269,5,[31.1844815  31.18448305 31.1844803 ],1875,0,False

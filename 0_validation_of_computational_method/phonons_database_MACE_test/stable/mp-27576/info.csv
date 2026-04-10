@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27576,Ge6O30Sc12,48,[ 7.58823112  7.58823112 10.67364427],-387.9069522565133,4,[30.35292448 30.35292448 42.69457708],3072,0,False

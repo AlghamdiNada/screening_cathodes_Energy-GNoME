@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+561189,O23Rb6Si10,39,[9.55290474 9.55290545 8.21590986],-275.5912457580514,5,[47.7645237  47.76452725 41.0795493 ],4875,0,False

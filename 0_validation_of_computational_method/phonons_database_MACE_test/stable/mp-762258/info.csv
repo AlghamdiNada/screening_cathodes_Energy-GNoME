@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+762258,Na4O18Sn8,30,[ 5.50371971  5.50371971 14.746117  ],-173.67161626660828,5,[27.51859855 27.51859855 73.730585  ],3750,0,False

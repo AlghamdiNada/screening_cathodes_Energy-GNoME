@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-766572,H32Mg6O32P4,74,[14.1204954  14.1204954  10.00757931],-416.21165652290955,3,[42.3614862  42.3614862  30.02273793],1998,4,True

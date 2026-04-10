@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9478,Ba2O18Si8,28,[6.57940983 6.57940983 9.469988  ],-216.20968936287494,5,[32.89704915 32.89704915 47.34994   ],3500,0,False

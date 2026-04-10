@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559612,K4Li4O4,12,[5.33938396 5.33938396 6.396734  ],-48.73520124234856,5,[26.6969198 26.6969198 31.98367  ],1500,0,False

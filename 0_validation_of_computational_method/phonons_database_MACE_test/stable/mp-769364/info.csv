@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769364,Bi6Dy2O12,20,[7.00729643 7.00729643 7.0072963 ],-127.28440737510643,5,[35.03648215 35.03648215 35.0364815 ],2500,13,True

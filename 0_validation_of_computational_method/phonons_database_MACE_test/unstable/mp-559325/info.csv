@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559325,Al4Ba14O38Sc12,68,[ 5.85715523  5.85715523 35.674517  ],-517.3488705013847,4,[ 23.42862092  23.42862092 142.698068  ],4352,94,True

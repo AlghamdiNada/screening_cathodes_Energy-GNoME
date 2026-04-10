@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+2798,P12Si12,24,[ 3.52225672 10.41056083 14.41213395],-133.05380101267247,5,[17.6112836  52.05280415 72.06066975],3000,0,False

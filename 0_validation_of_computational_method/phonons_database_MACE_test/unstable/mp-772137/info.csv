@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+772137,Er12O42Sb12,66,[ 7.51709145  7.51709145 18.425242  ],-471.0367216681009,4,[30.0683658 30.0683658 73.700968 ],4224,0,False

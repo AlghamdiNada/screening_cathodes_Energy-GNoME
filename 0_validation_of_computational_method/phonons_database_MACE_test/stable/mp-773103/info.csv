@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+773103,Er2O38Ta14,54,[ 6.25786743  6.25786743 20.067074  ],-520.4674836588079,4,[25.03146972 25.03146972 80.268296  ],3456,4,True

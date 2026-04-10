@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557456,Al6Ge6I2Li8O24,46,[8.71841577 8.71841577 8.71841577],-289.6241846526797,5,[43.59207885 43.59207885 43.59207885],5750,0,False

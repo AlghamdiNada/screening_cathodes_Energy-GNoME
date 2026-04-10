@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29102,Cl32Hg24Te8,64,[11.75653193 12.38052312 12.85802962],-120.75688829914706,5,[58.78265965 61.9026156  64.2901481 ],8000,0,False

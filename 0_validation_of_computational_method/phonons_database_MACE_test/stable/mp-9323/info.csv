@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9323,S12Tb8,20,[ 3.88129174 10.50307627 10.66409669],-127.6565207404405,5,[19.4064587  52.51538135 53.32048345],2500,0,False

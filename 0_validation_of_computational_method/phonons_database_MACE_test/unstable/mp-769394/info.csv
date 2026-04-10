@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769394,Ba8O18Ta4,30,[ 6.26482646  6.26482646 15.931202  ],-237.22170694807005,5,[31.3241323 31.3241323 79.65601  ],3750,4,True

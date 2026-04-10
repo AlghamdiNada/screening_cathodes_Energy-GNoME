@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+756639,F15Li6Nb3O3,27,[ 5.03347816  5.03347816 13.954684  ],-162.75620585496043,5,[25.1673908 25.1673908 69.77342  ],3375,0,False

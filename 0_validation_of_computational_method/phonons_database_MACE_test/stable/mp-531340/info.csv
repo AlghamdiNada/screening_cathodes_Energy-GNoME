@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-531340,Al28Mg14O56,98,[ 5.78452937  5.78452937 33.17801425],-692.2801952854959,3,[17.35358811 17.35358811 99.53404275],2646,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+971837,Cd2Te4Zn2,8,[6.35754539 6.35754539 7.72835442],-19.769591996804643,5,[31.78772695 31.78772695 38.6417721 ],1000,0,False

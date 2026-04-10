@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7657,K6Si2Te6,14,[8.41251753 8.41251866 8.9075435 ],-47.27367721978413,5,[42.06258765 42.0625933  44.5377175 ],1750,0,False

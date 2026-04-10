@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560399,F3MgNa,5,[3.950839 3.950839 3.950839],-24.217678564093298,5,[19.754195 19.754195 19.754195],625,62,True

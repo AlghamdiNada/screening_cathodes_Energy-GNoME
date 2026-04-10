@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3107,Ga3O7P,11,[5.09145712 5.09145712 5.09145715],-70.40993266428043,5,[25.4572856  25.4572856  25.45728575],1375,0,False

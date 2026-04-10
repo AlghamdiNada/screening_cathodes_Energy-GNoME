@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-604909,C8H16Ca32O88Si16,160,[23.630185    7.642999   11.65566864],-1121.5630096927816,3,[70.890555   22.928997   34.96700592],4320,0,False

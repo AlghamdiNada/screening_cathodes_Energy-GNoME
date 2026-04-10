@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+34038,Cl3Li6N,10,[ 3.73953145  3.73953145 13.52890731],-37.621125886268246,5,[18.69765725 18.69765725 67.64453655],1250,0,False

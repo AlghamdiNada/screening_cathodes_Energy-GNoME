@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Na2ZnBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73163069
+_cell_length_b   8.49460869
+_cell_length_c   14.41521580
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ZnBr4
+_chemical_formula_sum   'Na8 Zn4 Br16'
+_cell_volume   824.29906575
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Na  Na1  1  0.50000000  0.00000000  0.50000000  1
+  Na  Na2  1  -0.00000000  0.50000000  -0.00000000  1
+  Na  Na3  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na4  1  0.00983486  0.75000000  0.26932530  1
+  Na  Na5  1  0.50983486  0.25000000  0.23067470  1
+  Na  Na6  1  0.99016514  0.25000000  0.73067470  1
+  Na  Na7  1  0.49016514  0.75000000  0.76932530  1
+  Zn  Zn8  1  0.59438627  0.75000000  0.09123330  1
+  Zn  Zn9  1  0.09438627  0.25000000  0.40876670  1
+  Zn  Zn10  1  0.40561373  0.25000000  0.90876670  1
+  Zn  Zn11  1  0.90561373  0.75000000  0.59123330  1
+  Br  Br12  1  0.23971323  0.75000000  0.09142369  1
+  Br  Br13  1  0.73971323  0.25000000  0.40857631  1
+  Br  Br14  1  0.76028677  0.25000000  0.90857631  1
+  Br  Br15  1  0.26028677  0.75000000  0.59142369  1
+  Br  Br16  1  0.76325077  0.75000000  0.43541743  1
+  Br  Br17  1  0.26325077  0.25000000  0.06458257  1
+  Br  Br18  1  0.23674923  0.25000000  0.56458257  1
+  Br  Br19  1  0.73674923  0.75000000  0.93541743  1
+  Br  Br20  1  0.74386084  0.97633334  0.16685370  1
+  Br  Br21  1  0.24386084  0.02366666  0.33314630  1
+  Br  Br22  1  0.25613916  0.47633334  0.83314630  1
+  Br  Br23  1  0.75613916  0.52366666  0.66685370  1
+  Br  Br24  1  0.25613916  0.02366666  0.83314630  1
+  Br  Br25  1  0.75613916  0.97633334  0.66685370  1
+  Br  Br26  1  0.74386084  0.52366666  0.16685370  1
+  Br  Br27  1  0.24386084  0.47633334  0.33314630  1

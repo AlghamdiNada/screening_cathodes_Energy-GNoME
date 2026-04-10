@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8799,Na2Rb2S2,6,[4.6900175  4.6900175  7.57564858],-19.067521402787758,5,[23.4500875 23.4500875 37.8782429],750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16435,Ba6Cu6O24Sc8,44,[9.50341878 9.50341878 9.50341878],-312.86661456277216,5,[47.5170939 47.5170939 47.5170939],5500,0,False

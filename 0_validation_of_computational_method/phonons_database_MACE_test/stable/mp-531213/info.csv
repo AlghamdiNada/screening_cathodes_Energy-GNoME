@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+531213,Ca13F43Y6,62,[10.38899321 10.38899321 10.38899375],-388.8571593598648,4,[41.55597284 41.55597284 41.555975  ],3968,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754472,CuHoO2,4,[6.02661339 6.02661339 6.02661293],-27.727987747797908,5,[30.13306695 30.13306695 30.13306465],500,0,False

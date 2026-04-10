@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+772180,Lu6O18Sc6,30,[ 6.10901509  6.10901509 12.114255  ],-260.7419498437757,5,[30.54507545 30.54507545 60.571275  ],3750,0,False

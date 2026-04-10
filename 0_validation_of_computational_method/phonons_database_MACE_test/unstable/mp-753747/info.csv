@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+753747,FO7Ta3,11,[6.25869656 6.25869656 3.84792555],-103.49874693996503,5,[31.2934828  31.2934828  19.23962775],1375,11,True

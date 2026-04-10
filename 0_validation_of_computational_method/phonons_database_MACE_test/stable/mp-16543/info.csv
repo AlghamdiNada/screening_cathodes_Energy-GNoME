@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16543,Cs12Cu20O16,48,[ 7.53500383 10.32922916 14.77656313],-205.41316184341798,5,[37.67501915 51.6461458  73.88281565],6000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554363,Cl8O32Pr8Ti12,60,[ 5.04961298 11.67792692 14.83773221],-486.4066231613326,4,[20.19845192 46.71170768 59.35092884],3840,1,True

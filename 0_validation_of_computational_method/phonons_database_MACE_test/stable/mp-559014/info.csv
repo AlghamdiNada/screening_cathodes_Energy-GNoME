@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559014,Ge4Nd16O32,52,[ 5.75248136  7.48288881 18.05234084],-410.4119684241487,4,[23.00992544 29.93155524 72.20936336],3328,1,True

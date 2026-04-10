@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+760184,Na8O24Ti10,42,[ 6.19543198  6.19543198 14.05543179],-319.9203296471087,5,[30.9771599  30.9771599  70.27715895],5250,4,True

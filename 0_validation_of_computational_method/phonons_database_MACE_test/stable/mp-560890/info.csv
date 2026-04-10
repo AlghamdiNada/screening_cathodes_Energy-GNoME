@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560890,F36Li18Sc6,60,[8.70114707 8.70113318 9.35153586],-338.28155018851334,4,[34.80458828 34.80453272 37.40614344],3840,0,False

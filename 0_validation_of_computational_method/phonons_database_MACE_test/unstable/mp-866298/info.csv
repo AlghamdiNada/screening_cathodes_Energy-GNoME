@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+866298,Ba2Na2O14Sc2Si4,24,[5.691537   6.914137   8.92983934],-180.3175373236918,5,[28.457685  34.570685  44.6491967],3000,2,True

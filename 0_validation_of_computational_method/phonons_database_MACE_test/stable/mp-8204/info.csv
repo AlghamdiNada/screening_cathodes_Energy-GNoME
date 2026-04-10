@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8204,Al2B28Li2,32,[7.18287629 7.18287044 7.1829035 ],-202.59471764384202,4,[28.73150516 28.73148176 28.731614  ],2048,17,True

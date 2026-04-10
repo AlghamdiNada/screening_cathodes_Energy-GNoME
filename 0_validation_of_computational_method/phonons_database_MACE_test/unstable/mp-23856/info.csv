@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23856,H2Li2O2,6,[3.48737153 3.48737153 4.27946589],-29.893782613335254,5,[17.43685765 17.43685765 21.39732945],750,0,False

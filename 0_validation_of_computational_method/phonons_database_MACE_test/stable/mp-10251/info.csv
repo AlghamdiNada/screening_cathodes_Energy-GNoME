@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+10251,Dy4Li4O8,16,[6.07386622 6.19819722 6.31105419],-112.59860104199115,5,[30.3693311  30.9909861  31.55527095],2000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+644092,H6AlLiNa2,10,[5.13498786 5.13498786 5.13498786],-30.66528602507578,5,[25.6749393 25.6749393 25.6749393],1250,29,True

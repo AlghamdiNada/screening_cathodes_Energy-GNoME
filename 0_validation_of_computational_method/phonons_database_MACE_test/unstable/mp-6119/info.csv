@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6119,Na2Nd2O10Ti3,17,[14.64115209 14.64115209 14.64115209],-135.1179121395694,5,[73.20576045 73.20576045 73.20576045],2125,80,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+2624,AlSb,2,[4.37348508 4.37348463 4.37348589],-8.165223363907105,5,[21.8674254  21.86742315 21.86742945],250,0,False

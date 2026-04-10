@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8062,CSi,2,[3.07873852 3.07873726 3.078738  ],-14.998610337919736,5,[15.3936926 15.3936863 15.39369  ],250,3,True

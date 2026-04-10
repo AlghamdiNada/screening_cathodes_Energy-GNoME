@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+22965,BiITe,3,[4.39568684 4.39568769 7.22271835],-9.635148086206513,5,[21.9784342  21.97843845 36.11359175],375,0,False

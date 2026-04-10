@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+771241,Ag4O32Ta12,48,[ 5.264622    7.763653   15.84573218],-430.1979438807462,4,[21.058488   31.054612   63.38292872],3072,0,False

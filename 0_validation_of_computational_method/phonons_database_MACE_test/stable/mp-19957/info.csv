@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+19957,B3Ge3La3O15,24,[7.06524505 7.06524505 6.922444  ],-184.07500209895053,5,[35.32622525 35.32622525 34.61222   ],3000,0,False

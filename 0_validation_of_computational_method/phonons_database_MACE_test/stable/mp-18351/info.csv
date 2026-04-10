@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18351,Ge8P16Sr12,36,[18.19033179  7.28128117  7.48648608],-169.66453137147454,5,[90.95165895 36.40640585 37.4324304 ],4500,0,False

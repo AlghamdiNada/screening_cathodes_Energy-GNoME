@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+676038,Ga5P3S3,11,[ 3.78829062 22.85488161  6.61579684],-48.620604417314155,5,[ 18.9414531  114.27440805  33.0789842 ],1375,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+568543,Na8Se12Sn4,24,[16.26889108  6.19176558  7.277977  ],-86.48165635545111,5,[81.3444554 30.9588279 36.389885 ],3000,0,False

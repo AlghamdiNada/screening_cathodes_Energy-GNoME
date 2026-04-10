@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+675701,CaHo2Se4,7,[4.10741854 7.00266354 7.18137083],-38.30713011318707,5,[20.5370927  35.0133177  35.90685415],875,0,False

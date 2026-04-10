@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16327,DyPtSb,3,[4.64613899 4.64613964 4.64613966],-18.323759667725703,5,[23.23069495 23.2306982  23.2306983 ],375,0,False

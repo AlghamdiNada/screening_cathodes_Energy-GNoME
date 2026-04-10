@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+40677,Ba4FKO14Ti5,25,[ 4.008904  4.008904 20.330792],-193.89571724109462,5,[ 20.04452  20.04452 101.65396],3125,143,True

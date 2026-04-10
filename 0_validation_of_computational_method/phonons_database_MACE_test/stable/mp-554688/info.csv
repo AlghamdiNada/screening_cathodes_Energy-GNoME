@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554688,Ba6Hf5S16,27,[28.10845651 28.10845651 28.10845651],-176.7522323500543,5,[140.54228255 140.54228255 140.54228255],3375,67,True

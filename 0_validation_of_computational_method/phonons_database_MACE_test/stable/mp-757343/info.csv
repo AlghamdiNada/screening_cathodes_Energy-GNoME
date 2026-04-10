@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+757343,Bi12Ca8O26,46,[9.4462343  9.4462343  9.30454716],-275.18857731658727,5,[47.2311715 47.2311715 46.5227358],5750,0,False

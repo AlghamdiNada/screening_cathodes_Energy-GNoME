@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23764,H4Mg3O9Si2,18,[5.3713876 5.3713876 7.377575 ],-113.87597852137645,5,[26.856938 26.856938 36.887875],2250,0,False

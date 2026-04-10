@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8754,Li4Na4Te4,12,[4.59733333 7.65024696 8.3081426 ],-37.34741587009159,5,[22.98666665 38.2512348  41.540713  ],1500,0,False

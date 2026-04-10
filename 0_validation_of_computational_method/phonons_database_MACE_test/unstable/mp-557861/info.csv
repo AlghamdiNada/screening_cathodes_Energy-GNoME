@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557861,CaLi2O7Ta2,12,[9.7203843 9.7203843 9.7203843],-97.46731907355746,5,[48.6019215 48.6019215 48.6019215],1500,59,True

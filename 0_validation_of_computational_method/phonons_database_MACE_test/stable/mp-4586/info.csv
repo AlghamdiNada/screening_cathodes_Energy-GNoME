@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4586,Al2Li2Te4,8,[6.37660546 6.37660471 7.44425736],-29.545477290515493,5,[31.8830273  31.88302355 37.2212868 ],1000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4753,Al8O20Si4,32,[5.55410567 7.78363494 7.88722262],-244.63348685589088,5,[27.77052835 38.9181747  39.4361131 ],4000,0,False

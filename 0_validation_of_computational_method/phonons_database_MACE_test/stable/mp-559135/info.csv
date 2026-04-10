@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559135,H16Mg2Na4O24S4,50,[ 8.19148658  5.42165854 11.01687695],-272.04706909127333,4,[32.76594632 21.68663416 44.0675078 ],3200,0,False

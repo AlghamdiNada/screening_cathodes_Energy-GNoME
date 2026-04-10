@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-556884,Ca12N24O24Si24,84,[13.772312    7.385489   10.57546256],-648.2068522774985,3,[41.316936   22.156467   31.72638768],2268,0,False

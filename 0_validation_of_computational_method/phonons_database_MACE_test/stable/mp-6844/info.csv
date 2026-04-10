@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-6844,K2Li6O60Si24Sn4,96,[10.15712141 10.15712141 14.513072  ],-706.4062946551596,3,[30.47136423 30.47136423 43.539216  ],2592,0,False

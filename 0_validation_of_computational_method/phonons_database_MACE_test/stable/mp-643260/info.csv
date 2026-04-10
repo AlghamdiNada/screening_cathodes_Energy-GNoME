@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+643260,H4Na2Pd,7,[4.94219894 4.94219894 4.94219894],-22.93483261718555,5,[24.7109947 24.7109947 24.7109947],875,0,False

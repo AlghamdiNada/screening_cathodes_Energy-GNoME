@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-14511,Al12Ge12Na12O48,84,[ 8.384986   8.908291  17.9789627],-540.7865078521249,3,[25.154958  26.724873  53.9368881],2268,0,False

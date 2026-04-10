@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8291,BaF6Ti,8,[4.91211038 4.91210972 4.91211   ],-49.56439674970858,5,[24.5605519 24.5605486 24.56055  ],1000,2,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+561072,Dy2O12Sb2Sr4,20,[ 5.923598   5.868205  10.1698364],-137.2765995620019,5,[29.61799  29.341025 50.849182],2500,0,False

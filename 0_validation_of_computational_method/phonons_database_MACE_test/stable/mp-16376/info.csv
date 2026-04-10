@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16376,HoPtSb,3,[4.6313227  4.6313232  4.63132316],-18.2875075474272,5,[23.1566135 23.156616  23.1566158],375,0,False

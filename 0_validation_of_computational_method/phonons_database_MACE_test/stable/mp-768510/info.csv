@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+768510,Ba8O20Sn6,34,[15.42004479 15.42004479  5.935757  ],-213.11658973425696,5,[77.10022395 77.10022395 29.678785  ],4250,0,False

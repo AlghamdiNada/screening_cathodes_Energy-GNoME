@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754060,BiLi7O6,14,[5.96969303 5.96969303 5.96969276],-70.45781695265637,5,[29.84846515 29.84846515 29.8484638 ],1750,0,False

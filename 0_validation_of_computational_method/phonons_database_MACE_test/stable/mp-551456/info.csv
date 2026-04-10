@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+551456,Ba2ClCuO2,6,[9.92846561 9.92846561 9.92846631],-31.966373209909975,5,[49.64232805 49.64232805 49.64233155],750,0,False

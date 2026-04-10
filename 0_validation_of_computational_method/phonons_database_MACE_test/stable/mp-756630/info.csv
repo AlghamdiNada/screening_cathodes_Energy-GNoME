@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+756630,Al4Dy4O12,20,[5.16840341 5.31063225 7.37199326],-159.2453285704823,5,[25.84201705 26.55316125 36.8599663 ],2500,0,False

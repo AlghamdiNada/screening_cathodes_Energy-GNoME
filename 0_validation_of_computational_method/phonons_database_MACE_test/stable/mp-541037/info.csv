@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+541037,Cs2Cu2O2,6,[6.02153551 6.02153551 4.97147784],-24.950242779365578,5,[30.10767755 30.10767755 24.8573892 ],750,0,False

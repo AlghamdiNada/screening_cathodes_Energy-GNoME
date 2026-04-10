@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+978294,Mg3Sn,4,[4.44586173 4.44586575 4.44586475],-8.86214587415505,5,[22.22930865 22.22932875 22.22932375],500,0,False

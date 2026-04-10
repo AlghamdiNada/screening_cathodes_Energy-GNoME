@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769610,Ca10O30Ta8,48,[ 5.53723013  5.53723013 23.455478  ],-406.4084502491933,4,[22.14892052 22.14892052 93.821912  ],3072,93,True

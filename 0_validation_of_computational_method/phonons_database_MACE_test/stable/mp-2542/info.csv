@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+2542,Be2O2,4,[2.69427722 2.6942762  4.37601889],-28.37688321693082,5,[13.4713861  13.471381   21.88009445],500,0,False

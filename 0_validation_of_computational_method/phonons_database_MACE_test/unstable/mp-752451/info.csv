@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+752451,Cu4O8Zn2,14,[6.15748439 6.15748439 6.15748439],-66.15793597137422,5,[30.78742195 30.78742195 30.78742195],1750,2,True

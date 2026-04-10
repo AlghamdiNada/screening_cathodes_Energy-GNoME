@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+504801,H2Er2O4,8,[3.5766601  4.25771714 6.01213669],-56.932392486810905,5,[17.8833005  21.2885857  30.06068345],1000,14,True

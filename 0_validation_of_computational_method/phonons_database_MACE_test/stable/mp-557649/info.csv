@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557649,Ce2K4O30Si12,48,[ 9.96865229  9.96865229 12.01320511],-364.4973359402712,5,[49.84326145 49.84326145 60.06602555],6000,0,False

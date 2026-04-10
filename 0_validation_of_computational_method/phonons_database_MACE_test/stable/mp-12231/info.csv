@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12231,O32Sn4Te12,48,[9.71858496 9.71846964 9.71853371],-267.8460479103175,5,[48.5929248  48.5923482  48.59266855],6000,0,False

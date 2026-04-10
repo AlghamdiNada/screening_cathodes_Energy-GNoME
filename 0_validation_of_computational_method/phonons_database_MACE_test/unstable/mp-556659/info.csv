@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556659,Cl20La12O16Ti4,52,[ 4.082481 14.804852 16.954473],-356.1723317667722,5,[20.412405 74.02426  84.772365],6500,34,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+762240,K8Li8O16Ti4,36,[ 8.527794    5.789772   11.37850908],-214.68155765229474,5,[42.63897   28.94886   56.8925454],4500,0,False

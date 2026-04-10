@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6419,B8Ca4O32Si8,52,[7.808447 8.151742 8.861517],-407.32118443645504,4,[31.233788 32.606968 35.446068],3328,0,False

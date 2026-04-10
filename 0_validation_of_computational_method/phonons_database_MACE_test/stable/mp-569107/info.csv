@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+569107,Cs2Er2Te6Zn2,12,[ 4.416776    8.83665725 11.69019   ],-44.74998545536427,5,[22.08388    44.18328625 58.45095   ],1500,0,False

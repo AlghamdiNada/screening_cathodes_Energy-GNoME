@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558039,Ho2O12Sb2Sr4,20,[ 5.90807     5.859204   10.15173825],-137.35599199030213,5,[29.54035    29.29602    50.75869125],2500,0,False

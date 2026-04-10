@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3666,Li2O6Ta2,10,[5.47684766 5.47684776 5.47684736],-84.39534018597847,5,[27.3842383 27.3842388 27.3842368],1250,0,False

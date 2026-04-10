@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6765,Al4Ge4Li12O20,40,[ 4.949639  5.455171 16.005657],-246.79466200602803,4,[19.798556 21.820684 64.022628],2560,2,True

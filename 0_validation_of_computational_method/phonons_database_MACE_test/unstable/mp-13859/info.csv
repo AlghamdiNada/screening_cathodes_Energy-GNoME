@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13859,F14K6Si2,22,[7.60982376 7.60982376 5.50605173],-109.18853714213463,5,[38.0491188  38.0491188  27.53025865],2750,13,True

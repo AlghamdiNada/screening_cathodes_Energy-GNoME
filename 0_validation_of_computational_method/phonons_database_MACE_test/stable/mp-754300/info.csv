@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754300,Bi2Ho2O6,10,[6.12732323 6.12732323 6.12732411],-70.32717933222325,5,[30.63661615 30.63661615 30.63662055],1250,0,False

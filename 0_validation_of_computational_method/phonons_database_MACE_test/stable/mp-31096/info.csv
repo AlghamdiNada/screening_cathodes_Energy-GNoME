@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+31096,H12Al2Li6,20,[5.5581993  5.55819961 5.55819896],-64.89440275398668,5,[27.7909965  27.79099805 27.7909948 ],2500,0,False

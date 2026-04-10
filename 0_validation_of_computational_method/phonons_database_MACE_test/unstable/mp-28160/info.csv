@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28160,C6Ca6Cl4,16,[ 3.84052644  6.97937067 11.52304964],-89.81380326095166,5,[19.2026322  34.89685335 57.6152482 ],2000,0,False

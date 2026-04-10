@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23969,H4O10Se2Zn2,18,[5.4196251 5.4196251 7.7598746],-89.77857766819436,5,[27.0981255 27.0981255 38.799373 ],2250,0,False

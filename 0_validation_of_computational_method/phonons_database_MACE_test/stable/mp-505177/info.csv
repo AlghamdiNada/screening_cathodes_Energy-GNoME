@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+505177,In8O20Ti4,32,[ 3.51601024  7.27430298 14.95963191],-218.27477509707518,5,[17.5800512  36.3715149  74.79815955],4000,0,False

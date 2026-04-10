@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9437,FeNbSb,3,[4.2011639  4.20116377 4.20116406],-23.41759714963136,5,[21.0058195  21.00581885 21.0058203 ],375,0,False

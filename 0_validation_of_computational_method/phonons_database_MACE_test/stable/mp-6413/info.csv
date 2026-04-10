@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6413,Dy2Li2O24P8,36,[8.96468069 8.96468069 9.70779369],-264.0443940267158,5,[44.82340345 44.82340345 48.53896845],4500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14782,Mn2Na12Te8,22,[10.03276867 10.03267787  7.68020482],-76.15133056369721,5,[50.16384335 50.16338935 38.4010241 ],2750,0,False

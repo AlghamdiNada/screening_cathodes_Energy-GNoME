@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4279,Ca4Ge8O20,32,[5.73313539 7.32176262 8.30649173],-209.19985679959714,5,[28.66567695 36.6088131  41.53245865],4000,0,False

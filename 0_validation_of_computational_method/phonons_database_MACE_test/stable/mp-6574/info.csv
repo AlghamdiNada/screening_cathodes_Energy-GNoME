@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6574,CEr2N2O2,7,[3.69112387 3.69112387 8.160044  ],-60.28880153548037,5,[18.45561935 18.45561935 40.80022   ],875,0,False

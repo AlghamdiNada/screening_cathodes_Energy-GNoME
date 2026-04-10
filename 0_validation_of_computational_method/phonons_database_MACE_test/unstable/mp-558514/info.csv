@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558514,Cd2F14Rb2Zr2,20,[6.63913777 6.63913777 8.670496  ],-108.67898278131997,5,[33.19568885 33.19568885 43.35248   ],2500,3,True

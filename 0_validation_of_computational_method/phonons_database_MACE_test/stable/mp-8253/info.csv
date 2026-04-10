@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8253,Na5O6Re,12,[5.58446856 5.58446894 5.55555979],-69.21681649837411,5,[27.9223428  27.9223447  27.77779895],1500,0,False

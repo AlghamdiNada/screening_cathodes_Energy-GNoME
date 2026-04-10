@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+551741,O7P2Zn2,11,[5.35315955 5.35315955 4.55848978],-69.16451518003998,5,[26.76579775 26.76579775 22.7924489 ],1375,18,True

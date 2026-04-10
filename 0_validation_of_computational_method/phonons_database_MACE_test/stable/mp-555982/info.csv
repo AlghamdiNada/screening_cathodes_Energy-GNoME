@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555982,Ge6O50P12Si4,72,[ 8.0831829  8.0831829 16.656638 ],-515.4357067460703,4,[32.3327316 32.3327316 66.626552 ],4608,0,False

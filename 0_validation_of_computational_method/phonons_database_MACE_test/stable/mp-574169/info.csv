@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+574169,Ge2Te12Ti2,16,[ 3.93501168  7.63522343 17.60576046],-66.7178707799764,5,[19.6750584  38.17611715 88.0288023 ],2000,0,False

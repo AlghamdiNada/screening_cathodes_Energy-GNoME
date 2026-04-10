@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8614,K18Nd6O42Si12,78,[10.0701173  10.0701173  14.59791178],-528.176827348976,4,[40.2804692  40.2804692  58.39164712],4992,34,True

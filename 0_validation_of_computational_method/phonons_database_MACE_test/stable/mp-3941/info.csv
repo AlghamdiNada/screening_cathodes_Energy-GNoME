@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3941,F8Li2Y2,12,[5.28877403 4.99921929 5.28618494],-76.26773152911703,5,[26.44387015 24.99609645 26.4309247 ],1500,0,False

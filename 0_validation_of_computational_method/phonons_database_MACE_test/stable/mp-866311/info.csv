@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+866311,Bi3BrO4,8,[ 3.94070813  5.57304723 10.86438616],-42.826722460187355,5,[19.70354065 27.86523615 54.3219308 ],1000,0,False

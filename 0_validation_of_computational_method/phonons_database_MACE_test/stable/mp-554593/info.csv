@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554593,O8Ta2Tb2,12,[5.07045837 5.35200314 6.52171307],-111.59380871763769,5,[25.35229185 26.7600157  32.60856535],1500,0,False

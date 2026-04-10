@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14190,Nd3O12P3,18,[7.1135554  7.11355365 6.35113757],-143.27774583398056,5,[35.567777   35.56776825 31.75568785],2250,0,False

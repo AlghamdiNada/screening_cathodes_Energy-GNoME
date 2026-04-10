@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556283,Na4O22Si8Ti2,36,[8.65231573 8.65231573 8.65231573],-270.5864100989675,5,[43.26157865 43.26157865 43.26157865],4500,0,False

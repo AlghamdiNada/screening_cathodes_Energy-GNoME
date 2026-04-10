@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+685982,In20Mg10O40,70,[ 6.36293092  6.36293092 26.20333953],-395.2868752107963,4,[ 25.45172368  25.45172368 104.81335812],4480,0,False

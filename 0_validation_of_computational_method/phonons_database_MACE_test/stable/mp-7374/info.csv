@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7374,Ba2Cu4O4,10,[5.73915136 5.7391521  6.4857935 ],-51.83822935738402,5,[28.6957568 28.6957605 32.4289675],1250,0,False

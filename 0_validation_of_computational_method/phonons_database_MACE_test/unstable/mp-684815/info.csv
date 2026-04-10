@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+684815,Ba4La2Nb2O18Ti3,29,[14.45039127 14.45039127 14.45039157],-237.8118867226445,5,[72.25195635 72.25195635 72.25195785],3625,85,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28397,Bi12Se26Sr8,46,[ 4.27493   17.272048  18.7328448],-195.08395461910456,5,[21.37465  86.36024  93.664224],5750,0,False

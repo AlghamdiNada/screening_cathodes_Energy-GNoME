@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+569282,Ca40Li4Mg4Sb36,84,[11.964099 11.964099 17.184808],-317.9992541237892,5,[59.820495 59.820495 85.92404 ],10500,0,False

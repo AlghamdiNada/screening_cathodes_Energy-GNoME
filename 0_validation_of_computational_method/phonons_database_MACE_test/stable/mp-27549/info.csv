@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27549,Ag2Bi2K4,8,[6.38135701 6.8053515  6.80535176],-19.86650266682104,5,[31.90678505 34.0267575  34.0267588 ],1000,0,False

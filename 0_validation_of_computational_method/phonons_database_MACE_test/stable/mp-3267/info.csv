@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3267,S32Sb20Tl4,56,[19.675966    8.564015   12.53067115],-238.79615627515122,5,[98.37983    42.820075   62.65335575],7000,0,False

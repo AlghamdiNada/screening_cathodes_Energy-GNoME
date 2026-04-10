@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+984352,Al2CoOs,4,[4.1374652  4.13746306 4.13746377],-27.84205570003693,5,[20.687326   20.6873153  20.68731885],500,0,False

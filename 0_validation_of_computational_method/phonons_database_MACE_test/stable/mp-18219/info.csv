@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18219,Dy8O16Se4Si4,32,[ 6.065302  6.983944 10.854302],-247.30351068074026,5,[30.32651 34.91972 54.27151],4000,0,False

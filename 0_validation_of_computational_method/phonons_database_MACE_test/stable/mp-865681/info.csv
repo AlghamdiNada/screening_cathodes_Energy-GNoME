@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+865681,Ru2SiTi,4,[4.21977328 4.21977328 4.21977328],-35.2260102318159,5,[21.0988664 21.0988664 21.0988664],500,0,False

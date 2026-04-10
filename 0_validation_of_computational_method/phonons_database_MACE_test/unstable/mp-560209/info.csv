@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-560209,Al6Li18O58P16,98,[ 9.67060336  9.67060336 13.645918  ],-672.1595006296172,3,[29.01181008 29.01181008 40.937754  ],2646,58,True

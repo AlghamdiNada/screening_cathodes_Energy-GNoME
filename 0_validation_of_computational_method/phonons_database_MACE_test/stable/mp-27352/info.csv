@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27352,Ag24O16Sr4,44,[ 6.50538411  8.93448496 12.46965448],-178.48483031685333,5,[32.52692055 44.6724248  62.3482724 ],5500,0,False

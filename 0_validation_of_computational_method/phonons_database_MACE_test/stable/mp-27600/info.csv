@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27600,Cd12O32P8,52,[7.66824277 9.53319772 9.53319793],-303.33048394568806,4,[30.67297108 38.13279088 38.13279172],3328,3,True

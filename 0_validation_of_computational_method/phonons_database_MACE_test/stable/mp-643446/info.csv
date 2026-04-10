@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+643446,H8AlCa2ClF2O12S2,28,[8.2423569 8.2423569 8.2423569],-159.25388251541574,5,[41.2117845 41.2117845 41.2117845],3500,0,False

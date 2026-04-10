@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23276,Cl32In32,64,[12.3326609 12.3326609 12.3326609],-193.38535236565156,5,[61.6633045 61.6633045 61.6633045],8000,0,False

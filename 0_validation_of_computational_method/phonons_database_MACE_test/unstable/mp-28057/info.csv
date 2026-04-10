@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-28057,Ba12Bi24S48,84,[25.78961274 25.78961274  4.164782  ],-388.5312918976457,3,[77.36883822 77.36883822 12.494346  ],2268,0,False

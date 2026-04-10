@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+31416,Ho6O14Ta2,22,[6.42055716 6.42055716 7.38282206],-195.46335490704521,5,[32.1027858 32.1027858 36.9141103],2750,0,False

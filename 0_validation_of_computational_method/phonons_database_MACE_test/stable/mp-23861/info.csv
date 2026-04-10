@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23861,H2Ba2Cl2,6,[4.42149759 4.42149759 7.26851667],-23.70623977000857,5,[22.10748795 22.10748795 36.34258335],750,0,False

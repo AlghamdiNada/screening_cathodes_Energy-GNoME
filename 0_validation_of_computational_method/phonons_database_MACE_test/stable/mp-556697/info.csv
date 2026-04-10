@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556697,Bi4Ca2O18Ta4,28,[12.97167861 12.97167861  5.556362  ],-223.13404441058645,5,[64.85839305 64.85839305 27.78181   ],3500,0,False

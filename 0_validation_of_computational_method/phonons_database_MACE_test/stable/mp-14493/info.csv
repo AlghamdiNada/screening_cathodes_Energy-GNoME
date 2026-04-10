@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14493,In8Na40O32,80,[10.50191733 10.6499003  10.70685626],-344.8201671674896,4,[42.00766932 42.5996012  42.82742504],5120,0,False

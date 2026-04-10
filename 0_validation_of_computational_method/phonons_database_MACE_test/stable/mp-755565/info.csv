@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+755565,Br2Ho2O2,6,[10.23021593 10.23021593 10.23021643],-39.84641350740108,5,[51.15107965 51.15107965 51.15108215],750,0,False

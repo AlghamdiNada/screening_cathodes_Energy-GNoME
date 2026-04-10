@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+772073,Li4Nb8O22,34,[ 6.35359011  6.35359011 12.92980225],-281.10344753734404,5,[31.76795055 31.76795055 64.64901125],4250,42,True

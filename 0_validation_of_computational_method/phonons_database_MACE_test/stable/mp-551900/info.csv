@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+551900,Bi2BrO4Pr,8,[3.993484 3.993484 9.465344],-49.44595198274954,5,[19.96742 19.96742 47.32672],1000,0,False

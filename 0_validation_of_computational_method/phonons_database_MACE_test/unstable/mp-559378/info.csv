@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559378,Ba10Cl4O18Ta4,36,[ 6.04537087  6.04537087 25.09961   ],-266.9362264059284,5,[ 30.22685435  30.22685435 125.49805   ],4500,18,True

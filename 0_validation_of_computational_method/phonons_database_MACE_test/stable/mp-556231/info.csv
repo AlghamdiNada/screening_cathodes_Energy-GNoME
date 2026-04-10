@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556231,Bi2Ga2In4S12,20,[ 3.842812   11.382245   12.46611366],-83.82530345758323,5,[19.21406   56.911225  62.3305683],2500,0,False

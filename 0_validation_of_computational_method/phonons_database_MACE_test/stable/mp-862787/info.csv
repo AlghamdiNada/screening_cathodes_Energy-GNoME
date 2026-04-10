@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+862787,Al6In6Se18,30,[ 7.07435842  7.06821192 18.84396187],-121.69307773037963,5,[35.3717921  35.3410596  94.21980935],3750,0,False

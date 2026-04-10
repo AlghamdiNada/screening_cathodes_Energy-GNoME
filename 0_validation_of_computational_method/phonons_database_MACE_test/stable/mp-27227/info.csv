@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27227,Ag6Li2O4,12,[5.65506138 5.96789489 6.44634529],-47.17325815583416,5,[28.2753069  29.83947445 32.23172645],1500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+755491,N2O11Sr2Ti6,21,[7.85204152 7.85204152 9.31133608],-179.6512795458372,5,[39.2602076 39.2602076 46.5566804],2625,0,False

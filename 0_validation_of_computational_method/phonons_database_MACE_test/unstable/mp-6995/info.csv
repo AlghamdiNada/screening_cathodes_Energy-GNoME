@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-6995,Al24O38Sr2,64,[ 5.62655649  5.62655649 22.15984   ],-475.122230196918,3,[16.87966947 16.87966947 66.47952   ],1728,44,True

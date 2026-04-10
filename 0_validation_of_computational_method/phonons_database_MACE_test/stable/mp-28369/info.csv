@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28369,H6Cl2Ge2,10,[4.58631738 4.58631886 8.35736286],-34.59759584663528,5,[22.9315869 22.9315943 41.7868143],1250,51,True

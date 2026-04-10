@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+582034,C21Si21,42,[ 3.07699899  3.07699814 52.8351129 ],-315.05800161347724,4,[ 12.30799596  12.30799256 211.3404516 ],2688,0,False

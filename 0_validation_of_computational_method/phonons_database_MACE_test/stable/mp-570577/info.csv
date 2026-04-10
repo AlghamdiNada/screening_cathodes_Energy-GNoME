@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-570577,Al8N56Si32Sr8,104,[ 4.972495 11.811345 21.27813 ],-805.2596909713155,3,[14.917485 35.434035 63.83439 ],2808,0,False

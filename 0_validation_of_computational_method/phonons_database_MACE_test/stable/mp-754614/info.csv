@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754614,Lu2Nb2O8,12,[5.32870834 5.04969083 5.2345134 ],-105.98273272665827,5,[26.6435417  25.24845415 26.172567  ],1500,0,False

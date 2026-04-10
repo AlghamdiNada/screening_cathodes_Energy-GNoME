@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+662499,Cl18Mg6Rb6,30,[ 7.09519963  7.09519975 17.60876029],-104.87276998361419,5,[35.47599815 35.47599875 88.04380145],3750,0,False

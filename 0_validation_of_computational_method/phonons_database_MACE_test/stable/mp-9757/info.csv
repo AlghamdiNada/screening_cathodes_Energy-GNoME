@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9757,Ba2O10Pt2Sm4,18,[6.744264 6.744264 5.978551],-131.4412669380998,5,[33.72132  33.72132  29.892755],2250,0,False

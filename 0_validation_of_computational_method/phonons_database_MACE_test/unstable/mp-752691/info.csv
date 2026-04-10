@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+752691,Hf4O14Sr6,24,[11.00477405 11.00477405  5.71413511],-197.4103809522537,5,[55.02387025 55.02387025 28.57067555],3000,11,True

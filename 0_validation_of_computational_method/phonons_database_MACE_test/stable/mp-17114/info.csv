@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17114,Nd4O14Sn4,22,[7.50856072 7.50856072 7.50856072],-158.77791579498034,5,[37.5428036 37.5428036 37.5428036],2750,0,False

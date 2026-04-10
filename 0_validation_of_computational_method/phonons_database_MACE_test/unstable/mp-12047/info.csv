@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12047,K3NaO8Ru2,14,[6.08125944 6.08125944 7.801131  ],-81.44474285987313,5,[30.4062972 30.4062972 39.005655 ],1750,8,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9569,CaP2Zn2,5,[4.01543383 4.0154332  6.81288469],-18.40817340593219,5,[20.07716915 20.077166   34.06442345],625,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769015,Dy6Ga6O18,30,[ 6.12098791  6.12098791 11.7204    ],-216.00871952122702,5,[30.60493955 30.60493955 58.602     ],3750,0,False

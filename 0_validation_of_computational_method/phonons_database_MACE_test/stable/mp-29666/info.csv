@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29666,Bi2SeTe2,5,[10.87569317 10.87569317 10.8756929 ],-19.00989060463189,5,[54.37846585 54.37846585 54.3784645 ],625,0,False

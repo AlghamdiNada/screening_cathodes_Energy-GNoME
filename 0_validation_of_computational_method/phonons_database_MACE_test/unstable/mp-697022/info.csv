@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+697022,H12Ca12O26Si4,54,[10.10673812 10.10673812  7.55852   ],-344.45987956869754,4,[40.42695248 40.42695248 30.23408   ],3456,10,True

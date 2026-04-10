@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-759759,H16Ga12Na4O48P8,88,[10.409122    7.356805   12.87759025],-534.0427895081463,3,[31.227366   22.070415   38.63277075],2376,0,False

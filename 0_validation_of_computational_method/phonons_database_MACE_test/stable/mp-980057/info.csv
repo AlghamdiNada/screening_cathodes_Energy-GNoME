@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+980057,HAlGeSr,4,[4.26579043 4.26579043 4.967268  ],-15.220894077486792,5,[21.32895215 21.32895215 24.83634   ],500,0,False

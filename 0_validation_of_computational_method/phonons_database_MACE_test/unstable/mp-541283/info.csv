@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+541283,Br16Ga4In4,24,[ 7.50672704  8.93969132 13.17389181],-67.97196345180103,5,[37.5336352  44.6984566  65.86945905],3000,0,False

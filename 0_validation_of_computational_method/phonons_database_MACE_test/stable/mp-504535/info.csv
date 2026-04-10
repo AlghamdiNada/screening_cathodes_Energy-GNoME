@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+504535,H2In2O4,8,[3.29849903 4.59051876 5.30212675],-42.77122182281113,5,[16.49249515 22.9525938  26.51063375],1000,0,False

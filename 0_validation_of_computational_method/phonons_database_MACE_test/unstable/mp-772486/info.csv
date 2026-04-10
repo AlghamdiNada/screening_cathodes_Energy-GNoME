@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+772486,Lu12O42Sb12,66,[ 7.50032526  7.50032526 18.281627  ],-470.28690799798704,4,[30.00130104 30.00130104 73.126508  ],4224,11,True

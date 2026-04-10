@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27377,K4O12Zr5,21,[ 5.83090513  5.83090437 10.46357598],-167.90878849638855,5,[29.15452565 29.15452185 52.3178799 ],2625,0,False

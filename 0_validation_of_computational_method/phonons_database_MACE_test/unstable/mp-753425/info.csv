@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+753425,C2Cu2Li2O6,12,[4.09949306 4.09949306 8.798207  ],-75.58046907937656,5,[20.4974653 20.4974653 43.991035 ],1500,54,True

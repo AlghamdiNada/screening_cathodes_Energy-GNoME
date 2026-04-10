@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+772869,In2O38Ta14,54,[ 6.25056158  6.25056158 20.208853  ],-503.83439045319454,4,[25.00224632 25.00224632 80.835412  ],3456,4,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9680,Al4Na12Te12,28,[ 7.75460932  8.0441042  16.14198993],-90.74394497531253,5,[38.7730466  40.220521   80.70994965],3500,0,False

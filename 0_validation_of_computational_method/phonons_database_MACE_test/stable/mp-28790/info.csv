@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28790,Al26S42Tl6,74,[14.86421529 14.86421529  9.38658363],-359.14260804011036,4,[59.45686116 59.45686116 37.54633452],4736,0,False

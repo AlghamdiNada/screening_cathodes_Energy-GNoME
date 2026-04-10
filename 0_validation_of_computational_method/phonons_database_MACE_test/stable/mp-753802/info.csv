@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+753802,O7Sc2Ti2,11,[5.48139374 5.48139374 5.18344747],-98.80373231143676,5,[27.4069687  27.4069687  25.91723735],1375,0,False

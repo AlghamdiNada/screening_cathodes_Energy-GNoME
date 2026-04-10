@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5121,Nd4O22Te8,34,[ 6.84461486  6.84461486 16.34603399],-214.3526583861012,5,[34.2230743  34.2230743  81.73016995],4250,0,False

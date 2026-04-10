@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558924,F28Ga6Na10,44,[ 7.16683935  7.23213399 12.49938456],-200.54974268104334,4,[28.6673574  28.92853596 49.99753824],2816,0,False

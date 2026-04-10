@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+561245,O14PtSi2Sr8,25,[9.98604454 9.98604454 7.27649475],-166.3394489739019,5,[49.9302227  49.9302227  36.38247375],3125,0,False

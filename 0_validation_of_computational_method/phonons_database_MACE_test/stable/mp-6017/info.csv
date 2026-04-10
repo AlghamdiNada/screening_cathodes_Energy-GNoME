@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6017,In2Na6O16P4,28,[5.44753408 6.96739636 8.60217778],-173.93980679335837,5,[27.2376704 34.8369818 43.0108889],3500,1,True

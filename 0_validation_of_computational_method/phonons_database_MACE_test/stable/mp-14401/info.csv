@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-14401,Ca12Na12O48P12,84,[ 5.479061  9.20626  20.6582  ],-563.183515426766,3,[16.437183 27.61878  61.9746  ],2268,0,False

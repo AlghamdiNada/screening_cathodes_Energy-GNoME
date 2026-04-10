@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16454,Ba2Pr4S10Zn2,18,[8.88369336 8.88369336 8.88369336],-98.37926321680598,5,[44.4184668 44.4184668 44.4184668],2250,0,False

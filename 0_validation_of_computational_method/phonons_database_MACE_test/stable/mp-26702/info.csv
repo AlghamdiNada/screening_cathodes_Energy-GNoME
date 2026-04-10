@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+26702,Li4O48P12Sn8,72,[ 8.804732    8.614772   14.92948044],-489.2339458509197,4,[35.218928   34.459088   59.71792176],4608,0,False

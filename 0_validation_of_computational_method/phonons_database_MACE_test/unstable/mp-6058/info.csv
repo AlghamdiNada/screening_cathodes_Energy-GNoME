@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6058,F6K2NaSc,10,[6.08798433 6.08798433 6.08798433],-53.600745156885196,5,[30.43992165 30.43992165 30.43992165],1250,23,True

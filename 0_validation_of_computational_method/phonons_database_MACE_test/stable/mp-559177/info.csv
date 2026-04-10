@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-559177,F4Mg14O44Si16,78,[ 5.366488  9.467724 18.087936],-557.2359189990908,3,[16.099464 28.403172 54.263808],2106,0,False

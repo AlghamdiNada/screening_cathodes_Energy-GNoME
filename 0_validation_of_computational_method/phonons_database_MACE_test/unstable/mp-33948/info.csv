@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+33948,Ho4O14Ti4,22,[7.11764165 7.11764165 7.11764165],-191.81275227244402,5,[35.58820825 35.58820825 35.58820825],2750,6,True

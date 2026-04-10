@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+20222,In2Nb2O12Sr4,20,[ 5.851394    5.797151   10.05942299],-142.7028222735902,5,[29.25697    28.985755   50.29711495],2500,0,False

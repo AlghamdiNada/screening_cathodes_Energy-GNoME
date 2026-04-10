@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+505712,Cs2Ho2Se6Zn2,12,[ 8.28448384  8.28448384 10.92566093],-50.964003369463136,5,[41.4224192  41.4224192  54.62830465],1500,0,False

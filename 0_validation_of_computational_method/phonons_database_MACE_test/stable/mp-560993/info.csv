@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560993,Al12CaO27Si4,44,[7.30868039 7.30868039 8.697984  ],-331.9087687994689,4,[29.23472156 29.23472156 34.791936  ],2816,0,False

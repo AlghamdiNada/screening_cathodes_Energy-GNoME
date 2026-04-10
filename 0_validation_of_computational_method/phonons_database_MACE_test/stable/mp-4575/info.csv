@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-4575,Ge16Mg16O48,80,[ 5.33724565  8.92147031 18.81824604],-504.5335892072038,3,[16.01173695 26.76441093 56.45473812],2160,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+2286,Li2Se,3,[4.20876216 4.2087622  4.208762  ],-11.106475583391035,5,[21.0438108 21.043811  21.04381  ],375,0,False

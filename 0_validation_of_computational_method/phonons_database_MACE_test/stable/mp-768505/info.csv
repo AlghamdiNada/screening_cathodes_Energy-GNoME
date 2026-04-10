@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+768505,Ga6Lu6O18,30,[ 5.90261744  5.90261585 11.57413725],-216.893197076879,5,[29.5130872  29.51307925 57.87068625],3750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27383,Cu4Nb12O32,48,[ 5.101033    7.662057   15.56287317],-401.7119329461451,4,[20.404132   30.648228   62.25149268],3072,0,False

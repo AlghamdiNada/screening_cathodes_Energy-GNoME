@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7191,Ga2N6Sr6,14,[7.58021642 7.58021718 5.41817207],-74.31093405640932,5,[37.9010821  37.9010859  27.09086035],1750,0,False

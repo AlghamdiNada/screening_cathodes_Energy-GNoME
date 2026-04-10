@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+755013,Li5O5Ta,11,[5.23360441 5.23360441 5.78706598],-71.96963928001722,5,[26.16802205 26.16802205 28.9353299 ],1375,0,False

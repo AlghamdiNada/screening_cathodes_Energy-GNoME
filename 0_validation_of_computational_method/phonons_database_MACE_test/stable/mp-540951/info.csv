@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+540951,Na4O24P8Sr2,38,[9.973588 9.973588 5.056212],-261.2677192154486,5,[49.86794 49.86794 25.28106],4750,0,False

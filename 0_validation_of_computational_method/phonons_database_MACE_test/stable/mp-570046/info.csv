@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+570046,Mo6N24Sr18,48,[10.32093579 10.32093579  9.90886718],-340.2061122770569,5,[51.60467895 51.60467895 49.5443359 ],6000,0,False

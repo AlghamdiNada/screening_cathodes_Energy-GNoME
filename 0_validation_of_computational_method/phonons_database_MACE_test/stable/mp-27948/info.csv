@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27948,Bi2GeTe4,7,[14.48606426 14.48606426 14.48606432],-26.026484838745695,5,[72.4303213 72.4303213 72.4303216],875,0,False

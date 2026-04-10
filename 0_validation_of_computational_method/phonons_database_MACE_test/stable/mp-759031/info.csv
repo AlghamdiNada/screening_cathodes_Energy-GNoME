@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-759031,Bi38F6O54,98,[13.08401219 13.08401219 10.463984  ],-551.4386706015449,3,[39.25203657 39.25203657 31.391952  ],2646,0,False

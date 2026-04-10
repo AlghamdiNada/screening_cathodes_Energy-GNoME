@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7289,K8Te12,20,[ 4.66031807 10.22366231 16.04229819],-59.89015195109564,5,[23.30159035 51.11831155 80.21149095],2500,0,False

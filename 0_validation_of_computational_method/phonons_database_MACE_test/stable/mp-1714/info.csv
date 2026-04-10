@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1714,Fe8Si16,24,[6.23647349 6.23647375 7.750031  ],-161.63902658094452,5,[31.18236745 31.18236875 38.750155  ],3000,0,False

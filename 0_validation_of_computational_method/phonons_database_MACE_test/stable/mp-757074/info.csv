@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+757074,BaCa2I6,9,[8.03783585 8.03783585 7.640809  ],-29.77948234808577,5,[40.18917925 40.18917925 38.204045  ],1125,0,False

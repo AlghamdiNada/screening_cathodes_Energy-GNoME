@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+505089,F32Li16Tb4,52,[ 5.832096  9.912033 10.074722],-266.75457112119364,4,[23.328384 39.648132 40.298888],3328,0,False

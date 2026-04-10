@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14482,Nb6O16Sr,23,[9.17951588 9.17951588 3.91688   ],-201.29468198954285,5,[45.8975794 45.8975794 19.5844   ],2875,51,True

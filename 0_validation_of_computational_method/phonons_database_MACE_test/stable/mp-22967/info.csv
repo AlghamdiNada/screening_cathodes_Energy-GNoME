@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+22967,Br4FeLi2,7,[6.76978624 6.76978624 3.806198  ],-26.10030041979416,5,[33.8489312 33.8489312 19.03099  ],875,0,False

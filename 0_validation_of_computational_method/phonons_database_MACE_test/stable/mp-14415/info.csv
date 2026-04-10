@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14415,Be4Ge2O14Pr4,24,[7.673646 7.673646 4.956525],-179.73679385797217,5,[38.36823  38.36823  24.782625],3000,0,False

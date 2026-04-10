@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554885,Ba3N4O9Si6,22,[7.32366977 7.32366977 6.885199  ],-168.78487387794198,5,[36.61834885 36.61834885 34.425995  ],2750,0,False

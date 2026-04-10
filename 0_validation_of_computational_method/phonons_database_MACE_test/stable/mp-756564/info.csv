@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+756564,Ba2Cl10Y2,14,[10.07486517 10.07486517  6.88046573],-68.29718594252878,5,[50.37432585 50.37432585 34.40232865],1750,0,False

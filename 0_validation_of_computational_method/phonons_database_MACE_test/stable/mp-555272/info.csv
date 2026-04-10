@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555272,F13Na5Zr2,20,[5.46530049 6.37467476 8.37741577],-113.41879000501473,5,[27.32650245 31.8733738  41.88707885],2500,0,False

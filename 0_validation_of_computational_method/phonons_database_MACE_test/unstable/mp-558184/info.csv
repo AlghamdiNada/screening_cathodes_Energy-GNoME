@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-558184,Ba16Ge32O80,128,[13.269719   9.695599  13.4066081],-830.6487125925364,3,[39.809157  29.086797  40.2198243],3456,28,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4255,BaCu2S2,5,[3.90192973 3.90192956 6.90063732],-22.23511558308923,5,[19.50964865 19.5096478  34.5031866 ],625,0,False

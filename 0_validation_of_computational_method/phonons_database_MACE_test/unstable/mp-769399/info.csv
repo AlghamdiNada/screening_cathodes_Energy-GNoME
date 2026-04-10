@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769399,Ba2O22Ta8,32,[ 6.32675844  6.32675863 12.49503401],-300.1221314304078,5,[31.6337922  31.63379315 62.47517005],4000,0,False

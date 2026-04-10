@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+755461,Dy6O14Ta2,22,[6.46554486 6.46554486 7.528778  ],-195.0510372979931,5,[32.3277243 32.3277243 37.64389  ],2750,65,True

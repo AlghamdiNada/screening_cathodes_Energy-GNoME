@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5026,Mg8O24Si8,40,[5.31230984 8.71185874 9.26667111],-286.60114406667844,4,[21.24923936 34.84743496 37.06668444],2560,0,False

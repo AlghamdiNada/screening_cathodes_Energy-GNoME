@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+541569,Li12N16Sr8Ta4,40,[7.041329 8.743047 9.035944],-253.50586553595474,5,[35.206645 43.715235 45.17972 ],5000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+757826,CaCsN3O6,11,[5.60668832 5.60668832 5.60668872],-68.63591959336462,5,[28.0334416 28.0334416 28.0334436],1375,0,False

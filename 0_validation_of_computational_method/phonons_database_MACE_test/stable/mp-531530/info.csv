@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-531530,Al20Mg10O40,70,[23.8420897  23.8420897  23.84208979],-495.4380498958908,3,[71.5262691  71.5262691  71.52626937],1890,4,True

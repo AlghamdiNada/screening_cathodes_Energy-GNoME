@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16605,O12Sr4Ta2Tm2,20,[ 5.891359    5.826501   10.09925851],-162.9455882129708,5,[29.456795   29.132505   50.49629255],2500,0,False

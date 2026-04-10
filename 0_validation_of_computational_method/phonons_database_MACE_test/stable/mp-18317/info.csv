@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18317,Na20P12Sn4,36,[ 7.41632201  8.26664041 15.58082347],-119.25682572284228,5,[37.08161005 41.33320205 77.90411735],4500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-24312,H72O40Sr4,116,[ 9.022876  9.022876 11.524817],-586.1469078691548,3,[27.068628 27.068628 34.574451],3132,0,False

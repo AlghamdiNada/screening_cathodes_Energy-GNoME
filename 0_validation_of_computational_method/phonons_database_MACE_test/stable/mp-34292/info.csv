@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+34292,SbTe6Tl9,16,[8.94515962 8.94477745 9.24953427],-47.397422169814746,5,[44.7257981  44.72388725 46.24767135],2000,0,False

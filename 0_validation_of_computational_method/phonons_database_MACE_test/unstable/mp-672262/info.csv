@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+672262,Ge2La3O14SbZn3,23,[8.40304574 8.40304574 5.286526  ],-151.63723807841228,5,[42.0152287 42.0152287 26.43263  ],2875,2,True

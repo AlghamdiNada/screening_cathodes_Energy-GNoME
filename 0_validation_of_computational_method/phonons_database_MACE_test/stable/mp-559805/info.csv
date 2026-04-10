@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559805,Cl4Ho4O12Te4,24,[7.011117 7.391802 9.13794 ],-148.81771524283047,5,[35.055585 36.95901  45.6897  ],3000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557662,Ca2F2Mg5O22Si8,39,[10.37304326 10.37304326  5.32796317],-282.11694240029146,5,[51.8652163  51.8652163  26.63981585],4875,0,False

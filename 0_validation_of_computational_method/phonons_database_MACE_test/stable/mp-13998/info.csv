@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-13998,Al8Na40O32,80,[ 5.86085451 10.05327947 17.75811229],-385.0739319433758,3,[17.58256353 30.15983841 53.27433687],2160,0,False

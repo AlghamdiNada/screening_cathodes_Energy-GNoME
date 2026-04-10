@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+546633,ClKO4,6,[5.21240583 5.21224906 5.21240529],-26.092163325630004,5,[26.06202915 26.0612453  26.06202645],750,49,True

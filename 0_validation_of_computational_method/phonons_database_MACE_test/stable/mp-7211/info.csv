@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7211,Cs2Hg2Pr2Se6,12,[ 8.48733253  8.48733253 11.473973  ],-47.43082714518886,5,[42.43666265 42.43666265 57.369865  ],1500,0,False

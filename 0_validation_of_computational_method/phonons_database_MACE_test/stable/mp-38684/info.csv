@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+38684,Cl8Li4Mg2,14,[7.33347916 7.33348051 7.30874441],-51.11760507304276,5,[36.6673958  36.66740255 36.54372205],1750,0,False

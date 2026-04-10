@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+549709,Bi2ClErO4,8,[3.84189573 3.84189573 8.93974821],-50.37927331814122,5,[19.20947865 19.20947865 44.69874105],1000,0,False

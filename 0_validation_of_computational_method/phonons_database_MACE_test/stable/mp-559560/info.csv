@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559560,Cl8Nd8O32Ti12,60,[ 5.055817 11.669707 14.983656],-486.3730565379646,4,[20.223268 46.678828 59.934624],3840,1,True

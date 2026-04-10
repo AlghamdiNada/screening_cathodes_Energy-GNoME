@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29216,Cl8Cs4Pt2,14,[7.42608667 7.42608759 9.5025496 ],-49.517328870581075,5,[37.13043335 37.13043795 47.512748  ],1750,0,False

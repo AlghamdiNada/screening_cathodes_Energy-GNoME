@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560641,Ba12Cl5F19,36,[14.14829654 14.14829536  4.28027215],-195.53716993714133,5,[70.7414827  70.7414768  21.40136075],4500,0,False

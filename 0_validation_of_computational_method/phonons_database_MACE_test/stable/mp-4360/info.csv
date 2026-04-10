@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4360,Cd2F6Na2,10,[5.98761605 5.98761666 5.98761697],-38.87419631501227,5,[29.93808025 29.9380833  29.93808485],1250,0,False

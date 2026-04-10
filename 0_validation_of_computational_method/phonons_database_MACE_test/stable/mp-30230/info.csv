@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+30230,Rb32S32Sn8,72,[13.54395197 13.54395197 13.54395197],-267.80868897733814,5,[67.71975985 67.71975985 67.71975985],9000,0,False

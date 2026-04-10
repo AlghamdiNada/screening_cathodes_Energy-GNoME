@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+22264,CsNb3O10Sr2,16,[ 3.999155  3.999155 15.67115 ],-127.38681523367094,5,[19.995775 19.995775 78.35575 ],2000,34,True

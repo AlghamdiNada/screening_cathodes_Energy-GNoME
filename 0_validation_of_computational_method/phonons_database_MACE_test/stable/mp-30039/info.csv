@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+30039,Al16Na16Sb24,56,[ 7.26372344 14.1455523  15.40943097],-195.2315443187825,5,[36.3186172  70.7277615  77.04715485],7000,0,False

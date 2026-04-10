@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17914,Ca2Ga8O14,24,[8.00182482 8.00182482 5.63098102],-146.1371350760844,5,[40.0091241 40.0091241 28.1549051],3000,0,False

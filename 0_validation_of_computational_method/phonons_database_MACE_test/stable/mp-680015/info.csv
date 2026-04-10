@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+680015,Br28Re12Se28,68,[ 9.87311886  9.87311886 24.651279  ],-312.4834759472982,5,[ 49.3655943  49.3655943 123.256395 ],8500,0,False

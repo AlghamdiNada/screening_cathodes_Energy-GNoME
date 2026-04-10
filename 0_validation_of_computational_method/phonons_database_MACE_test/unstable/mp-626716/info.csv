@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+626716,H2K2O2,6,[3.90919679 3.9774636  5.50725019],-26.744684894939102,5,[19.54598395 19.887318   27.53625095],750,0,False

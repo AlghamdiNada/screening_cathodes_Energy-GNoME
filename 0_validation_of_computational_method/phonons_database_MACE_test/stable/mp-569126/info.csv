@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+569126,Ag2Bi2P4Se12,20,[14.86163538 14.86163538 14.86163541],-80.53406249129357,5,[74.3081769  74.3081769  74.30817705],2500,0,False

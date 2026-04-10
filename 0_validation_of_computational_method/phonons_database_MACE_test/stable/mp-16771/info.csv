@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16771,Mg4O20Se8,32,[ 6.01840721  6.82559561 10.39516732],-174.69058889987755,5,[30.09203605 34.12797805 51.9758366 ],4000,0,False

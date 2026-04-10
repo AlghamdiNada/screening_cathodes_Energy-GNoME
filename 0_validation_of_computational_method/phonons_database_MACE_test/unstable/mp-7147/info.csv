@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7147,CrKP2S7,11,[6.46925479 6.46925479 6.38413606],-56.19535980123069,5,[32.34627395 32.34627395 31.9206803 ],1375,0,False

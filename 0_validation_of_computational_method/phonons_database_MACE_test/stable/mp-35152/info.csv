@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+35152,H5RhSr2,8,[5.4112406  5.41124037 5.33673447],-31.768647999353945,5,[27.056203   27.05620185 26.68367235],1000,0,False

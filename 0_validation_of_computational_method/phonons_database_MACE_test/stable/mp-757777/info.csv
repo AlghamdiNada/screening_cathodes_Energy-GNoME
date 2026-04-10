@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+757777,Bi6Li2O14Si2,24,[8.58476698 8.58476698 5.224253  ],-148.49788794647935,5,[42.9238349 42.9238349 26.121265 ],3000,0,False

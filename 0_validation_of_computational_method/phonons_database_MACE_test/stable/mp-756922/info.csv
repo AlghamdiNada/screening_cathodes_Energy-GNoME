@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+756922,Ho4O4S2,10,[ 3.75042379  3.75042215 13.24272914],-78.22980245151369,5,[18.75211895 18.75211075 66.2136457 ],1250,0,False

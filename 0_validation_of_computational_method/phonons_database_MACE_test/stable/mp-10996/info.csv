@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+10996,Mg2Sb2Yb,5,[4.65273735 4.65273735 7.05706723],-18.26557493239641,5,[23.26368675 23.26368675 35.28533615],625,0,False

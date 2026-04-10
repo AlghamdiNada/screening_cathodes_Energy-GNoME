@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9035,LuNaS2,4,[3.8754602  3.8754602  6.96622142],-21.400601944644674,5,[19.377301  19.377301  34.8311071],500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+978844,Ca3O4Sr,8,[4.945903 4.945903 4.945903],-50.069579271285264,5,[24.729515 24.729515 24.729515],1000,0,False

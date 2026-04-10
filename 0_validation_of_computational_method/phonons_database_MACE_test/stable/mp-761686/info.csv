@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+761686,Bi4Na8O12,24,[ 5.8854455   5.8854455  11.11578078],-118.3946658666398,5,[29.4272275 29.4272275 55.5789039],3000,0,False

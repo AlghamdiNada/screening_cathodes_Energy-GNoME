@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+38394,Al2BaTe4,7,[6.7296227  7.00503466 7.00503466],-28.01886712797297,5,[33.6481135 35.0251733 35.0251733],875,0,False

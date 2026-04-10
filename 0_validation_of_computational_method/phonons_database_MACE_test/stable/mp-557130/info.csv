@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557130,Cl16O24Te8Zn16,64,[ 7.762507 10.644612 15.863871],-267.477069096942,5,[38.812535 53.22306  79.319355],8000,0,False

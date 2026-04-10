@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+753799,Cs2O4Tm2,8,[ 3.47226148  3.47226384 13.61187854],-51.76346283335788,5,[17.3613074 17.3613192 68.0593927],1000,0,False

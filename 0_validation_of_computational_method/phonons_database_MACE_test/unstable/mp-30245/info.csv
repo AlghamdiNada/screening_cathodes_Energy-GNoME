@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+30245,H4Mg3O5,12,[ 3.08191121  3.081911   11.91430715],-65.25907384553294,5,[15.40955605 15.409555   59.57153575],1500,33,True

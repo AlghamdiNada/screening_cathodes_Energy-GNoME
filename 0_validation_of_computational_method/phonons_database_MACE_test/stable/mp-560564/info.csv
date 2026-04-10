@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560564,In2O49P12Si2Ti6,71,[15.86898625 15.86898625 15.86898589],-545.4169181907581,4,[63.475945   63.475945   63.47594356],4544,0,False

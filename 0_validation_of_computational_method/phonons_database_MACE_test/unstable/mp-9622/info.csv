@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9622,S12Sn4Tl16,32,[ 8.14444   8.14444  14.511395],-111.01670382584652,5,[40.7222   40.7222   72.556975],4000,46,True

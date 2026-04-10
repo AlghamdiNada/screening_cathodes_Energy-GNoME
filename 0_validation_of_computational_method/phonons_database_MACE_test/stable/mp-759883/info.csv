@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+759883,Bi2F2O2,6,[3.96592876 7.10229016 3.96592891],-32.23354987647723,5,[19.8296438  35.5114508  19.82964455],750,0,False

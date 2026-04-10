@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+35712,Ga12Mg6O24,42,[ 5.93148303  5.93148303 14.49515608],-251.95860797952662,4,[23.72593212 23.72593212 57.98062432],2688,1,True

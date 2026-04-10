@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558731,Li8S12Te4,24,[11.51506732  5.39049373  7.86950775],-93.41833384889642,5,[57.5753366  26.95246865 39.34753875],3000,0,False

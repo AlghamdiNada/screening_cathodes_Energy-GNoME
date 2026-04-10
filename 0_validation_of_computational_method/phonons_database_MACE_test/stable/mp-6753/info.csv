@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-6753,C8Ca20O52Si8,88,[10.377519    7.628694   15.31818827],-650.482226249357,3,[31.132557   22.886082   45.95456481],2376,0,False

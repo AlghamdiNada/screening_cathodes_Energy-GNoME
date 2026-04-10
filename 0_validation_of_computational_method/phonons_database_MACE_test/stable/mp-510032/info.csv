@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+510032,Ge12Os8,20,[5.77819146 5.77819146 9.30200365],-143.98612033356065,5,[28.8909573  28.8909573  46.51001825],2500,2,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-667386,Al20F104Na12Sr16,152,[10.397712 10.397712 18.601856],-848.2783649575902,3,[31.193136 31.193136 55.805568],4104,0,False

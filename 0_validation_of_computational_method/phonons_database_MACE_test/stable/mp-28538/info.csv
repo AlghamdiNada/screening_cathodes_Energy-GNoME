@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28538,H12I4Si4,20,[ 4.72546714  8.57542253 10.64149949],-70.17728367838305,5,[23.6273357  42.87711265 53.20749745],2500,0,False

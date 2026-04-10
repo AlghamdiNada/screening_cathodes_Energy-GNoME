@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+758527,H8Er4K12O40Si12,76,[ 5.934547 13.241064 13.749036],-510.959302827309,4,[23.738188 52.964256 54.996144],4864,0,False

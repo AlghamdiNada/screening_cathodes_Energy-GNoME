@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558724,La8S20Si4,32,[12.68343128  7.64170337  7.92982959],-196.39986958750538,5,[63.4171564  38.20851685 39.64914795],4000,0,False

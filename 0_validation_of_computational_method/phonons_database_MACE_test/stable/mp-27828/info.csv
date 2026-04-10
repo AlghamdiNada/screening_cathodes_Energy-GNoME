@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27828,Cl6Cs2Ti,9,[7.31739188 7.31739245 7.31739247],-37.210852044167545,5,[36.5869594  36.58696225 36.58696235],1125,0,False

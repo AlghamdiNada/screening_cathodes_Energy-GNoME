@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12171,K12Mg2O8,22,[8.44923324 8.44926331 6.58430833],-84.51949210682547,5,[42.2461662  42.24631655 32.92154165],2750,0,False

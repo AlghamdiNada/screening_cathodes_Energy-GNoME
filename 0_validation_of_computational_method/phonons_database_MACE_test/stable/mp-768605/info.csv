@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+768605,Ho8O20Ti4,32,[ 3.66336532 10.28715041 11.2021664 ],-277.04714556542456,5,[18.3168266  51.43575205 56.010832  ],4000,0,False

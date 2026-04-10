@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+771189,Ba4O10Ti3,17,[14.97284721 14.97034299  4.09626567],-131.78495012134712,5,[74.86423605 74.85171495 20.48132835],2125,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+643070,H14Ca4Mg3,21,[6.20733359 6.20733359 6.87006212],-67.59171975823558,5,[31.03666795 31.03666795 34.3503106 ],2625,6,True

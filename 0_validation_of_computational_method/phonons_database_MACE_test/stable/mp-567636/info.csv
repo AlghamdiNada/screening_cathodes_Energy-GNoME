@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+567636,FeSbV,3,[4.06858001 4.06857951 4.06857926],-21.890460225384622,5,[20.34290005 20.34289755 20.3428963 ],375,0,False

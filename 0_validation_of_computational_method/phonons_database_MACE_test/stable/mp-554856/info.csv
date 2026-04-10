@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554856,Na8O20Si8,36,[5.651165 8.463534 9.536231],-242.87865285173748,5,[28.255825 42.31767  47.681155],4500,0,False

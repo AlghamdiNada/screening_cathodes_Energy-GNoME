@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-11165,F8Mg8Na16O32P8,72,[ 5.17608343 11.61711945 13.6522585 ],-433.5256619004462,3,[15.52825029 34.85135835 40.9567755 ],1944,0,False

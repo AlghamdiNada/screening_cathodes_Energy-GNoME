@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560560,Cd12O36Si12,60,[ 7.28599731  6.9926608  15.10775788],-379.1345647850908,4,[29.14398924 27.9706432  60.43103152],3840,0,False

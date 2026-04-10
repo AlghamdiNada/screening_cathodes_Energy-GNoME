@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6591,Al2F12Li2Sr2,18,[ 5.04037593  5.04037565 10.24660224],-100.69743856080873,5,[25.20187965 25.20187825 51.2330112 ],2250,0,False

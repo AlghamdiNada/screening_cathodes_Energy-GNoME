@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+15016,Nd16O28Se12Si8,64,[11.27998012 11.27998012 11.27998012],-477.23689252694703,4,[45.11992048 45.11992048 45.11992048],4096,0,False

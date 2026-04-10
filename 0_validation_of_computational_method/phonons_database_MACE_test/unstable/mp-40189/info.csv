@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+40189,BaLaLiO6Te,10,[5.72314975 5.72314975 5.72314975],-63.96945818636088,5,[28.61574875 28.61574875 28.61574875],1250,97,True

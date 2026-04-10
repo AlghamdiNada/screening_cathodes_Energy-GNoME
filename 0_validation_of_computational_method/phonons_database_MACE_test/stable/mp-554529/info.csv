@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554529,Ba24O48Ti12,84,[ 6.13491891 10.58913954 23.09852106],-627.9827257050055,4,[24.53967564 42.35655816 92.39408424],5376,0,False

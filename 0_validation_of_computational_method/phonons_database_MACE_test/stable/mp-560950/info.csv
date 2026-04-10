@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560950,K8Na4O12Tl4,28,[ 7.026185    6.521367   12.11741832],-114.32789562952631,5,[35.130925  32.606835  60.5870916],3500,0,False

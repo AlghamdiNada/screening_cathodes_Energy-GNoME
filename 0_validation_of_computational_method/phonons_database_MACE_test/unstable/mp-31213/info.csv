@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+31213,O10Sr4Ti3,17,[ 3.91068857  3.91068745 14.36037665],-132.1444365593671,5,[19.55344285 19.55343725 71.80188325],2125,4,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9672,K4Ni2P4,10,[5.55337962 6.40759583 7.5680862 ],-40.869632979926365,5,[27.7668981  32.03797915 37.840431  ],1250,0,False

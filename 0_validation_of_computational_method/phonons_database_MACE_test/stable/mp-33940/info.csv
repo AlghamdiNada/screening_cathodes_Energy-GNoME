@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+33940,Mg4O8Pt2,14,[6.0338086  6.03380995 5.93206841],-82.98535053817811,5,[30.169043   30.16904975 29.66034205],1750,0,False

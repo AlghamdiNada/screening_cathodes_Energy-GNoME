@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9497,CN2O2Pr2,7,[3.96289994 3.96289994 8.408912  ],-59.621144766972165,5,[19.8144997 19.8144997 42.04456  ],875,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+768285,Be12Ge6O24,42,[7.88735226 7.88735112 7.88735344],-287.1496260996278,4,[31.54940904 31.54940448 31.54941376],2688,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+33985,BaIn2Te4,7,[7.1334973  7.13350678 7.13350342],-24.792787961280855,5,[35.6674865 35.6675339 35.6675171],875,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+760370,Bi24F32O20,76,[ 5.77175     5.867034   34.51274118],-398.41005869192435,4,[ 23.087       23.468136   138.05096472],4864,0,False

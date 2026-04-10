@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13182,Ge2Li4O10Ti2,18,[6.659297 6.659297 4.552501],-123.71711137546366,5,[33.296485 33.296485 22.762505],2250,48,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+2961,Mg2P4Si2,8,[5.71725605 5.71725588 6.50172776],-38.736523058164124,5,[28.58628025 28.5862794  32.5086388 ],1000,0,False

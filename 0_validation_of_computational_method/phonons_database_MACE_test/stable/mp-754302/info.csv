@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754302,Dy4O14Zr4,22,[7.48601363 7.48601363 7.48601363],-198.38229695561174,5,[37.43006815 37.43006815 37.43006815],2750,11,True

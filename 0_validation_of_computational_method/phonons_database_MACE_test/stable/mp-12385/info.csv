@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12385,Ba2O6TaY,10,[6.025464  6.0414633 6.025464 ],-83.39004321259732,5,[30.12732   30.2073165 30.12732  ],1250,0,False

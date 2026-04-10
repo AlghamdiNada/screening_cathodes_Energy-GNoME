@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+760411,CBi2O5,8,[7.54271676 7.52603144 3.88086429],-52.45299190191961,5,[37.7135838  37.6301572  19.40432145],1000,22,True

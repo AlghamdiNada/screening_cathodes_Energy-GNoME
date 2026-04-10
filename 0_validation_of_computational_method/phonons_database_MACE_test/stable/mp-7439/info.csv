@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7439,Cu3K3P2,8,[7.41985542 7.41985581 7.41985581],-27.705723879564996,5,[37.0992771  37.09927905 37.09927905],1000,0,False

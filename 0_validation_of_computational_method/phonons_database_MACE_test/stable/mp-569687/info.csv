@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+569687,Cl4Cu4Hg4Se4,16,[ 4.251609  7.173992 13.087809],-42.72785969675737,5,[21.258045 35.86996  65.439045],2000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+753693,Ge2Ho2O7,11,[5.72108336 4.95614498 5.72108336],-81.45519635246247,5,[28.6054168 24.7807249 28.6054168],1375,44,True

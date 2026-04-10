@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8922,CdO6Sb2,9,[5.26329933 5.26329973 4.8221408 ],-50.85721595324058,5,[26.31649665 26.31649865 24.110704  ],1125,0,False

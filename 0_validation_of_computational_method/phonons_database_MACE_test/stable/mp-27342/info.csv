@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27342,F24Ge10,34,[7.61663737 7.79163311 8.36674372],-162.21748982041942,5,[38.08318685 38.95816555 41.8337186 ],4250,0,False

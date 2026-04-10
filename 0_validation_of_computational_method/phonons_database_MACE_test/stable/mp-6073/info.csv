@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-6073,Al8Mg12O48Si12,80,[10.02097913 10.02097913 10.02097913],-578.4461469194715,3,[30.06293739 30.06293739 30.06293739],2160,0,False

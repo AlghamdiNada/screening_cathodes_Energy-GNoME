@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29075,Bi10Cl24Ga6,40,[12.22153651 12.22153651 12.22153664],-133.95062844150505,5,[61.10768255 61.10768255 61.1076832 ],5000,0,False

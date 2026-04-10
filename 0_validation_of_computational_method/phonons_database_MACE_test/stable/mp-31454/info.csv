@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+31454,RuSbTa,3,[4.35471994 4.35471925 4.35471861],-25.8529510206046,5,[21.7735997  21.77359625 21.77359305],375,0,False

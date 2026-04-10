@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16663,Ba12O34Ti8Y4,58,[ 6.00232841  6.00232841 30.019669  ],-460.67223305199275,4,[ 24.00931364  24.00931364 120.078676  ],3712,62,True

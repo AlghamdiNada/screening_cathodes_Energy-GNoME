@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23100,Bi2Lu2O12Sr4,20,[ 6.007318    5.906708   10.28366666],-132.42255928295646,5,[30.03659   29.53354   51.4183333],2500,0,False

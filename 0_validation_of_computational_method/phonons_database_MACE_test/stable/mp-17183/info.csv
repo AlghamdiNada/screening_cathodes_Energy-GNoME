@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17183,Be4Na8O16Si4,32,[4.93488111 7.01030868 9.88859443],-205.07850785551648,5,[24.67440555 35.0515434  49.44297215],4000,0,False

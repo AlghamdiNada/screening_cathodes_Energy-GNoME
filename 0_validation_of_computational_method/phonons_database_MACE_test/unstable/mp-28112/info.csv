@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28112,Cl18In10,28,[9.30077932 9.30077853 9.30077987],-85.80271408876257,5,[46.5038966  46.50389265 46.50389935],3500,2,True

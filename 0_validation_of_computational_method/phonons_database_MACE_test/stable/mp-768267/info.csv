@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+768267,Ho6In6O18,30,[ 6.26308628  6.26307956 12.2455948 ],-209.4401895574527,5,[31.3154314 31.3153978 61.227974 ],3750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+776466,Ba2N2O11Ti6,21,[8.00733093 8.00733093 9.27685703],-180.1215598829969,5,[40.03665465 40.03665465 46.38428515],2625,0,False

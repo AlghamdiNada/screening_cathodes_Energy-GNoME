@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+22661,Ag2In2P4S12,20,[ 6.21164267  6.21164267 13.5204474 ],-87.62005111529197,5,[31.05821335 31.05821335 67.602237  ],2500,0,False

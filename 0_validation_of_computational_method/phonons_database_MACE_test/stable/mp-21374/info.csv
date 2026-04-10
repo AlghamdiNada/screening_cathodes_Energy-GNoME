@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+21374,CdIn2Te4,7,[6.36149982 6.36149983 7.74338398],-20.96037625820624,5,[31.8074991  31.80749915 38.7169199 ],875,0,False

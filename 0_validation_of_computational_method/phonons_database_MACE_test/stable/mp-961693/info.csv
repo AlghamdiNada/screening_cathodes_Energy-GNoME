@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+961693,AuInZr,3,[4.57593309 4.57593309 4.57593309],-15.671066603680902,5,[22.87966545 22.87966545 22.87966545],375,0,False

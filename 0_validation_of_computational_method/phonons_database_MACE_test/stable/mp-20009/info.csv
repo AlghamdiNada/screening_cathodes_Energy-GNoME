@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+20009,Na2O12Os2Pr4,20,[6.012254   5.602085   9.75332335],-149.68461783382097,5,[30.06127    28.010425   48.76661675],2500,0,False

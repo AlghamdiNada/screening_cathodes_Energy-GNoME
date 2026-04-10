@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+675614,In12K2Se19,33,[10.11725668 10.11725668 10.11725655],-119.02687045154215,5,[50.5862834  50.5862834  50.58628275],4125,42,True

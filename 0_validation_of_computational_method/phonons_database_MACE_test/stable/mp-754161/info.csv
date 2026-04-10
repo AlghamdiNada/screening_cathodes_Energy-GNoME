@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754161,Ho2O6Rb6,14,[7.20335289 7.20335289 7.19284919],-71.37750689390732,5,[36.01676445 36.01676445 35.96424595],1750,1,True

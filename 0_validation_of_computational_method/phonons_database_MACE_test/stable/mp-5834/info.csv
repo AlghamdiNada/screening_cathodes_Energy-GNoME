@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-5834,Mg16O48Si16,80,[ 5.245794  8.945396 18.449503],-573.8160527089,3,[15.737382 26.836188 55.348509],2160,0,False

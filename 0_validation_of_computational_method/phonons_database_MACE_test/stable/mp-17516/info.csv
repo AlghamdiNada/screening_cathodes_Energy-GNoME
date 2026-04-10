@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17516,Ca10O24P6Se,41,[9.60492384 9.60492384 6.897188  ],-291.4978609148442,5,[48.0246192 48.0246192 34.48594  ],5125,0,False

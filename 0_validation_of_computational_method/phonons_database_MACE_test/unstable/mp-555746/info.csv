@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555746,Ag3InO8P2,14,[5.2351582  5.2351582  7.45724286],-81.53632117664407,5,[26.175791  26.175791  37.2862143],1750,38,True

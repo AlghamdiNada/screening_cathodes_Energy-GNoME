@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+863678,KO12Sb3Zn4,20,[6.84340613 6.84340613 6.84340698],-107.03245925552778,5,[34.21703065 34.21703065 34.2170349 ],2500,0,False

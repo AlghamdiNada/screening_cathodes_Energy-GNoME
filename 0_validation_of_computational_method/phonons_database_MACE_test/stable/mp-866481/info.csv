@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+866481,Co8Sn12Te12,32,[9.13219958 9.13219958 9.13219941],-146.38097325084652,5,[45.6609979  45.6609979  45.66099705],4000,0,False

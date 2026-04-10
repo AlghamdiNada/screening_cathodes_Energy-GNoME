@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+15103,Ge12O48Sr12Y8,80,[11.48305172 11.48305172 11.48305172],-576.7791329458696,4,[45.93220688 45.93220688 45.93220688],5120,0,False

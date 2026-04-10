@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+772497,B12Er8O30,50,[ 6.22025777  6.22025777 18.84042227],-412.89462394475606,4,[24.88103108 24.88103108 75.36168908],3200,1,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-27794,B32Ba4O52,88,[ 8.65389511  8.65389511 13.10523069],-701.3745186143631,3,[25.96168533 25.96168533 39.31569207],2376,7,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29417,Br12Na6Sc2,20,[ 7.23854888  7.23843687 13.14095628],-72.88946386768335,5,[36.1927444  36.19218435 65.7047814 ],2500,0,False

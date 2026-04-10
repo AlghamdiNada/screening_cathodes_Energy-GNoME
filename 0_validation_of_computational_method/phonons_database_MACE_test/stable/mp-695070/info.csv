@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-695070,Ca12Ga8O48Si4Sn8,80,[10.9304917 10.9304917 10.9304917],-527.2812071793162,3,[32.7914751 32.7914751 32.7914751],2160,0,False

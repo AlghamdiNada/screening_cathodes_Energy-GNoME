@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+626497,H6Al2O6,14,[5.17301876 5.17301876 4.78538257],-81.59790298055216,5,[25.8650938  25.8650938  23.92691285],1750,0,False

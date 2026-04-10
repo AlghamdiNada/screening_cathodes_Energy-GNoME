@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+22512,In4O10Sr4,18,[9.05744072 9.05744072 9.05744072],-104.19590345620375,5,[45.2872036 45.2872036 45.2872036],2250,0,False

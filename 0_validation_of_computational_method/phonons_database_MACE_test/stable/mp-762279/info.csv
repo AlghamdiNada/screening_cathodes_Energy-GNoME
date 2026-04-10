@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+762279,K2O17Ti8,27,[ 8.09953259  8.09953259 12.02089944],-227.6917307145843,5,[40.49766295 40.49766295 60.1044972 ],3375,0,False

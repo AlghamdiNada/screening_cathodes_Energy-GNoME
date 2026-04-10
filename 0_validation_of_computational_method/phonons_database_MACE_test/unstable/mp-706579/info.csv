@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-706579,H12K4O24Se8,48,[ 6.402902  6.477904 16.252141],-241.85413907038873,3,[19.208706 19.433712 48.756423],1296,96,True

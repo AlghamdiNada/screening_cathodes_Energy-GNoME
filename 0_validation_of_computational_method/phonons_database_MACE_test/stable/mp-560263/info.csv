@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560263,F12O20Pr8Se6,46,[11.87695907 11.87695907  8.44072339],-297.6764206993084,5,[59.38479535 59.38479535 42.20361695],5750,0,False

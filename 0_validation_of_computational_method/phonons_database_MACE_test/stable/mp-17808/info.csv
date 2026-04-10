@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17808,Nb4O18Zn8,30,[ 5.26038608  5.26038608 14.382393  ],-195.43546396354282,5,[26.3019304 26.3019304 71.911965 ],3750,0,False

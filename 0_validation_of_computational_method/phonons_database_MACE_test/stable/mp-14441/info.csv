@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14441,S32Ti8Tl16,56,[ 6.492839  9.587561 23.115073],-270.0353311582968,5,[ 32.464195  47.937805 115.575365],7000,0,False

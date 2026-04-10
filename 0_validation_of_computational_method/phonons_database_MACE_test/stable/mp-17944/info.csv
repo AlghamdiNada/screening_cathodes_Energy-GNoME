@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17944,Al3Ca3F18Na3,27,[8.87635163 8.87635137 5.03968594],-148.8864910341663,5,[44.38175815 44.38175685 25.1984297 ],3375,0,False

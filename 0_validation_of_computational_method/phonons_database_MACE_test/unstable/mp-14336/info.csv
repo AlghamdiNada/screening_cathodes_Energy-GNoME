@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14336,Cs2Ni3Se4,9,[6.13681511 6.13681549 7.99306266],-37.81960594436708,5,[30.68407555 30.68407745 39.9653133 ],1125,0,False

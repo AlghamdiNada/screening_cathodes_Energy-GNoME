@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6564,Mg2O14Si4Sr4,24,[8.09718 8.09718 5.22654],-172.5220319127546,5,[40.4859 40.4859 26.1327],3000,0,False

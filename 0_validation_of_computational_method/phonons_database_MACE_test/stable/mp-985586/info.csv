@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+985586,BrNa3O,5,[4.53313 4.53313 4.53313],-17.471091399683846,5,[22.66565 22.66565 22.66565],625,0,False

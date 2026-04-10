@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+37520,Ca2Pr4Te8,14,[8.34950715 8.34946227 8.34964836],-68.56488057574339,5,[41.74753575 41.74731135 41.7482418 ],1750,0,False

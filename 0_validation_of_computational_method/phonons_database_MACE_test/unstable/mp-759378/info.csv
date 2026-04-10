@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+759378,Nb12O40Tl12,64,[17.14630836 17.14630836 17.14630836],-470.881280817423,4,[68.58523344 68.58523344 68.58523344],4096,134,True

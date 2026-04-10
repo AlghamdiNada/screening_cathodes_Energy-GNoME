@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+34144,Al12Mg6O24,42,[ 5.7736526  5.7736526 14.159491 ],-297.5325666499825,4,[23.0946104 23.0946104 56.637964 ],2688,0,False

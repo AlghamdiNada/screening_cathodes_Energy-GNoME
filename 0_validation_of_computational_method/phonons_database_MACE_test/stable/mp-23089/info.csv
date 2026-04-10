@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23089,Bi4O18Sr2Ta4,28,[ 5.53780908  5.53548553 12.80953138],-222.1951115349136,5,[27.6890454  27.67742765 64.0476569 ],3500,0,False

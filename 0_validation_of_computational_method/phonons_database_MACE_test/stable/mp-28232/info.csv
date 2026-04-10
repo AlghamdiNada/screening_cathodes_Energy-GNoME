@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28232,Mg2O10Ti4,16,[ 3.74069933  5.21434758 10.00066454],-131.35562705718695,5,[18.70349665 26.0717379  50.0033227 ],2000,0,False

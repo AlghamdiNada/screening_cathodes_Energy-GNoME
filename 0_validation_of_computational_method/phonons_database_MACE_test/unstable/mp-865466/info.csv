@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+865466,H8F6N2Ti,17,[5.8237232 5.8237232 4.886481 ],-90.15775608992973,5,[29.118616 29.118616 24.432405],2125,60,True

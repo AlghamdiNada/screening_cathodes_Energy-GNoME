@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+11739,KLaTe2,4,[8.62744893 8.62744893 8.62744958],-18.185089566571367,5,[43.13724465 43.13724465 43.1372479 ],500,0,False

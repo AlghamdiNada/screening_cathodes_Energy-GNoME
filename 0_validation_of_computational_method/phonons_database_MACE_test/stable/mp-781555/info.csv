@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-781555,H24B12Ca2Mg2O34,74,[ 6.700678    8.337519   11.80535605],-474.3783640771653,3,[20.102034   25.012557   35.41606815],1998,0,False

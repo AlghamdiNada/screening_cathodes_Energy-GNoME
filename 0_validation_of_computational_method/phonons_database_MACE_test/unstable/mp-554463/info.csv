@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554463,Lu6Na18O42Si12,78,[ 9.42917827  9.42917827 13.772833  ],-534.0106783795534,4,[37.71671308 37.71671308 55.091332  ],4992,2,True

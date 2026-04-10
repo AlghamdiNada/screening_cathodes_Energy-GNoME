@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+861950,AuCa2Sb,4,[5.30573104 5.30573104 5.30573104],-14.78413230187103,5,[26.5286552 26.5286552 26.5286552],500,0,False

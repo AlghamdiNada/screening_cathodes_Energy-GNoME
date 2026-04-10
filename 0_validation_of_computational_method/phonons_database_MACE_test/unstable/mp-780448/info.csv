@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+780448,Ho12O42Sb12,66,[ 7.52884026  7.52884026 18.52612   ],-470.77883003111793,4,[30.11536104 30.11536104 74.10448   ],4224,4,True

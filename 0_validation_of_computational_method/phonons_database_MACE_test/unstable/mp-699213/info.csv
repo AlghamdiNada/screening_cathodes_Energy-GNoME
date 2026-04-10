@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+699213,H2Cs2O16P4Zn4,28,[8.60965634 8.60965634 7.80189737],-169.00172779047807,5,[43.0482817  43.0482817  39.00948685],3500,13,True

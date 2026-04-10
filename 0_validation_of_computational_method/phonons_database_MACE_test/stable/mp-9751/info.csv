@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9751,Al4Ge4O14,22,[5.26972275 5.26972275 9.72417856],-151.7621173434539,5,[26.34861375 26.34861375 48.6208928 ],2750,0,False

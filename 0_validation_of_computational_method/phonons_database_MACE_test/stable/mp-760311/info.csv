@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+760311,Na7O6Sb,14,[6.3929952  6.3929952  6.39299557],-63.00019387520946,5,[31.964976   31.964976   31.96497785],1750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+643276,H14Li2Mg4Ru2,22,[ 4.69630128  4.69630128 10.699426  ],-82.98532926626103,5,[23.4815064 23.4815064 53.49713  ],2750,34,True

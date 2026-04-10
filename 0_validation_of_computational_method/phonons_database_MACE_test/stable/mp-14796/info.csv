@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14796,K2Pt4Se6,12,[7.78727467 7.78727469 7.78727391],-55.152721852794286,5,[38.93637335 38.93637345 38.93636955],1500,0,False

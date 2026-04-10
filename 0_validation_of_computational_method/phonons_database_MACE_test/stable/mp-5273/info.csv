@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5273,KPrTe2,4,[8.61575027 8.61575027 8.61574992],-17.726199896560843,5,[43.07875135 43.07875135 43.0787496 ],500,0,False

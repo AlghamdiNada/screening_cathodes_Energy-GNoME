@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17791,Cd8Se12Si2,22,[ 7.57601042  7.57601042 13.13906206],-71.09414925579429,5,[37.8800521 37.8800521 65.6953103],2750,0,False

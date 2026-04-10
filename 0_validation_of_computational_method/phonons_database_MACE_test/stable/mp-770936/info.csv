@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+770936,Ba8O20Sc8,36,[ 5.95205281  6.08049914 16.44195224],-275.6857027301993,5,[29.76026405 30.4024957  82.2097612 ],4500,0,False

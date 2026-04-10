@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+644203,H3CaCs,5,[4.621186 4.621186 4.621186],-14.861899982832426,5,[23.10593 23.10593 23.10593],625,0,False

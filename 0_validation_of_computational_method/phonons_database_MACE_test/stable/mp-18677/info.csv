@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18677,B8O24Pr2Sc6,40,[ 6.30886933  6.30886933 12.15966678],-340.87188511207955,5,[31.54434665 31.54434665 60.7983339 ],5000,0,False

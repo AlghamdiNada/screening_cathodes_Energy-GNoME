@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+776110,O36Si12Sn12,60,[ 7.049169   11.394763   13.09830116],-419.5518747419126,4,[28.196676   45.579052   52.39320464],3840,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+553248,CsLaNb2O7,11,[ 3.952105  3.952105 11.503833],-90.77707191812941,5,[19.760525 19.760525 57.519165],1375,43,True

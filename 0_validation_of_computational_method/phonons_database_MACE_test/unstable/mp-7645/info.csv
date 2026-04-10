@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7645,AlKO8S2,12,[4.96785513 4.96785513 7.49508153],-74.87569637697597,5,[24.83927565 24.83927565 37.47540765],1500,38,True

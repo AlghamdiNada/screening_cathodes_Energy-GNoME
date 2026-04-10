@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+676284,Ag2Se4Y2,8,[ 8.10138158 10.91057685  7.29901914],-41.855040088342754,5,[40.5069079  54.55288425 36.4950957 ],1000,0,False

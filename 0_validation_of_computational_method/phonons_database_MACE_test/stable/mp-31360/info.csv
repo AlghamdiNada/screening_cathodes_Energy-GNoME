@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+31360,Cl18K4Ta6,28,[9.75363789 9.75363789 9.58309723],-148.97626194309302,5,[48.76818945 48.76818945 47.91548615],3500,0,False

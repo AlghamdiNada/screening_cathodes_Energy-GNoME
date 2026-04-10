@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1154,C28Ho16,44,[ 3.67279111 12.49005463 13.62742617],-341.4531862828692,5,[18.36395555 62.45027315 68.13713085],5500,0,False

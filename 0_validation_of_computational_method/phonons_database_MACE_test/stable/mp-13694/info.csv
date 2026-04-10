@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13694,CuO2Pr,4,[6.07770931 6.07770962 6.07771011],-27.300010640204796,5,[30.38854655 30.3885481  30.38855055],500,0,False

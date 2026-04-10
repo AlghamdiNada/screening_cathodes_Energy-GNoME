@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754883,HoKO2,4,[6.49985837 6.49985837 6.49985851],-26.60145275378725,5,[32.49929185 32.49929185 32.49929255],500,0,False

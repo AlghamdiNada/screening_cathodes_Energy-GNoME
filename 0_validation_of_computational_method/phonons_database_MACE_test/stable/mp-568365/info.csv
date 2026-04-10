@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+568365,Br24Li48N8,80,[13.85012043 13.85001117 13.85024856],-285.8941434974386,4,[55.40048172 55.40004468 55.40099424],5120,0,False

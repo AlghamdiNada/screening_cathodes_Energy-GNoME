@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-560768,B24Na8O72Sr32,136,[13.2618679 13.2618679 13.2618679],-952.1572550256867,3,[39.7856037 39.7856037 39.7856037],3672,0,False

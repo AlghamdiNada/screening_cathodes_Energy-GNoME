@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+753315,Mg3O4Zn,8,[5.23724774 5.23724774 3.028076  ],-44.27955512418563,5,[26.1862387 26.1862387 15.14038  ],1000,0,False

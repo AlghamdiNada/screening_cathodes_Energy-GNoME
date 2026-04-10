@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-734733,H54Ca19Mg8,81,[10.5293849  10.52938412 10.5293839 ],-266.5283199266277,3,[31.5881547  31.58815236 31.5881517 ],2187,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27172,Cl18Cs6In4,28,[9.63296304 9.63296304 9.63296332],-91.74126029672398,5,[48.1648152 48.1648152 48.1648166],3500,0,False

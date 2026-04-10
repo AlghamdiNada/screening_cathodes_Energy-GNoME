@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560530,Cd4Nb4O14,22,[7.41025242 7.41034403 7.41034591],-157.18951821088532,5,[37.0512621  37.05172015 37.05172955],2750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+676286,Cd2O18Zr8,28,[16.88440222 16.88440222  6.11260378],-244.29075957558064,5,[84.4220111 84.4220111 30.5630189],3500,0,False

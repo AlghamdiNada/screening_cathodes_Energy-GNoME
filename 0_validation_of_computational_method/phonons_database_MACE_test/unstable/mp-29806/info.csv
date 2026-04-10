@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29806,Cs2I6Pd,9,[7.92447853 7.92446297 7.92513957],-22.973544536768234,5,[39.62239265 39.62231485 39.62569785],1125,0,False

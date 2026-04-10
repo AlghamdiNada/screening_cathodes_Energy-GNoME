@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-557189,Li20O60P20,100,[ 5.512048   13.301205   19.62527469],-673.9173460949442,3,[16.536144   39.903615   58.87582407],2700,0,False

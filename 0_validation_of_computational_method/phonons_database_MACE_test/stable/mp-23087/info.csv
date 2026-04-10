@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-23087,B28Cl4Mg12O52,96,[ 8.53478917  8.52864255 12.0778281 ],-711.866104130763,3,[25.60436751 25.58592765 36.2334843 ],2592,0,False

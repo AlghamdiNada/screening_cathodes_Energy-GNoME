@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+582753,Te22Tl44,66,[ 9.23478273  9.23478273 31.82117591],-185.9534014219757,5,[ 46.17391365  46.17391365 159.10587955],8250,0,False

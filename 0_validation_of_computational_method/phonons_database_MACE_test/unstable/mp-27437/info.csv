@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27437,I8O24Zr2,34,[8.41292966 8.41292966 7.39343847],-176.29638566055243,5,[42.0646483  42.0646483  36.96719235],4250,7,True

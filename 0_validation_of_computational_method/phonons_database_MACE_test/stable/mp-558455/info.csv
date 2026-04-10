@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558455,B6Li10Na8O18,42,[7.29891445 7.29891445 9.87367656],-249.16626032490495,4,[29.1956578  29.1956578  39.49470624],2688,0,False

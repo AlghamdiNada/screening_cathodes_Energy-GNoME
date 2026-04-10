@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12244,Cs6F14Ti2,22,[8.39109239 8.39109239 6.30555499],-115.1675848699583,5,[41.95546195 41.95546195 31.52777495],2750,0,False

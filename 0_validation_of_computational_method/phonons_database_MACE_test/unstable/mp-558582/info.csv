@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558582,In2O18P6,26,[7.55667305 7.55667305 9.67983658],-180.35860775227613,5,[37.78336525 37.78336525 48.3991829 ],3250,0,False

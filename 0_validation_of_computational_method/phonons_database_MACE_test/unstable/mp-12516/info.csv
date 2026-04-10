@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12516,Nd2O2Sb2Zn2,8,[4.193805 4.193805 9.654326],-43.030677909406236,5,[20.969025 20.969025 48.27163 ],1000,0,False

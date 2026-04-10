@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-684024,Li64N64Si32,160,[ 9.87404552  9.88431888 14.94855318],-981.2014579423502,2,[19.74809104 19.76863776 29.89710636],1280,2,True

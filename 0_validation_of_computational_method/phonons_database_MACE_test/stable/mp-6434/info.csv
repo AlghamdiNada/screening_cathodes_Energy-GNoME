@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6434,Al4O16Rb4Si4,28,[5.379884 8.908396 9.343347],-197.61878082773978,5,[26.89942  44.54198  46.716735],3500,0,False

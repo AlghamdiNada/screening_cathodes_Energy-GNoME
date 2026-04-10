@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+24007,H2Br2O2Rb4,10,[4.47932481 6.94147895 8.90693162],-38.42256032542747,5,[22.39662405 34.70739475 44.5346581 ],1250,0,False

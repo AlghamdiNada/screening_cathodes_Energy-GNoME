@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18150,K9Lu3O24P6,42,[9.55407681 9.55407709 7.608322  ],-283.17764601808113,5,[47.77038405 47.77038545 38.04161   ],5250,0,False

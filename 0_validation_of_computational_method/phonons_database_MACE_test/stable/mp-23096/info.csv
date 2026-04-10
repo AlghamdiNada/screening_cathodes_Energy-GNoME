@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23096,Cl4Lu4O12Se4,24,[6.862369 7.23855  8.711983],-147.4011890086872,5,[34.311845 36.19275  43.559915],3000,0,False

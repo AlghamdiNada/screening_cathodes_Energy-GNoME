@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+752676,Bi4O10Ti2,16,[8.40090487 8.40090487 5.51813373],-111.64099439164568,5,[42.00452435 42.00452435 27.59066865],2000,0,False

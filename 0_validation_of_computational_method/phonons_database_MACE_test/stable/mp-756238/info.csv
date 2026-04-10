@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+756238,Ca3I18Sr6,27,[13.88188383 13.88188383  7.485159  ],-87.812500621964,5,[69.40941915 69.40941915 37.425795  ],3375,0,False

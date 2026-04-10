@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555217,Dy6F2O24Se8,40,[10.35250356 10.35250356  6.76786428],-259.379861015835,5,[51.7625178 51.7625178 33.8393214],5000,3,True

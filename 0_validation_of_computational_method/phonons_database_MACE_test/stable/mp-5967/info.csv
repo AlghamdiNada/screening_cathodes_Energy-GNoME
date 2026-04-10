@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5967,CoSbTi,3,[4.14130832 4.14130857 4.14130887],-20.92111415398353,5,[20.7065416  20.70654285 20.70654435],375,0,False

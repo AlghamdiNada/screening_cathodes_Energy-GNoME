@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+760415,Li3S4Sb,8,[5.62778013 5.62778013 6.76562429],-33.153049409259154,5,[28.13890065 28.13890065 33.82812145],1000,0,False

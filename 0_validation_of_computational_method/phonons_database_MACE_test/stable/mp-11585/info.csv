@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+11585,GeLa2MgO6,10,[5.51795559 5.51795559 5.51795611],-73.86753602421288,5,[27.58977795 27.58977795 27.58978055],1250,0,False

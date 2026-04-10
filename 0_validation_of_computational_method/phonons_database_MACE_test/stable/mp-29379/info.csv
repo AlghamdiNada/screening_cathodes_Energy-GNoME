@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29379,Bi4K12Te12,28,[10.42660937 10.42660937 10.42660937],-88.05627138605908,5,[52.13304685 52.13304685 52.13304685],3500,0,False

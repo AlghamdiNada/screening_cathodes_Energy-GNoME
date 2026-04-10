@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+30096,Be4Cl12Te14,30,[ 5.46220766 10.02798778 16.74100031],-100.39912937680583,5,[27.3110383  50.1399389  83.70500155],3750,0,False

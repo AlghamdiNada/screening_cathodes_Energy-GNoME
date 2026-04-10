@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17389,Ag2Pr6Se14Si2,24,[10.83301235 10.83301235  6.096088  ],-125.94369406393962,5,[54.16506175 54.16506175 30.48044   ],3000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+755416,Ga4Ho4O12,20,[5.283774 5.59309  7.634112],-143.39188341842072,5,[26.41887 27.96545 38.17056],2500,0,False

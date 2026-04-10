@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-722834,H4Na12O18P4,38,[ 5.5835497   5.5835497  17.15030785],-216.19843132108673,3,[16.7506491  16.7506491  51.45092355],1026,0,False

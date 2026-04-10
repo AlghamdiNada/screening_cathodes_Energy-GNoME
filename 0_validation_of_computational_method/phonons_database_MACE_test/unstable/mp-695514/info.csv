@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+695514,Na3Nd3O36Sr6Ti12,60,[ 5.50411   5.50411  23.659564],-483.1044680347259,4,[22.01644  22.01644  94.638256],3840,131,True

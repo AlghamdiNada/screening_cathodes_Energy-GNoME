@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+753690,H6Br2Li8O6,22,[7.730563   5.540693   6.62468277],-103.5113589993484,5,[38.652815   27.703465   33.12341385],2750,0,False

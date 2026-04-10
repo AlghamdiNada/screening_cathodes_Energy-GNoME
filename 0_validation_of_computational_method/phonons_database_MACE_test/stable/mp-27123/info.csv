@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27123,Er12F12Se12,36,[ 4.03997589  9.87140492 18.70407708],-220.61491674592222,5,[20.19987945 49.3570246  93.5203854 ],4500,0,False

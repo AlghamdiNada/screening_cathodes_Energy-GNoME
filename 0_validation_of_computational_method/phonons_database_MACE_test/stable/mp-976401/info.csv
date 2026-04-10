@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+976401,Ge12Rh8Se12,32,[8.59012558 8.59012558 8.59012529],-168.1435352139943,5,[42.9506279  42.9506279  42.95062645],4000,0,False

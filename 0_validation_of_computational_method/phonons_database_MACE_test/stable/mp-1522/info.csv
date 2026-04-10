@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1522,Fe2S4,6,[3.37769817 4.42562487 5.39652822],-35.688067816968335,5,[16.88849085 22.12812435 26.9826411 ],750,0,False

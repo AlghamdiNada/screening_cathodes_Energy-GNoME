@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+643004,H8FeMg2Sr,12,[4.46933434 4.46933434 6.51780904],-44.2874227922195,5,[22.3466717 22.3466717 32.5890452],1500,0,False

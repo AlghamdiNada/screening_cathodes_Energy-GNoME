@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769349,BaO16Ta6,23,[9.16286245 9.16286245 3.88763848],-218.3517071957496,5,[45.81431225 45.81431225 19.4381924 ],2875,4,True

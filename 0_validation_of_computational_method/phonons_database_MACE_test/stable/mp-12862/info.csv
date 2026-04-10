@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12862,Lu2O8Ta2,12,[6.38930251 6.38930251 5.0103483 ],-111.46961602195277,5,[31.94651255 31.94651255 25.0517415 ],1500,0,False

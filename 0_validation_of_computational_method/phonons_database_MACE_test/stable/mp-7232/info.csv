@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7232,Cs2HgO2,5,[4.43915518 4.43915479 7.91302743],-16.96022075851838,5,[22.1957759  22.19577395 39.56513715],625,0,False

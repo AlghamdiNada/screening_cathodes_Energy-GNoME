@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556046,B4Ga4O14Sr2,24,[7.2741996 7.2741996 5.800794 ],-167.4593781658891,5,[36.370998 36.370998 29.00397 ],3000,0,False

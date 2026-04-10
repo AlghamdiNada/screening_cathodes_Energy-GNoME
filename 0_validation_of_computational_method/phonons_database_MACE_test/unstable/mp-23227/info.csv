@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23227,Br2Cu2,4,[4.10443347 4.10443465 6.06297457],-11.527370515544561,5,[20.52216735 20.52217325 30.31487285],500,8,True

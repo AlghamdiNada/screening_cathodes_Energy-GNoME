@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14116,CuO2Rh,4,[5.96093114 5.96093148 5.96093138],-23.50818891422661,5,[29.8046557 29.8046574 29.8046569],500,0,False

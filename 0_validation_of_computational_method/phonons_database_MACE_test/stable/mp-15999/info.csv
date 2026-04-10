@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+15999,Au2Li6S4,12,[5.76341785 6.29217201 7.0485673 ],-46.94309405533838,5,[28.81708925 31.46086005 35.2428365 ],1500,0,False

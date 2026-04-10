@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+756810,F2O12Sr3Ta4,21,[7.48843483 7.48843483 7.48843497],-181.22795476375006,5,[37.44217415 37.44217415 37.44217485],2625,18,True

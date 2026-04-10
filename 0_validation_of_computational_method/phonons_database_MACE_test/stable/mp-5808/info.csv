@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5808,NdRbTe2,4,[8.93566436 8.93566436 8.93566432],-17.55840434621698,5,[44.6783218 44.6783218 44.6783216],500,0,False

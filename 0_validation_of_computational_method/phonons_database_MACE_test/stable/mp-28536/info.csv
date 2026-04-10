@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28536,Ba4O20Se8,32,[11.75860894  4.58024973  9.80053485],-181.76277822679475,5,[58.7930447  22.90124865 49.00267425],4000,0,False

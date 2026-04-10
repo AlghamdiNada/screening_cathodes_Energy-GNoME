@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+37906,LiMgN,3,[3.505191   3.50519036 3.50519105],-13.727239559063275,5,[17.525955   17.5259518  17.52595525],375,2,True

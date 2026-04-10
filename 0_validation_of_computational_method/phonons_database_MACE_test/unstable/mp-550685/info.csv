@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+550685,Ba2CaO6Te,10,[6.01652129 6.01652129 6.01652129],-62.20408669670967,5,[30.08260645 30.08260645 30.08260645],1250,0,False

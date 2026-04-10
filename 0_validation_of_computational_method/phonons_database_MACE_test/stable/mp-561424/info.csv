@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+561424,Al4F16K4,24,[7.22841007 6.43042523 7.33045289],-128.36760038242562,5,[36.14205035 32.15212615 36.65226445],3000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28520,Rb4Sn2Te10,16,[8.83535055 8.83550161 9.96762861],-51.219818282902196,5,[44.17675275 44.17750805 49.83814305],2000,0,False

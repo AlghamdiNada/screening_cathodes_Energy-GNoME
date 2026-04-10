@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1821,Se4W2,6,[ 3.31993213  3.31993371 13.7371873 ],-43.18691860723396,5,[16.59966065 16.59966855 68.6859365 ],750,0,False

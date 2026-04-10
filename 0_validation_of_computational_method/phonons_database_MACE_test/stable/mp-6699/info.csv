@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-6699,Mg12Na12O48P12,84,[ 6.932173  8.899497 15.506528],-544.5227381087507,3,[20.796519 26.698491 46.519584],2268,0,False

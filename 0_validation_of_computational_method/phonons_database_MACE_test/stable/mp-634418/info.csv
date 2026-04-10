@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+634418,H2Ca2Na2O8Si2,16,[7.03456852 5.39814252 5.45496424],-102.69539791434092,5,[35.1728426 26.9907126 27.2748212],2000,0,False

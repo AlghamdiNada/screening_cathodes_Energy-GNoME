@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+568062,DySe2Tl,4,[8.09538939 8.09538939 8.09538981],-19.295234439716438,5,[40.47694695 40.47694695 40.47694905],500,0,False

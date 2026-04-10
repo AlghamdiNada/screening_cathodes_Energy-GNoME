@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+10778,PrRbSe2,4,[8.36649038 8.36649038 8.36649037],-19.583821193248447,5,[41.8324519  41.8324519  41.83245185],500,0,False

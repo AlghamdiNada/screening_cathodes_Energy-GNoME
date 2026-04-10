@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+24044,H12Br2CaO6,21,[8.14928986 8.14928986 4.075433  ],-100.44109083801806,5,[40.7464493 40.7464493 20.377165 ],2625,0,False

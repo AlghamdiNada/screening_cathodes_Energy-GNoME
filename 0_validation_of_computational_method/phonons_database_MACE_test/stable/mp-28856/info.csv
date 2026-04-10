@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28856,Au20Na28S24,72,[ 7.145459 10.626791 22.670336],-254.4848755214183,4,[28.581836 42.507164 90.681344],4608,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769138,Dy12O42Sb12,66,[ 7.53421871  7.53421871 18.54538   ],-470.9588096802416,4,[30.13687484 30.13687484 74.18152   ],4224,4,True

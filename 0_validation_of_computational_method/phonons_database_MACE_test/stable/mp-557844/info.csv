@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-557844,K4Mg16O48P12,80,[ 6.233985  9.676371 16.562057],-538.0833653690408,3,[18.701955 29.029113 49.686171],2160,0,False

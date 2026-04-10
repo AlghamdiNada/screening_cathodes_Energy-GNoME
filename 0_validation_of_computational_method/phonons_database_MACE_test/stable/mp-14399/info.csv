@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14399,Al12Li12O48Si12,84,[10.59727667 10.59727667 11.386715  ],-606.2463013139692,4,[42.38910668 42.38910668 45.54686   ],5376,0,False

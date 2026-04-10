@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-28234,Al24Ca2O38,64,[ 5.61588022  5.61588022 22.05087   ],-475.15964332522054,3,[16.84764066 16.84764066 66.15261   ],1728,44,True

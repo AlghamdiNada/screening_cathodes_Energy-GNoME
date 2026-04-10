@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9239,La2Mg2Na2O12Te2,20,[5.599857   5.62565    7.94611012],-124.74158882280113,5,[27.999285  28.12825   39.7305506],2500,10,True

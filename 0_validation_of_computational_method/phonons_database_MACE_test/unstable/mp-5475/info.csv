@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5475,N2NaTa,4,[5.91380359 5.91380359 5.91380338],-33.477231160042564,5,[29.56901795 29.56901795 29.5690169 ],500,13,True

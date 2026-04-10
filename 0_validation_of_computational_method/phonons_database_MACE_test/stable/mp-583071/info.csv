@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+583071,H20Al4Ca4,28,[ 4.417463  4.941085 12.168541],-97.67667784092593,5,[22.087315 24.705425 60.842705],3500,0,False

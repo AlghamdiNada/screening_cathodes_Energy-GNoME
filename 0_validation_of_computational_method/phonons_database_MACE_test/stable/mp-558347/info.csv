@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558347,Ba2K8O18Si6,34,[ 7.33240652  7.33240652 11.290372  ],-219.68821105404317,5,[36.6620326 36.6620326 56.45186  ],4250,0,False

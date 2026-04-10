@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8039,AlF3,4,[3.58945264 3.58945264 3.58945264],-23.290957794299437,5,[17.9472632 17.9472632 17.9472632],500,21,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-560832,C9H18Ca9O36,72,[10.47547632 10.47547632  7.52441219],-469.15535174915806,3,[31.42642896 31.42642896 22.57323657],1944,0,False

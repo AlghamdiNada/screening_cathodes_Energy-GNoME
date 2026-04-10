@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+41191,FNa3O10P2Ti2,18,[7.08005847 7.07016057 6.49329275],-128.1269378743385,5,[35.40029235 35.35080285 32.46646375],2250,0,False

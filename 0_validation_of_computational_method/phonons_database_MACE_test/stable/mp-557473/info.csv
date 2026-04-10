@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557473,Ge8K20Li4O28,60,[16.10275     6.32563    10.73956482],-310.0501206254364,4,[64.411      25.30252    42.95825928],3840,0,False

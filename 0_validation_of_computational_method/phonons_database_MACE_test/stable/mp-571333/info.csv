@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+571333,Ca10N12Si4,26,[ 5.76008871  5.76008871 12.72626819],-170.72174094793877,5,[28.80044355 28.80044355 63.63134095],3250,0,False

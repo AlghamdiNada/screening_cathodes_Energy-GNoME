@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6782,Li2O6TeZr,10,[5.57863145 5.57863145 5.57863095],-66.30520241934693,5,[27.89315725 27.89315725 27.89315475],1250,0,False

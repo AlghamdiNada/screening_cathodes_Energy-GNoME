@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-774753,Ga8Li40O32,80,[9.098802 9.110797 9.617968],-411.85958101763026,3,[27.296406 27.332391 28.853904],2160,0,False

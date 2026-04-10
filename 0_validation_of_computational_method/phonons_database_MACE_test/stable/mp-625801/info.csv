@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-625801,H32O20Sr2,54,[ 6.328104    6.328104   11.20171539],-273.2715398581125,3,[18.984312   18.984312   33.60514617],1458,0,False

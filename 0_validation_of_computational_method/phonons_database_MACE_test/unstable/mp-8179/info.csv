@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8179,Li2O4Tl2,8,[5.69121038 5.69121038 5.69121038],-36.86300598933266,5,[28.4560519 28.4560519 28.4560519],1000,97,True

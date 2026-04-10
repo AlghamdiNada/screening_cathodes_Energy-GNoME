@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28477,Cl4O12Sr2,18,[6.85732663 6.85732578 7.30681797],-83.42794979848003,5,[34.28663315 34.2866289  36.53408985],2250,5,True

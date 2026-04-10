@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-557372,Ge24O54Rb12,90,[12.1389433  12.1389433   9.89273423],-542.8244194021561,3,[36.4168299  36.4168299  29.67820269],2430,0,False

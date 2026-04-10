@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+626151,H2O4Y2,8,[4.30114907 3.63345779 6.10990944],-60.732456038010596,5,[21.50574535 18.16728895 30.5495472 ],1000,7,True

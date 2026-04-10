@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8590,F12Hf2K4,18,[6.06128031 6.06128031 8.87115087],-107.21723053063467,5,[30.30640155 30.30640155 44.35575435],2250,8,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7386,Ag2F8Na2,12,[5.46208505 5.46208554 6.48505474],-42.636654573879106,5,[27.31042525 27.3104277  32.4252737 ],1500,0,False

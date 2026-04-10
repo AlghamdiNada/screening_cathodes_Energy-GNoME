@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555253,Ag4La20O28S20Ti8,80,[ 3.98098  18.465029 19.697331],-608.082064879475,4,[15.92392  73.860116 78.789324],5120,36,True

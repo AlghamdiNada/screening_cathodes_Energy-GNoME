@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+771411,Ge2O10Sr6,18,[7.52182026 7.52182026 7.52182026],-113.72813099586934,5,[37.6091013 37.6091013 37.6091013],2250,25,True

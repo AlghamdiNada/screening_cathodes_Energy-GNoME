@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+11601,ErNaO2,4,[5.81475468 5.81475546 5.8147555 ],-27.118004045255915,5,[29.0737734 29.0737773 29.0737775],500,2,True

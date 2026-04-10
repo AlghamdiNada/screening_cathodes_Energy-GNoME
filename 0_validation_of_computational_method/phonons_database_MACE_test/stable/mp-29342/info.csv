@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29342,Ca3Cl3P,7,[5.68947377 5.68947377 5.68947377],-30.63984728173995,5,[28.44736885 28.44736885 28.44736885],875,0,False

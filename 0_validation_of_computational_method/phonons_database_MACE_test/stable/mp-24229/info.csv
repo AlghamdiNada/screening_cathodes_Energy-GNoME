@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+24229,C4H20Ca2Na4O22,52,[ 8.1093457   8.1093457  11.11939944],-297.7881285996635,4,[32.4373828  32.4373828  44.47759776],3328,0,False

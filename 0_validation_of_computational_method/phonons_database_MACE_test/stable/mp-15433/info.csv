@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+15433,Ga16K16Sb24,56,[ 7.24829128 14.86368011 16.70091518],-181.10737256172743,5,[36.2414564  74.31840055 83.5045759 ],7000,0,False

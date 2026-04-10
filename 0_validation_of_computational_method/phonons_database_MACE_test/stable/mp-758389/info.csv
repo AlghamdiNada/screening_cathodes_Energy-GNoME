@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+758389,LiNbO12Te3,17,[8.534255   5.00424    5.29165318],-102.87946068975242,5,[42.671275  25.0212    26.4582659],2125,2,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18049,Ge5O25P6,36,[9.51439059 9.5143906  9.51439065],-248.3528489240291,5,[47.57195295 47.571953   47.57195325],4500,0,False

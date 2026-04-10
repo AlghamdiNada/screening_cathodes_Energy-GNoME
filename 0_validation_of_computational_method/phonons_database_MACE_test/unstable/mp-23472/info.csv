@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23472,Ag2Cl6Re,9,[6.84912302 6.84912352 6.84912254],-33.54098857785199,5,[34.2456151 34.2456176 34.2456127],1125,0,False

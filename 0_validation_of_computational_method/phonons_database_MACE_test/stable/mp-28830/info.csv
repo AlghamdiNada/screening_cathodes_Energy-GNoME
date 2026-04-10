@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28830,Br16Na8Zn4,28,[ 6.73163069  8.49460869 14.4152158 ],-77.5718170925115,5,[33.65815345 42.47304345 72.076079  ],3500,0,False

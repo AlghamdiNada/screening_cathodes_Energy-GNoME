@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+863358,Al22K2O34,58,[ 5.64925062  5.64925062 22.909107  ],-425.0912759384251,4,[22.59700248 22.59700248 91.636428  ],3712,3,True

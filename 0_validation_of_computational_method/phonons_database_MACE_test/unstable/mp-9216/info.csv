@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-9216,Ca12O24Tl8,44,[ 3.34417582 11.28909034 16.54895805],-244.6077194262934,3,[10.03252746 33.86727102 49.64687415],1188,35,True

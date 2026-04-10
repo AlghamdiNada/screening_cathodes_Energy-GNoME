@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12221,Ca4O16Te4,24,[ 4.99969311  5.24117144 12.69058637],-142.9144794818166,5,[24.99846555 26.2058572  63.45293185],3000,0,False

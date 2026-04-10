@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7906,Al2HgS4,7,[5.5758336  5.57583351 6.46451977],-29.845447326953437,5,[27.879168   27.87916755 32.32259885],875,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4979,Al2Cu2S4,8,[5.28681599 5.28681607 6.43588438],-37.91258994776361,5,[26.43407995 26.43408035 32.1794219 ],1000,0,False

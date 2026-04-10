@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9574,Be2Na2Sb2,6,[4.17099284 4.17099284 9.37557   ],-19.320879438185763,5,[20.8549642 20.8549642 46.87785  ],750,0,False

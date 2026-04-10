@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+865758,GeO3Yb,5,[3.82665473 3.82665473 3.82665473],-33.595259842077986,5,[19.13327365 19.13327365 19.13327365],625,145,True

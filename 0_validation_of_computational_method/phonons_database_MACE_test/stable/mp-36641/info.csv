@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+36641,CdGa6Te10,17,[ 7.53412824  7.53412824 13.3828231 ],-55.09426844864887,5,[37.6706412 37.6706412 66.9141155],2125,0,False

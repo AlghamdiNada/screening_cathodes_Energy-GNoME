@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27407,Be17Ca12O29,58,[9.96141911 9.96141911 9.96141911],-394.1757124131449,4,[39.84567644 39.84567644 39.84567644],3712,0,False

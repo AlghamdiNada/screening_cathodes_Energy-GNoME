@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-706657,H18Al13ClO38Si5,75,[9.95476382 9.95476382 9.95476382],-494.30305798507186,3,[29.86429146 29.86429146 29.86429146],2025,90,True

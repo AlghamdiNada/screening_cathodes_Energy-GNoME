@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6867,CCaFKO3,7,[5.16420276 5.16420276 4.507312  ],-45.863424898574145,5,[25.8210138 25.8210138 22.53656  ],875,0,False

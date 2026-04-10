@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29025,Br2Li5N,8,[3.89483335 5.98937401 6.8405377 ],-29.147098465588392,5,[19.47416675 29.94687005 34.2026885 ],1000,0,False

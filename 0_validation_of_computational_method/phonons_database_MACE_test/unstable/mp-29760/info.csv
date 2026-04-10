@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29760,Ca10O25P6,41,[9.59496077 9.59496077 6.900697  ],-294.096500546893,5,[47.97480385 47.97480385 34.503485  ],5125,16,True

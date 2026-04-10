@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+20397,In4Sr2Te8,14,[ 6.96087356  6.96087454 12.00468321],-48.6436201015854,5,[34.8043678  34.8043727  60.02341605],1750,0,False

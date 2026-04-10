@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+768770,Mg3O24Re6,33,[10.43627142 10.43627142  5.127396  ],-257.5310818192931,5,[52.1813571 52.1813571 25.63698  ],4125,0,False

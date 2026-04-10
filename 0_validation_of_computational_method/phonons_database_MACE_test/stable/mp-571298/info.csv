@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-571298,C39Si39,78,[ 3.07361211  3.07361225 98.10372014],-585.1529923211494,3,[  9.22083633   9.22083675 294.31116042],2106,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+32581,Pr16Te24,40,[24.99764561  9.6109828   9.61085474],-208.5106757827525,5,[124.98822805  48.054914    48.0542737 ],5000,0,False

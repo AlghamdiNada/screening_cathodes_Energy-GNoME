@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27322,Nb4O22Te6,32,[ 4.04108615  7.81850259 15.8039399 ],-221.81034006502628,5,[20.20543075 39.09251295 79.0196995 ],4000,20,True

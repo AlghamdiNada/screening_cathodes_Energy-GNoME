@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554675,Bi2O9SrTa2,14,[12.88926011 12.88926011 12.88926011],-110.81740412721722,5,[64.44630055 64.44630055 64.44630055],1750,89,True

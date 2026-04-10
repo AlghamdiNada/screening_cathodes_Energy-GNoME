@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+20072,CuLaO2,4,[6.0549975  6.0549975  6.05499746],-27.821002986010413,5,[30.2749875 30.2749875 30.2749873],500,0,False

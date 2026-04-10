@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6185,C12Co2Er2N12,28,[ 7.40329118  7.40329118 12.999977  ],-235.0899179281545,5,[37.0164559 37.0164559 64.999885 ],3500,0,False

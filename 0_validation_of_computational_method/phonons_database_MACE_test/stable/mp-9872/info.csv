@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9872,BeK4P2,7,[8.98142148 8.98142203 8.9814228 ],-21.30247045032089,5,[44.9071074  44.90711015 44.907114  ],875,0,False

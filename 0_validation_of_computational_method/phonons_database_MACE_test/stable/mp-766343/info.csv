@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+766343,Ba8Ca4I24,36,[ 8.190221    8.577352   24.98657895],-120.86801961351141,5,[ 40.951105    42.88676    124.93289475],4500,0,False

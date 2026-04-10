@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+10914,Cu20K12O16,48,[ 7.324208    9.547263   14.07141241],-208.02779463783585,5,[36.62104    47.736315   70.35706205],6000,0,False

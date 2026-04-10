@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557450,Na8O12Pt4,24,[ 5.43674349  5.43674349 10.61451165],-121.9600172794926,5,[27.18371745 27.18371745 53.07255825],3000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9338,Ba4Mg2O14Si4,24,[5.42935621 8.21514987 8.21514987],-172.5363853134371,5,[27.14678105 41.07574935 41.07574935],3000,0,False

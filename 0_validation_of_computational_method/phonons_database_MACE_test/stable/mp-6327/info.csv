@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6327,Al3Li3O12Si3,21,[ 5.29181592  5.29181592 11.449963  ],-151.50255934902552,5,[26.4590796 26.4590796 57.249815 ],2625,0,False

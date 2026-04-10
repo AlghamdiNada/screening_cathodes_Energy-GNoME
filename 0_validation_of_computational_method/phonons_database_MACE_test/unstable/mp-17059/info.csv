@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17059,K6Nb6O26Si4,42,[9.25780944 9.25780944 7.926753  ],-324.51809605399785,5,[46.2890472 46.2890472 39.633765 ],5250,21,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558992,GeIn7IrO8,17,[7.28747501 7.28747501 7.28747501],-93.27587950453952,5,[36.43737505 36.43737505 36.43737505],2125,0,False

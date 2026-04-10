@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23582,BiKLi6O6,14,[5.42058258 5.42058258 5.42058324],-70.00409382114341,5,[27.1029129 27.1029129 27.1029162],1750,0,False

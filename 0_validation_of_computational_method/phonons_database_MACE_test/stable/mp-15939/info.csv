@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+15939,Al2B2O7Sr,12,[8.6122685 8.6122685 8.6122687],-91.4020104968349,5,[43.0613425 43.0613425 43.0613435],1500,4,True

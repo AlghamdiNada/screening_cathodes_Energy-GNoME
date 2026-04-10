@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+41837,F10O2Rb2Ti2Zn2,18,[7.42560136 7.42560136 7.42560136],-99.28064485396929,5,[37.1280068 37.1280068 37.1280068],2250,7,True

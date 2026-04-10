@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557855,B4Ca4Ga4O16,28,[8.84907395 8.84907395 5.903882  ],-195.42474602251406,5,[44.24536975 44.24536975 29.51941   ],3500,0,False

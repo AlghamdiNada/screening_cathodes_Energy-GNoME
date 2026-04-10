@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9503,Ba2Cu2Dy2Te6,12,[ 4.439384    7.82052388 11.435058  ],-54.0137608348656,5,[22.19692   39.1026194 57.17529  ],1500,0,False

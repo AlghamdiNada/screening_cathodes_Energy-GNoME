@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8612,Sb2Se2Te,5,[10.37335543 10.37335543 10.37335456],-19.47865386146203,5,[51.86677715 51.86677715 51.8667728 ],625,0,False

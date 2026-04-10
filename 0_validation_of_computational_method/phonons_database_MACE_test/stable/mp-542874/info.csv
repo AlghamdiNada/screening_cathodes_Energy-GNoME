@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+542874,Al4Li4O24Si8,40,[8.536785   5.192159   9.18356279],-295.896314468734,4,[34.14714    20.768636   36.73425116],2560,0,False

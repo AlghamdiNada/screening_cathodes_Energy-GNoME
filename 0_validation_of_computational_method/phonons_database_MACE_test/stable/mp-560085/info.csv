@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-560085,Bi48Cl20O62,130,[ 7.9805411  10.07477227 29.67265661],-693.7438577094596,3,[23.9416233  30.22431681 89.01796983],3510,0,False

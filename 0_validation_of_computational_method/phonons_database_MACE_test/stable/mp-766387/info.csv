@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+766387,Al22O34Rb2,58,[ 5.59267871  5.59267882 22.83821012],-424.2556033908098,4,[22.37071484 22.37071528 91.35284048],3712,2,True

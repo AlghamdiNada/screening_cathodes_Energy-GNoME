@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9392,Al6O12Sr4Te,23,[8.20096439 8.20096439 8.20096439],-159.77830011353632,5,[41.00482195 41.00482195 41.00482195],2875,0,False

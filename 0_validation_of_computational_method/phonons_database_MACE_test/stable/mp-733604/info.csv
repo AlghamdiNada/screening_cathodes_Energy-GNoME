@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+733604,H20Ba4Mg6,30,[9.44990165 9.44990165 7.86371561],-94.47980904070114,5,[47.24950825 47.24950825 39.31857805],3750,0,False

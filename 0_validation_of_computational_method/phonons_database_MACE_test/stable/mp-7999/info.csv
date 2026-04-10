@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7999,O14Si4Y4,22,[10.84153424  4.70747866  5.58476584],-187.95725526606134,5,[54.2076712 23.5373933 27.9238292],2750,0,False

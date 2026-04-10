@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+643655,H12Al4Cl2Li2O12,32,[ 5.15984625  5.15984625 14.284583  ],-179.5480383772153,5,[25.79923125 25.79923125 71.422915  ],4000,0,False

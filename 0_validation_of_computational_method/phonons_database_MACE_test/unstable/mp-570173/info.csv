@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+570173,Cl12K4Sn2,18,[ 7.02205758  7.02205758 10.24184398],-60.21695547178316,5,[35.1102879 35.1102879 51.2092199],2250,0,False

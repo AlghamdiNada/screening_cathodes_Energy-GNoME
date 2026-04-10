@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+569149,Cl6K2Te,9,[7.17210579 7.17210615 7.17621321],-27.338720835400267,5,[35.86052895 35.86053075 35.88106605],1125,24,True

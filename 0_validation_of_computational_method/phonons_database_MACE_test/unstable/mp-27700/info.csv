@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27700,Br4O10Sb8,22,[ 5.18335569  6.71479188 13.43178139],-115.45197047183807,5,[25.91677845 33.5739594  67.15890695],2750,22,True

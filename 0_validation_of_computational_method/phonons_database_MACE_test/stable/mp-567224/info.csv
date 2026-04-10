@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-567224,B48Mg4Si8,60,[ 6.1134976   8.37719396 11.00011086],-373.94353926847117,3,[18.3404928  25.13158188 33.00033258],1620,0,False

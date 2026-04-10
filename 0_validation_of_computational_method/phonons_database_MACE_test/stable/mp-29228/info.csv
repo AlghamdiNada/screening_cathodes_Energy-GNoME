@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29228,Cs2N18Sr2,22,[6.97495898 6.97495898 9.12103071],-156.78015207663213,5,[34.8747949  34.8747949  45.60515355],2750,0,False

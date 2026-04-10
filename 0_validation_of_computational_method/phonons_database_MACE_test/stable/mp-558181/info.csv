@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-558181,B12Na12O48Si12,84,[ 7.66444981  7.94917185 13.89137874],-610.0278997063251,3,[22.99334943 23.84751555 41.67413622],2268,0,False

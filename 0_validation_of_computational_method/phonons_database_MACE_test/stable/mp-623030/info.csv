@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+623030,Cu4Na12Se16Sn4,36,[10.320112    6.907177   14.80448855],-128.77422629799892,5,[51.60056    34.535885   74.02244275],4500,0,False

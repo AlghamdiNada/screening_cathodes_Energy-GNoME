@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8380,K4O18Si8,30,[6.59497985 6.59498102 9.5251488 ],-215.28953438107357,5,[32.97489925 32.9749051  47.625744  ],3750,0,False

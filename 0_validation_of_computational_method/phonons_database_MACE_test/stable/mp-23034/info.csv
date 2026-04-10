@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23034,Cl8Sr2Zn2,12,[8.553606   8.55363112 8.55360374],-41.81537904352929,5,[42.76803   42.7681556 42.7680187],1500,0,False

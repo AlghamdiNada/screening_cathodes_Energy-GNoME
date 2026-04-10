@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+977371,Cl22P2W8,32,[ 8.58400039  8.58400039 11.43802114],-177.9462383169948,5,[42.92000195 42.92000195 57.1901057 ],4000,0,False

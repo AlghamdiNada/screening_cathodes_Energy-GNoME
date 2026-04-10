@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+753353,C2CuLiO10Sr4,18,[8.39898418 8.39898418 8.39898418],-118.71666901229523,5,[41.9949209 41.9949209 41.9949209],2250,2,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+686583,Na5O24P3Si3Zr4,39,[9.32225789 9.32225789 9.32225855],-298.984363420456,5,[46.61128945 46.61128945 46.61129275],4875,29,True

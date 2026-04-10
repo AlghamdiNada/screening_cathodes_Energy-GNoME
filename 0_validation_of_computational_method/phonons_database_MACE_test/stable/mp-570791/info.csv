@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+570791,C19Si19,38,[ 3.07622888  3.07623076 47.8236512 ],-285.0959102479384,4,[ 12.30491552  12.30492304 191.2946048 ],2432,1,True

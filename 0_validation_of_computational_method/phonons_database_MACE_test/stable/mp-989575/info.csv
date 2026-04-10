@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+989575,H6AlCs2Tl,10,[6.30544794 6.30544794 6.30544794],-29.135365187213736,5,[31.5272397 31.5272397 31.5272397],1250,0,False

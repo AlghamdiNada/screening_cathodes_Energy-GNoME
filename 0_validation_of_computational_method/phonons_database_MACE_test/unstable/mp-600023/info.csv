@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+600023,O20Si10,30,[9.6025118 9.6025118 9.6025118],-236.981574123618,5,[48.012559 48.012559 48.012559],3750,80,True

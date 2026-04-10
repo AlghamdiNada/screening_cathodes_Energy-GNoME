@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+2341,Li6N2,8,[3.52407593 3.52407723 6.25954487],-31.22846260870962,5,[17.62037965 17.62038615 31.29772435],1000,5,True

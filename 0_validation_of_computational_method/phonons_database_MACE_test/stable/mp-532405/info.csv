@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-532405,Al24Mg4O40,68,[ 5.70762978  5.70762978 23.38969811],-495.44860217658186,3,[17.12288934 17.12288934 70.16909433],1836,0,False

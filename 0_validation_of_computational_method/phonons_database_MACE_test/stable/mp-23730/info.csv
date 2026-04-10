@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23730,H12Mg4Na4,20,[5.31825568 5.42821054 7.61022894],-55.76166363611088,5,[26.5912784 27.1410527 38.0511447],2500,0,False

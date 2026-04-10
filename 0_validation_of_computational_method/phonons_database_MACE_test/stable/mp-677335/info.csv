@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+677335,GaO4P,6,[5.07387738 5.07387707 4.89873758],-40.78215730190978,5,[25.3693869  25.36938535 24.4936879 ],750,1,True

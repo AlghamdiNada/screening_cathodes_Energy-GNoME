@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14853,Ba3Er4O9,16,[9.0803118  9.08031154 9.08031113],-119.68248487697,5,[45.401559   45.4015577  45.40155565],2000,0,False

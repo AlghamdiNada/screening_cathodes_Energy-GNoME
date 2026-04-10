@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+551101,Bi2HoIO4,8,[3.937369 3.937369 9.687037],-49.0475339646463,5,[19.686845 19.686845 48.435185],1000,0,False

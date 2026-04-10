@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+765585,Ca12O36Tl16,64,[ 6.756692   11.287001   12.49799027],-335.09547539233915,4,[27.026768   45.148004   49.99196108],4096,0,False

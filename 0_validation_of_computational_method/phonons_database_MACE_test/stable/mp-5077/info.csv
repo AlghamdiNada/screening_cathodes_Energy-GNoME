@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5077,Li2NaSb,4,[4.80524814 4.80524765 4.805248  ],-11.528585649848829,5,[24.0262407  24.02623825 24.02624   ],500,0,False

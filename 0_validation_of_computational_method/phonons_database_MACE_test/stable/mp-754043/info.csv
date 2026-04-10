@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754043,Lu2Na2O4,8,[5.99042205 5.99042205 5.99042205],-54.30638033298979,5,[29.95211025 29.95211025 29.95211025],1000,0,False

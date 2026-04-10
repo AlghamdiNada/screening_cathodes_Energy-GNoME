@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+15500,P32Sr32Ti8,72,[12.62971237 12.62971237 12.62971237],-367.272583947543,5,[63.14856185 63.14856185 63.14856185],9000,0,False

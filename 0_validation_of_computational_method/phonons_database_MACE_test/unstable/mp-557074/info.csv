@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557074,Ba2O20Pr4Ti6,32,[14.46537249 14.46537249  7.704642  ],-271.0210349746377,5,[72.32686245 72.32686245 38.52321   ],4000,31,True

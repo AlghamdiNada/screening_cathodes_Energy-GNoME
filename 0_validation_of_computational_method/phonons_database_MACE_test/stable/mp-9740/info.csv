@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9740,Ba2Dy4O10Pd2,18,[6.581437 6.581437 5.923854],-130.39203726973795,5,[32.907185 32.907185 29.61927 ],2250,0,False

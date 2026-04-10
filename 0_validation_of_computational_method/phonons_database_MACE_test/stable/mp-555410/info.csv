@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555410,S4Zn4,8,[12.65013598 12.65013598 12.65013742],-27.349085983503784,5,[63.2506799 63.2506799 63.2506871],1000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1434,MoS2,3,[6.73776894 6.73776894 6.73776874],-21.70146359425288,5,[33.6888447 33.6888447 33.6888437],375,4,True

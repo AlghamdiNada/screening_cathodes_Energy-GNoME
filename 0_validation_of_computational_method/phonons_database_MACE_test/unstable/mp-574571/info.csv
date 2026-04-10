@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+574571,Cl24Rb12Y4,40,[13.51512088 13.51512088 12.82314229],-166.99855953779425,5,[67.5756044  67.5756044  64.11571145],5000,0,False

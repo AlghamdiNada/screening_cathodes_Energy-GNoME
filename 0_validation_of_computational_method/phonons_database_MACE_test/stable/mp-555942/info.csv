@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555942,Er12F4O40Se8Si4,68,[ 5.91161  10.358545 15.450023],-486.9671843036346,4,[23.64644  41.43418  61.800092],4352,0,False

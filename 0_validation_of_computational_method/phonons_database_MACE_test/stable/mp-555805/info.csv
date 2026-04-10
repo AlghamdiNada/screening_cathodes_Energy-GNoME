@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555805,Al2Cl14S2,18,[ 6.27391588  6.45066668 13.2802178 ],-55.96519594706399,5,[31.3695794 32.2533334 66.401089 ],2250,0,False

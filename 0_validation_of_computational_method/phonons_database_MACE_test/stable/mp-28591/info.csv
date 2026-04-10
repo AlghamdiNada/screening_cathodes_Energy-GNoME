@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28591,HgNa4P2,7,[8.97861425 8.9786146  8.97861449],-18.627127309624885,5,[44.89307125 44.893073   44.89307245],875,0,False

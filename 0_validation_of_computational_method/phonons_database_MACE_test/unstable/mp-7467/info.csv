@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7467,Cu2O4Rb2,8,[4.82779489 5.41953676 6.40688589],-37.2355425405396,5,[24.13897445 27.0976838  32.03442945],1000,0,False

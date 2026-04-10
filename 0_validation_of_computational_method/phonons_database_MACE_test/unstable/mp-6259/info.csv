@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6259,Li2O7SrTa2,12,[3.94070066 3.94070016 9.44985323],-97.41500015081083,5,[19.7035033  19.7035008  47.24926615],1500,13,True

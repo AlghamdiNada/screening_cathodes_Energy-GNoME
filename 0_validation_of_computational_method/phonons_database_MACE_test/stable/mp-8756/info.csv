@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8756,K2Li2Se2,6,[4.50147408 4.50147408 7.20714494],-20.204472683751625,5,[22.5073704 22.5073704 36.0357247],750,0,False

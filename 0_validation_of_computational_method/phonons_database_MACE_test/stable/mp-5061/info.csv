@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5061,Li5O6Re,12,[5.0081958  5.0081958  4.99213714],-75.24381239783808,5,[25.040979  25.040979  24.9606857],1500,0,False

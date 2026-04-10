@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+770426,Cl6Ho2O24,32,[9.26829842 9.26829842 5.711987  ],-152.6900934023999,5,[46.3414921 46.3414921 28.559935 ],4000,0,False

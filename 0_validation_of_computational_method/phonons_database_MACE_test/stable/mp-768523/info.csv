@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+768523,La12O44Pt12,68,[9.516345 9.516345 9.516345],-479.96383911948396,4,[38.06538 38.06538 38.06538],4352,0,False

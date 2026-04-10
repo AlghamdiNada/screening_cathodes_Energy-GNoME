@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556330,B8Cs8Ga8O28,52,[ 8.143662    9.022232   12.40552477],-333.4998927658557,5,[40.71831    45.11116    62.02762385],6500,0,False

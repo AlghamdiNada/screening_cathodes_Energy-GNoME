@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7914,NaO2Sc,4,[5.69021901 5.69021897 5.69021898],-28.865064627983156,5,[28.45109505 28.45109485 28.4510949 ],500,2,True

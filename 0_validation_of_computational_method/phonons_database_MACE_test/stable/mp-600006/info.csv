@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+600006,O40Si20,60,[ 8.49887142  8.49887142 13.97640642],-472.93235579630266,4,[33.99548568 33.99548568 55.90562568],3840,32,True

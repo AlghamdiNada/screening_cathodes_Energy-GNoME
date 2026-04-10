@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9912,CeLi2P2,5,[4.15420912 4.15420979 6.64447003],-25.56340599069026,5,[20.7710456  20.77104895 33.22235015],625,0,False

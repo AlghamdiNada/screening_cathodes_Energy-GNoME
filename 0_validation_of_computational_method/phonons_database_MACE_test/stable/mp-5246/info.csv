@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5246,KNbO3,5,[4.00636436 4.07107548 4.07107684],-38.10686052543821,5,[20.0318218 20.3553774 20.3553842],625,4,True

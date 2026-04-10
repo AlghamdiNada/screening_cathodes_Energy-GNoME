@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12885,Al2BaO7Sb2,12,[8.76911051 8.76911051 8.76911031],-80.47047103673353,5,[43.84555255 43.84555255 43.84555155],1500,0,False

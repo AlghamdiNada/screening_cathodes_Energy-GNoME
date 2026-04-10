@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+26897,Li2O18P6Sn2,28,[ 6.62331521  6.62331521 10.016167  ],-190.72281517373904,5,[33.11657605 33.11657605 50.080835  ],3500,65,True

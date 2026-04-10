@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559551,Bi16Cu16S36,68,[ 3.949214 11.644218 31.965789],-288.60547311850297,5,[ 19.74607   58.22109  159.828945],8500,0,False

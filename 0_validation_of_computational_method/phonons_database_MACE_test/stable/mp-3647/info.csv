@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3647,Ga4Li4S8,16,[6.24043536 6.5305152  7.84854004],-68.65636539484157,5,[31.2021768 32.652576  39.2427002],2000,0,False

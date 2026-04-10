@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6922,O6Si3,9,[5.06108903 5.06108849 5.54050141],-71.08643502733023,5,[25.30544515 25.30544245 27.70250705],1125,32,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+15777,Ga2Te4Zn,7,[6.01373144 6.0137317  7.32286157],-22.057129118637434,5,[30.0686572  30.0686585  36.61430785],875,0,False

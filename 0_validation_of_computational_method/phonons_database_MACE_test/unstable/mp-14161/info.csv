@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14161,Al6O16SSr4,27,[8.15914229 8.15914229 8.15914229],-189.79885548012416,5,[40.79571145 40.79571145 40.79571145],3375,45,True

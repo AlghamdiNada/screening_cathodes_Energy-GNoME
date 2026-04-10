@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754535,Ag2La2O4,8,[ 3.81644699  3.81648303 12.2811925 ],-52.781465726499846,5,[19.08223495 19.08241515 61.4059625 ],1000,0,False

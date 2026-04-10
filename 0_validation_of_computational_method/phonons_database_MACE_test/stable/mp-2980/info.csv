@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+2980,O22Pr4Te8,34,[ 6.87977155  6.87977155 16.42291202],-214.2607433810997,5,[34.39885775 34.39885775 82.1145601 ],4250,0,False

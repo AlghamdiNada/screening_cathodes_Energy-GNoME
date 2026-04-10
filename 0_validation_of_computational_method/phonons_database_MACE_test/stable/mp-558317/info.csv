@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558317,K2Na2Nb2O10Pr2,18,[5.76781264 5.76781264 8.28723383],-130.9677738754851,5,[28.8390632  28.8390632  41.43616915],2250,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754505,N3O6Sr3Ta3,15,[4.021801   5.798346   9.16892389],-130.89580871949306,5,[20.109005   28.99173    45.84461945],1875,18,True

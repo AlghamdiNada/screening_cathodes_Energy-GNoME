@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-555089,Ca4Li16O32Si8Sr4,64,[ 4.97358828  9.90251448 14.02056568],-419.0941594399756,3,[14.92076484 29.70754344 42.06169704],1728,0,False

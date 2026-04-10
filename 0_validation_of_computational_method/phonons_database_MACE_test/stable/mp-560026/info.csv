@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-560026,B12F4Mg20O36,72,[ 4.573469 10.18582  15.002844],-493.25147904894004,3,[13.720407 30.55746  45.008532],1944,0,False

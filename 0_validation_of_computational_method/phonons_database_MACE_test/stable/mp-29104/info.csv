@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29104,O32Ti12Zn8,52,[8.38757391 8.38757391 8.38757391],-392.8074720712066,4,[33.55029564 33.55029564 33.55029564],3328,0,False

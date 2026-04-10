@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6333,In2Na2O12Si4,20,[6.84615584 6.84615584 5.44675342],-136.5696764490537,5,[34.2307792 34.2307792 27.2337671],2500,0,False

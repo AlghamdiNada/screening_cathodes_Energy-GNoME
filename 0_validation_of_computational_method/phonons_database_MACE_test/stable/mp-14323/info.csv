@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14323,Ba3Ho4O9,16,[9.13592375 9.13592374 9.13592379],-119.47135408755521,5,[45.67961875 45.6796187  45.67961895],2000,0,False

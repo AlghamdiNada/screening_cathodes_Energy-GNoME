@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27525,F24K12Tl4,40,[9.09698683 9.09698683 9.09698683],-162.4793935266779,5,[45.48493415 45.48493415 45.48493415],5000,150,True

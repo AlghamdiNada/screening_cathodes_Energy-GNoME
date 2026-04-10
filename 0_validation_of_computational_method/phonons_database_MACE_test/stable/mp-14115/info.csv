@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14115,LiO2Rh,4,[4.99886407 4.99886452 4.99886358],-24.031665478250623,5,[24.99432035 24.9943226  24.9943179 ],500,0,False

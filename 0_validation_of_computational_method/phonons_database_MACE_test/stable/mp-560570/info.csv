@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560570,Al6F21NaRb2,30,[ 7.07552163  7.07552163 10.35445545],-166.37852045622947,5,[35.37760815 35.37760815 51.77227725],3750,0,False

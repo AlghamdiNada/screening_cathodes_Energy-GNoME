@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8276,P2SrZn2,5,[4.08128156 4.08128113 7.09682644],-18.062528346786902,5,[20.4064078  20.40640565 35.4841322 ],625,0,False

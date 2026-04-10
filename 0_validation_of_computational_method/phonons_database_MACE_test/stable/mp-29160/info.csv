@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29160,Ag8O12Ti4,24,[9.5155264  9.5155264  5.05135205],-149.20197992159547,5,[47.577632   47.577632   25.25676025],3000,0,False

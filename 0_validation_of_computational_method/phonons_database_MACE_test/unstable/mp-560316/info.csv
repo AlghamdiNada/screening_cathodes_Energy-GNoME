@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560316,Hg9O18S3,30,[ 7.10967401  7.10959758 10.1330689 ],-126.00968308671685,5,[35.54837005 35.5479879  50.6653445 ],3750,15,True

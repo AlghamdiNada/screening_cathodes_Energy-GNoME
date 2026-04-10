@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+12309,Al3Cs2F12Na,18,[7.43163338 7.43163338 7.43163279],-96.47507818580955,5,[37.1581669  37.1581669  37.15816395],2250,0,False

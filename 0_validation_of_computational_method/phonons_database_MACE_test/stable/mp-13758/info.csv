@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13758,Nd16O44Re8,68,[12.73128885 12.73128885  5.6218937 ],-575.0245040214168,4,[50.9251554 50.9251554 22.4875748],4352,0,False

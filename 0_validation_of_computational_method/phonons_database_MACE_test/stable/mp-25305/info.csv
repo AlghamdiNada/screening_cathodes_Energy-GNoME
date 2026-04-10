@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+25305,O5S2Ti2Y2,11,[ 3.796004    3.796004   11.85324715],-93.42643167757741,5,[18.98002    18.98002    59.26623575],1375,0,False

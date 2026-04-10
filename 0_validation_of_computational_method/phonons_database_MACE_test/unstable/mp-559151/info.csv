@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559151,Ba2O14Sr2Ta4,22,[11.18256959 11.18256959 11.18256959],-190.53981661920636,5,[55.91284795 55.91284795 55.91284795],2750,0,False

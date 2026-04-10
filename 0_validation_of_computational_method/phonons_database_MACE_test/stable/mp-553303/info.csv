@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+553303,CsCu3O2,6,[5.10952034 5.10952189 5.51836716],-26.393088564283936,5,[25.5476017  25.54760945 27.5918358 ],750,0,False

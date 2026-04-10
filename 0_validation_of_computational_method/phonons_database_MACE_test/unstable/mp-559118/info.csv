@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+559118,CsO8P2Ta,12,[5.15352545 5.15352545 9.01689476],-93.18407146291024,5,[25.76762725 25.76762725 45.0844738 ],1500,0,False

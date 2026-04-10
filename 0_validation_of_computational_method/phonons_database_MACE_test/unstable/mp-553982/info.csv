@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+553982,In4K8O42Si16,70,[11.667051    8.540302   13.60743541],-489.8192107176362,4,[46.668204   34.161208   54.42974164],4480,0,False

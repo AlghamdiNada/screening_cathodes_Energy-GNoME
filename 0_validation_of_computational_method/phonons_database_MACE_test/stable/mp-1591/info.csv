@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1591,C3Al4,7,[8.52522866 8.52522883 8.52522826],-43.15965382153301,5,[42.6261433  42.62614415 42.6261413 ],875,0,False

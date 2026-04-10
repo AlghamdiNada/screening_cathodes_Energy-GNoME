@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+505130,Cs2O8Re2,12,[8.4739662  8.47451989 8.47498639],-88.40730517553425,5,[42.369831   42.37259945 42.37493195],1500,17,True

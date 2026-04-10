@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23752,H4Cs2Mg,7,[4.29975155 4.29975323 8.01674767],-18.313716234556658,5,[21.49875775 21.49876615 40.08373835],875,0,False

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_GaAg(PSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39226281
+_cell_length_b   6.39226190
+_cell_length_c   13.84501139
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaAg(PSe3)2
+_chemical_formula_sum   'Ga2 Ag2 P4 Se12'
+_cell_volume   489.92895919
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  -0.00000000  -0.00000000  0.25000000  1
+  Ga  Ga1  1  -0.00000000  -0.00000000  0.75000000  1
+  Ag  Ag2  1  0.33333300  0.66666700  0.75000000  1
+  Ag  Ag3  1  0.66666700  0.33333300  0.25000000  1
+  P  P4  1  0.66666700  0.33333300  0.66980010  1
+  P  P5  1  0.66666700  0.33333300  0.83019990  1
+  P  P6  1  0.33333300  0.66666700  0.33019990  1
+  P  P7  1  0.33333300  0.66666700  0.16980010  1
+  Se  Se8  1  0.67946781  0.98033519  0.12631644  1
+  Se  Se9  1  0.67946781  0.69913262  0.37368356  1
+  Se  Se10  1  0.30086738  0.32053219  0.12631644  1
+  Se  Se11  1  0.30086738  0.98033519  0.37368356  1
+  Se  Se12  1  0.69913262  0.67946781  0.87368356  1
+  Se  Se13  1  0.32053219  0.01966481  0.87368356  1
+  Se  Se14  1  0.98033519  0.30086738  0.87368356  1
+  Se  Se15  1  0.32053219  0.30086738  0.62631644  1
+  Se  Se16  1  0.98033519  0.67946781  0.62631644  1
+  Se  Se17  1  0.69913262  0.01966481  0.62631644  1
+  Se  Se18  1  0.01966481  0.32053219  0.37368356  1
+  Se  Se19  1  0.01966481  0.69913262  0.12631644  1

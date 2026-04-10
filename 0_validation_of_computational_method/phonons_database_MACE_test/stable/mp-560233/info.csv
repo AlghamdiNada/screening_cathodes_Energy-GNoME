@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560233,B6Br2O18Sr10,36,[8.81192917 8.81192917 7.614038  ],-249.73371551526296,5,[44.05964585 44.05964585 38.07019   ],4500,0,False

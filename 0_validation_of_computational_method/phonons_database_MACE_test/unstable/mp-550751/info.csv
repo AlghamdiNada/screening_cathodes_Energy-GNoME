@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+550751,BaBeO4Si,7,[5.12008946 5.19298789 5.19298588],-51.33675268926219,5,[25.6004473  25.96493945 25.9649294 ],875,6,True

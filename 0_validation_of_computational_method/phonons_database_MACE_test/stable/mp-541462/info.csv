@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+541462,O22Sr2Ta8,32,[ 6.27084441  6.27083873 12.37472591],-301.09329660944496,5,[31.35422205 31.35419365 61.87362955],4000,0,False

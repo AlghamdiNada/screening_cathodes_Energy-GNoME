@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560340,La4O10Pd4,18,[5.62290793 6.70394982 6.70394982],-129.07113154659376,5,[28.11453965 33.5197491  33.5197491 ],2250,0,False

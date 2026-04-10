@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18464,Ge4O16Rb16,36,[ 6.79631794 10.87837111 11.00378264],-168.97525265333022,5,[33.9815897  54.39185555 55.0189132 ],4500,0,False

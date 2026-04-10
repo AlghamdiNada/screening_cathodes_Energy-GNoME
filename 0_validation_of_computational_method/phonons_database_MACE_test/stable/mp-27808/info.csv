@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27808,Cl4O22Te12,38,[ 6.83829978  6.83829978 15.32626268],-189.94634068543192,5,[34.1914989 34.1914989 76.6313134],4750,0,False

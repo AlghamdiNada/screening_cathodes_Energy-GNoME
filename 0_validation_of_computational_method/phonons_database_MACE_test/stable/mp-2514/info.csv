@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+2514,Mg24P16,40,[10.40148717 10.4014874  10.40148748],-149.03816665849143,5,[52.00743585 52.007437   52.0074374 ],5000,0,False

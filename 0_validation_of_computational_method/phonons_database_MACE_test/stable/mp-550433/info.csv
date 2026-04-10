@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+550433,Be2O4Zn2,8,[5.03368793 5.03368793 5.03368793],-45.871784572074276,5,[25.16843965 25.16843965 25.16843965],1000,0,False

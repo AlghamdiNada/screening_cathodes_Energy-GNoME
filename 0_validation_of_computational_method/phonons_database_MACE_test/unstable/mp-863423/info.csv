@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+863423,Ga24O38Sr2,64,[ 5.87580714  5.87580714 23.132975  ],-383.5098767409474,4,[23.50322856 23.50322856 92.5319    ],4096,0,False

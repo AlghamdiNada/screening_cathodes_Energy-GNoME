@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17834,La8O16Se4Si4,32,[ 6.29910805  7.33314001 11.21226438],-251.54993216591555,5,[31.49554025 36.66570005 56.0613219 ],4000,0,False

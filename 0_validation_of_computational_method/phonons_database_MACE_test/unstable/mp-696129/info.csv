@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+696129,Li20P4S24Si2,50,[ 8.770902  8.770902 12.618974],-219.526504718681,5,[43.85451 43.85451 63.09487],6250,109,True

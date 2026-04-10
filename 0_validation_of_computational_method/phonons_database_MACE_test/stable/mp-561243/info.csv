@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+561243,Cl3Cu3O6Sr6,18,[ 4.03741169  4.03741169 27.808492  ],-95.2616660151607,5,[ 20.18705845  20.18705845 139.04246   ],2250,0,False

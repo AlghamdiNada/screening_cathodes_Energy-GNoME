@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+556301,Ca2Ce2Li12O12,28,[ 5.86726788  5.86726788 10.742528  ],-163.1431667716939,5,[29.3363394 29.3363394 53.71264  ],3500,0,False

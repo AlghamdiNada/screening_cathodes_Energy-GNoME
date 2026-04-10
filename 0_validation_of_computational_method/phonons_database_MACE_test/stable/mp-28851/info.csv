@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28851,Cd12Na16Se20,48,[ 4.26260889 14.10003254 20.25571435],-140.95478893678722,5,[ 21.31304445  70.5001627  101.27857175],6000,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+19926,Be4Ge2La4O14,24,[7.67910542 7.67910542 4.95593186],-181.29647162062457,5,[38.3955271 38.3955271 24.7796593],3000,0,False

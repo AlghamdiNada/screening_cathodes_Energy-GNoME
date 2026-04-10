@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3175,Ba2O18Ti8,28,[ 3.79727545  6.33121322 14.59932148],-240.90958463031996,5,[18.98637725 31.6560661  72.9966074 ],3500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+11018,CdN3O6Tl,11,[5.49494314 5.49494314 5.49494336],-62.26651304945454,5,[27.4747157 27.4747157 27.4747168],1375,0,False

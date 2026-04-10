@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+10349,Na4O12Sn2Te2,20,[5.564009   5.494679   9.56176675],-107.51849136225457,5,[27.820045   27.473395   47.80883375],2500,0,False

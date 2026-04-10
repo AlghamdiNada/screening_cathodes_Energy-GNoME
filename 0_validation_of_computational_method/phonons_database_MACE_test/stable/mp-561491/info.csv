@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+561491,F2KMg2NaO10Si4,20,[ 5.30965762  5.30965762 10.42862954],-136.8778197369403,5,[26.5482881 26.5482881 52.1431477],2500,0,False

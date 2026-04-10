@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+772813,Ca8Cu8O20,36,[ 3.52256546 10.39859129 12.68787037],-204.3943876351197,5,[17.6128273  51.99295645 63.43935185],4500,0,False

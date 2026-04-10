@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6841,C2Ba4CuNaO10,18,[8.87900106 8.87900106 8.87900106],-117.89480705379364,5,[44.3950053 44.3950053 44.3950053],2250,0,False

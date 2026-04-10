@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3488,Na4O14Ti6,24,[3.79164808 8.54619136 9.13731291],-187.36923774476577,5,[18.9582404  42.7309568  45.68656455],3000,0,False

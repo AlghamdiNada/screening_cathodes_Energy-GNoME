@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17020,Ge6O18Ti2Tl4,30,[ 6.98492645  6.98492645 10.37760421],-193.4954224930184,5,[34.92463225 34.92463225 51.88802105],3750,0,False

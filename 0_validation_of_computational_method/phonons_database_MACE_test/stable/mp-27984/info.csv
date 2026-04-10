@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27984,Cl2O2Pr2,6,[4.08497421 4.08497421 6.82918546],-41.13156457344692,5,[20.42487105 20.42487105 34.1459273 ],750,0,False

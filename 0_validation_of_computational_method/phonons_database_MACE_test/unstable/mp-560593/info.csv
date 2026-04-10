@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560593,Cl10Dy6O12Si4,32,[ 7.45469076  7.45469076 11.70447645],-215.72370005328372,5,[37.2734538  37.2734538  58.52238225],4000,22,True

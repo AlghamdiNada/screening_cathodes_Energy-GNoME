@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+985831,HfSe2,3,[3.76632801 3.76632731 6.40983541],-20.959920893167016,5,[18.83164005 18.83163655 32.04917705],375,0,False

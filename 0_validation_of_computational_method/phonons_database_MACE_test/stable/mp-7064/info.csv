@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7064,Er2O7Si2,11,[5.59660816 5.59660816 4.72345865],-90.2181953784401,5,[27.9830408  27.9830408  23.61729325],1375,0,False

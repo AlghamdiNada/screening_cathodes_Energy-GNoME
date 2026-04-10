@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+570021,Ag2Se54Ti12Tl10,78,[13.40680773 13.40680773 13.995323  ],-356.46142149250744,5,[67.03403865 67.03403865 69.976615  ],9750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27417,In4Li12O12,28,[ 5.61355486  5.61355145 10.26175415],-141.95988845133144,5,[28.0677743  28.06775725 51.30877075],3500,0,False

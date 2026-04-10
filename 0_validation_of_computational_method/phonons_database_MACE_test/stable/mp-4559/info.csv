@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4559,CBaO3,5,[4.31659313 4.31659309 4.31659373],-37.17566283986702,5,[21.58296565 21.58296545 21.58296865],625,0,False

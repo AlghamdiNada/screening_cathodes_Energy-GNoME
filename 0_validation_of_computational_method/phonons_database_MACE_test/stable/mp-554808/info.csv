@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-554808,H44Cl12O20Sn2,78,[ 7.346952    9.086273   16.34311634],-356.05596511485123,3,[22.040856   27.258819   49.02934902],2106,0,False

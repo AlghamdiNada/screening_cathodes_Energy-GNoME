@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+680170,Cs6S27Ti6,39,[10.38877823 10.38877824 10.38877753],-200.1120538745839,5,[51.94389115 51.9438912  51.94388765],4875,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16329,ErPtSb,3,[4.6186934  4.61869417 4.61869219],-18.25303571021765,5,[23.093467   23.09347085 23.09346095],375,0,False

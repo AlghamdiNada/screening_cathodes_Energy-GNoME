@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+566231,C8Cl4Mg4Na12O24,52,[9.96484711 9.96484711 9.96484711],-318.74190576361826,4,[39.85938844 39.85938844 39.85938844],3328,120,True

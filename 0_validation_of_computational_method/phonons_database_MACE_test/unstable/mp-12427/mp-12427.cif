@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2TaGaO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59372343
+_cell_length_b   5.59372343
+_cell_length_c   5.59372343
+_cell_angle_alpha   120.26040299
+_cell_angle_beta   120.26040299
+_cell_angle_gamma   89.54955745
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2TaGaO6
+_chemical_formula_sum   'Sr2 Ta1 Ga1 O6'
+_cell_volume   123.27093073
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.75000000  0.25000000  0.50000000  1
+  Sr  Sr1  1  0.25000000  0.75000000  0.50000000  1
+  Ta  Ta2  1  0.50000000  0.50000000  0.00000000  1
+  Ga  Ga3  1  -0.00000000  0.00000000  0.00000000  1
+  O  O4  1  0.77786737  0.72212327  0.49998964  1
+  O  O5  1  0.72212327  0.22213263  0.94425589  1
+  O  O6  1  0.27787673  0.77786737  0.05574411  1
+  O  O7  1  0.22213263  0.27787673  0.50001036  1
+  O  O8  1  0.25022429  0.25022429  0.00000000  1
+  O  O9  1  0.74977571  0.74977571  0.00000000  1

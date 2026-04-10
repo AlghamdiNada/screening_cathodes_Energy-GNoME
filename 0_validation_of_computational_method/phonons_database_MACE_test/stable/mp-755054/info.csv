@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+755054,N4O6Ti6,16,[5.23863649 5.23863649 9.84029644],-146.74981051737643,5,[26.19318245 26.19318245 49.2014822 ],2000,0,False

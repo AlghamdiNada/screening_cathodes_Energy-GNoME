@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7581,MoSe2,3,[7.12257717 7.12257717 7.12257727],-19.97018191778676,5,[35.61288585 35.61288585 35.61288635],375,0,False

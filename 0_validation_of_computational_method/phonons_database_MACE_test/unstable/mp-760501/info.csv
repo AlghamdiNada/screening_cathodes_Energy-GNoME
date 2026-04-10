@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+760501,Ga4O10Ti2,16,[ 5.29399399  5.29399399 10.088812  ],-112.65914499108678,5,[26.46996995 26.46996995 50.44406   ],2000,3,True

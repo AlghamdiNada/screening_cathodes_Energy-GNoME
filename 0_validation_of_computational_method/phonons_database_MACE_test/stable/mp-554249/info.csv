@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554249,Bi24Cl12F4O28,68,[ 3.855964 15.652185 20.623879],-354.5930938577891,4,[15.423856 62.60874  82.495516],4352,7,True

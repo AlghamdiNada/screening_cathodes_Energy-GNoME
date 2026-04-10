@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+31419,LaO12Sb5,18,[6.92754337 6.92754391 6.92754419],-115.60183435002729,5,[34.63771685 34.63771955 34.63772095],2250,0,False

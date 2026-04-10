@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+754989,Bi6Er2O12,20,[6.99176598 6.99176598 6.9917656 ],-127.54600839292455,5,[34.9588299 34.9588299 34.958828 ],2500,8,True

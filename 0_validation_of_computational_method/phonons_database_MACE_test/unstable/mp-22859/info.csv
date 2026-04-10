@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+22859,Hg2I2,4,[5.07044117 5.07044047 6.88874723],-4.316839753074258,5,[25.35220585 25.35220235 34.44373615],500,0,False

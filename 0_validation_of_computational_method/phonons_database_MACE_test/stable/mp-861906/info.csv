@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+861906,BaMgNa2O8P2,14,[5.37288037 5.37288037 7.042434  ],-92.34585224477584,5,[26.86440185 26.86440185 35.21217   ],1750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-6392,Be12Na12O48P12,84,[ 7.897673    8.230028   16.53631483],-570.7358040377038,3,[23.693019   24.690084   49.60894449],2268,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557543,K6Lu2O14Si4,26,[ 5.76515552  5.76515552 14.06423   ],-177.0462908419924,5,[28.8257776 28.8257776 70.32115  ],3250,0,False

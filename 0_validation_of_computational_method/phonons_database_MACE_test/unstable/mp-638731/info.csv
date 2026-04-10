@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+638731,C3F3La3O9,18,[7.29338279 7.29338279 4.973842  ],-140.93672149829248,5,[36.46691395 36.46691395 24.86921   ],2250,9,True

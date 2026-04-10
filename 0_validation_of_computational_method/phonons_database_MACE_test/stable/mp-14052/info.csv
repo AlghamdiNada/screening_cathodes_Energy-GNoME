@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-14052,Ca12In8O48Si12,80,[10.8010238 10.8010238 10.8010238],-559.4450650929182,3,[32.4030714 32.4030714 32.4030714],2160,0,False

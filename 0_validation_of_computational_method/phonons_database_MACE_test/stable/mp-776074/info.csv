@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+776074,Ca6Ge6O18,30,[ 7.01354428  7.01354428 10.99971611],-196.8816475390567,5,[35.0677214  35.0677214  54.99858055],3750,0,False

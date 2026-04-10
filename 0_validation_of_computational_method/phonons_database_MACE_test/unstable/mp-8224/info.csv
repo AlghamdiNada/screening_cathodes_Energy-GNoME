@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8224,CaF6Sn,8,[5.96646057 5.96646115 5.96646011],-41.1116773449082,5,[29.83230285 29.83230575 29.83230055],1000,24,True

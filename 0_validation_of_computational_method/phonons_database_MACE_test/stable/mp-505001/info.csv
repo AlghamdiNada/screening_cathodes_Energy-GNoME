@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+505001,Br20Rb12Zn4,36,[ 9.09302171 10.53288473 13.47566604],-102.6936377082689,5,[45.46510855 52.66442365 67.3783302 ],4500,0,False

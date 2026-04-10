@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+33322,Ho2Li2Se4,8,[6.99746754 6.99746754 6.99746754],-40.27587094987658,5,[34.9873377 34.9873377 34.9873377],1000,0,False

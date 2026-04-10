@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14142,O6Ti2Zn2,10,[5.55059057 5.55059057 5.5505908 ],-71.17681640364073,5,[27.75295285 27.75295285 27.752954  ],1250,0,False

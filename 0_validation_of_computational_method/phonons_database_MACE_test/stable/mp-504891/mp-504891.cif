@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La3MnGaS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.21413884
+_cell_length_b   10.21413822
+_cell_length_c   6.15342600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999875
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3MnGaS7
+_chemical_formula_sum   'La6 Mn2 Ga2 S14'
+_cell_volume   555.96967885
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.76839240  0.14456160  0.74044153  1
+  La  La1  1  0.37616820  0.23160760  0.74044153  1
+  La  La2  1  0.85543840  0.62383180  0.74044153  1
+  La  La3  1  0.23160760  0.85543840  0.24044153  1
+  La  La4  1  0.62383180  0.76839240  0.24044153  1
+  La  La5  1  0.14456160  0.37616820  0.24044153  1
+  Mn  Mn6  1  0.00000000  0.00000000  0.53231857  1
+  Mn  Mn7  1  0.00000000  0.00000000  0.03231857  1
+  Ga  Ga8  1  0.66666700  0.33333300  0.15993842  1
+  Ga  Ga9  1  0.33333300  0.66666700  0.65993842  1
+  S  S10  1  0.85766472  0.09245472  0.29540300  1
+  S  S11  1  0.23478900  0.14233528  0.29540300  1
+  S  S12  1  0.90754528  0.76521100  0.29540300  1
+  S  S13  1  0.14233528  0.90754528  0.79540300  1
+  S  S14  1  0.76521100  0.85766472  0.79540300  1
+  S  S15  1  0.09245472  0.23478900  0.79540300  1
+  S  S16  1  0.90129692  0.42149795  0.01309398  1
+  S  S17  1  0.52020103  0.09870308  0.01309398  1
+  S  S18  1  0.57850205  0.47979897  0.01309398  1
+  S  S19  1  0.09870308  0.57850205  0.51309398  1
+  S  S20  1  0.47979897  0.90129692  0.51309398  1
+  S  S21  1  0.42149795  0.52020103  0.51309398  1
+  S  S22  1  0.66666700  0.33333300  0.52498149  1
+  S  S23  1  0.33333300  0.66666700  0.02498149  1

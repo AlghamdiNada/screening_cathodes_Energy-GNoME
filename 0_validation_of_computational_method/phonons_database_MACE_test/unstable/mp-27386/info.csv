@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27386,Cl11Hg5Tl,17,[6.53424174 9.25525259 9.25525299],-34.06823585029695,5,[32.6712087  46.27626295 46.27626495],2125,0,False

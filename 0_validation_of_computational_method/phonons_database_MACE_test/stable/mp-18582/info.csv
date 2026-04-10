@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18582,O30Rb4Si12Ti2,48,[ 7.35417706  7.35417706 15.1325914 ],-365.38082856351446,5,[36.7708853 36.7708853 75.662957 ],6000,0,False

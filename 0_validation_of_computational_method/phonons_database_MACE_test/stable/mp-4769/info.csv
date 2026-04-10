@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-4769,O28P8Si4,40,[ 6.3249947   4.74152477 14.74688091],-295.6066621836809,3,[18.9749841  14.22457431 44.24064273],1080,0,False

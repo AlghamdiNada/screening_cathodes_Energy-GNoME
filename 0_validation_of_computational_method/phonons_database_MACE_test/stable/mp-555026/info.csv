@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555026,Al10F30,40,[ 3.58978725 11.47306517 11.47306517],-232.8867764292569,5,[17.94893625 57.36532585 57.36532585],5000,38,True

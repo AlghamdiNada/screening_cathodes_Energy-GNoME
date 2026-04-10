@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+571189,Cu2Hf4Na2Se10,18,[ 7.22723206  7.22723206 16.29189   ],-105.59168671988824,5,[36.1361603 36.1361603 81.45945  ],2250,0,False

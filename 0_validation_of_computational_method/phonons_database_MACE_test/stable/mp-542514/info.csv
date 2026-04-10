@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+542514,Ho4O22Te8,34,[ 6.67056748  6.67056748 16.04909813],-214.76923268627482,5,[33.3528374  33.3528374  80.24549065],4250,0,False

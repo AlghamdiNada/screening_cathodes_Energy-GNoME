@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4284,Cd2Ho4Se8,14,[8.26450705 8.26452639 8.26453853],-68.66967415952935,5,[41.32253525 41.32263195 41.32269265],1750,0,False

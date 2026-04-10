@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558332,Au2I4K10O4,20,[ 5.600073  7.347813 14.260656],-67.77302017260516,5,[28.000365 36.739065 71.30328 ],2500,0,False

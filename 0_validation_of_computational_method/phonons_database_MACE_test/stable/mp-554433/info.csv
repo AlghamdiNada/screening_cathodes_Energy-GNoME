@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+554433,Al8K8O48Si16,80,[11.65217462 11.65217462 11.65217462],-587.3955632721935,4,[46.60869848 46.60869848 46.60869848],5120,0,False

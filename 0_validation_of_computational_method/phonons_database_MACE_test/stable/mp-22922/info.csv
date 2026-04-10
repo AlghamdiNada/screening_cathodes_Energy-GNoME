@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+22922,AgCl,2,[3.92113791 3.92113727 3.92113719],-5.391966560409747,5,[19.60568955 19.60568635 19.60568595],250,0,False

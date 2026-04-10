@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9919,Li2Sb2Zn2,6,[4.42299786 4.42299786 7.16481418],-16.350540381797828,5,[22.1149893 22.1149893 35.8240709],750,0,False

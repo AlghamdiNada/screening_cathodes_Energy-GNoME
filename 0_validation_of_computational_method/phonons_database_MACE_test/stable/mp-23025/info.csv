@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23025,Cl2La2O2,6,[4.11542769 4.11542769 6.92503718],-42.292318322046924,5,[20.57713845 20.57713845 34.6251859 ],750,0,False

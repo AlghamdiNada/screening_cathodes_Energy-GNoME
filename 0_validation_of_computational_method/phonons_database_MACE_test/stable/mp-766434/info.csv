@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+766434,O28P8Sn4,40,[ 5.21660132  8.1888293  13.43414248],-278.4157973041638,5,[26.0830066 40.9441465 67.1707124],5000,0,False

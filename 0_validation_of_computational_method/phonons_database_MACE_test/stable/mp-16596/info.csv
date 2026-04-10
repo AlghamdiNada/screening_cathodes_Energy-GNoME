@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16596,Ho6K18O42Si12,78,[ 9.93255392  9.93255392 14.465132  ],-530.8674280439257,4,[39.73021568 39.73021568 57.860528  ],4992,0,False

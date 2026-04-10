@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555507,Al4Cl2F50Sr20,76,[11.74658371 11.74658371 11.74658371],-430.05390237013296,4,[46.98633484 46.98633484 46.98633484],4864,0,False

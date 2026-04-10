@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29657,Ge16Na16,32,[ 6.67806269 11.34028505 11.68349405],-97.1539135787319,5,[33.39031345 56.70142525 58.41747025],4000,0,False

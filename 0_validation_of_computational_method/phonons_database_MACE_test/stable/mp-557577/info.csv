@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557577,K6O14Sc2Si4,26,[ 5.68077795  5.68077795 13.844206  ],-179.18036331756105,5,[28.40388975 28.40388975 69.22103   ],3250,0,False

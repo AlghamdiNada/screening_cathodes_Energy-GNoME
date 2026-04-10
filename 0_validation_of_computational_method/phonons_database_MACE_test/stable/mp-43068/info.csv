@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+43068,Ag2Al6Br2Na6O24Si6,46,[9.03960992 9.03960992 9.0440482 ],-307.5379527171329,5,[45.1980496 45.1980496 45.220241 ],5750,0,False

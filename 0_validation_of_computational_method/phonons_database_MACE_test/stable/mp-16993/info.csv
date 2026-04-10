@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16993,Er8O20Si4,32,[6.61375892 6.68969839 9.01904217],-264.39498268458476,5,[33.0687946  33.44849195 45.09521085],4000,0,False

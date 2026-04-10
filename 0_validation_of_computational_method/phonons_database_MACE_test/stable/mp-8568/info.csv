@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8568,Ca8O12Pt2,22,[6.56732771 6.56732771 6.56732827],-138.3429773100329,5,[32.83663855 32.83663855 32.83664135],2750,0,False

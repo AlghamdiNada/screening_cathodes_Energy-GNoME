@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+570804,C13Si13,26,[32.90377964 32.9037796  32.90377991],-195.04217401284254,5,[164.5188982  164.518898   164.51889955],3250,8,True

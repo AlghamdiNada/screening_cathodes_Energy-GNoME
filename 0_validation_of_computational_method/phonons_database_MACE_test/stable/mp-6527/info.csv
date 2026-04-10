@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-6527,F48In8Li12Na12,80,[11.16822204 11.16822204 11.16822204],-366.98696542572964,3,[33.50466612 33.50466612 33.50466612],2160,0,False

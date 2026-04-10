@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+581963,Hf12K16Te68,96,[31.176345   10.42084    11.97144798],-407.48437596248266,5,[155.881725   52.1042     59.8572399],12000,0,False

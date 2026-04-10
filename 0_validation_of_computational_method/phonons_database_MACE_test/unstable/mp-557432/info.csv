@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557432,Cl4F20Ge4O8,36,[8.53146392 8.53146392 9.042188  ],-151.6280651520265,5,[42.6573196 42.6573196 45.21094  ],4500,42,True

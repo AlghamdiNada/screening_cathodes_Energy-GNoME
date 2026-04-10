@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+14484,K4Li8Na4O32S8,56,[ 4.998568  7.881211 19.332267],-322.0152809226253,4,[19.994272 31.524844 77.329068],3584,0,False

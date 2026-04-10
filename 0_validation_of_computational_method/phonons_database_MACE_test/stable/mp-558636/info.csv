@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+558636,Al4Ca2O8,14,[3.75689449 5.56036099 7.0594531 ],-100.94132139345656,5,[18.78447245 27.80180495 35.2972655 ],1750,0,False

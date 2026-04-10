@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8070,Be2Li4O8Si2,16,[4.67692277 4.92281897 6.05095632],-107.52108375314455,5,[23.38461385 24.61409485 30.2547816 ],2000,0,False

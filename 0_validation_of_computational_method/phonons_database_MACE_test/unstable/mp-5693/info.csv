@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5693,CrNaS2,4,[6.76363675 6.76363642 6.76363762],-22.871793625725402,5,[33.81818375 33.8181821  33.8181881 ],500,0,False

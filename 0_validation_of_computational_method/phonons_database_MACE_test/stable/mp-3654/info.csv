@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3654,CaF3Rb,5,[4.45428814 4.45428814 4.45428814],-25.523626843113362,5,[22.2714407 22.2714407 22.2714407],625,22,True

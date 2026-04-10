@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28920,Cl4Se8Tl20,32,[ 8.68401037  8.68401037 12.98979858],-96.404790854185,5,[43.42005185 43.42005185 64.9489929 ],4000,0,False

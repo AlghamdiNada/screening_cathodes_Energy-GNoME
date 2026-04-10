@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+698032,H28Na12Ru4,44,[9.46619946 9.46619946 5.22350217],-157.17273889777854,4,[37.86479784 37.86479784 20.89400868],2816,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+23622,Cl4O32Si8Sm12,56,[ 6.323245  7.074808 18.165318],-442.8005407579208,4,[25.29298  28.299232 72.661272],3584,0,False

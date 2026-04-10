@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769253,Dy2O2Se,5,[6.65907459 6.65907459 6.65907459],-37.918879666391454,5,[33.29537295 33.29537295 33.29537295],625,4,True

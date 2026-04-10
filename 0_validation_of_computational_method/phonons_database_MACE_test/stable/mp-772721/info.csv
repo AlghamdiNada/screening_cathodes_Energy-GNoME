@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-772721,Bi18Li2O52Si12,84,[ 9.71819547  9.71819547 14.149319  ],-559.0294502207859,3,[29.15458641 29.15458641 42.447957  ],2268,0,False

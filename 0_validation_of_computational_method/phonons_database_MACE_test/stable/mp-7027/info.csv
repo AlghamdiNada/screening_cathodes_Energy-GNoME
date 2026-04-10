@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7027,B2In2O6,10,[5.88206038 5.88206064 5.88206129],-68.71354245779494,5,[29.4103019  29.4103032  29.41030645],1250,0,False

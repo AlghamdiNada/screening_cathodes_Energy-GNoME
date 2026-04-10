@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+769187,O25P6Sn5,36,[10.09937636 10.09937636 10.0993762 ],-244.6621419176273,5,[50.4968818 50.4968818 50.496881 ],4500,30,True

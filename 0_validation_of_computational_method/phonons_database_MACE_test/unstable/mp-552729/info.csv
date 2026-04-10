@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+552729,IKO3,5,[4.43813753 4.43813628 4.43886818],-22.10469902766825,5,[22.19068765 22.1906814  22.1943409 ],625,40,True

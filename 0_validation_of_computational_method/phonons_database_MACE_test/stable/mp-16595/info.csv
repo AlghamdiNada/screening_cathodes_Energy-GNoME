@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16595,Dy6K18O42Si12,78,[ 9.85666341  9.85666341 14.33764242],-530.4578997093583,4,[39.42665364 39.42665364 57.35056968],4992,0,False

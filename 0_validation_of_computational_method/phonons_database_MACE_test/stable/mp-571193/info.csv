@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+571193,Mn8P32,40,[ 5.07461317  5.81425907 21.7284107 ],-257.1522306431181,5,[ 25.37306585  29.07129535 108.6420535 ],5000,0,False

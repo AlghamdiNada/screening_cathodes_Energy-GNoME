@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+10347,Ca2CsO10Ta3,16,[ 3.950634  3.950634 15.513552],-135.82169558980746,5,[19.75317 19.75317 77.56776],2000,68,True

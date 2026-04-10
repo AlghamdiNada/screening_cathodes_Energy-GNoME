@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+675800,Li10P6Ti2,18,[7.16223988 7.16223988 8.23731155],-80.46128314355104,5,[35.8111994  35.8111994  41.18655775],2250,0,False

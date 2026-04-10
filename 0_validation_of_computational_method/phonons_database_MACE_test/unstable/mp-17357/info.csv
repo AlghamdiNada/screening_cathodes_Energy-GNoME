@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+17357,Na4O16Si4Sm4,28,[8.85114004 8.85114004 8.85114004],-205.91715949842197,5,[44.2557002 44.2557002 44.2557002],3500,11,True

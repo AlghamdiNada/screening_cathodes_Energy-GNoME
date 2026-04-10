@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+565679,Hg16O36Se16,68,[10.566293    9.975201   15.29665178],-276.4850494385431,4,[42.265172   39.900804   61.18660712],4352,0,False

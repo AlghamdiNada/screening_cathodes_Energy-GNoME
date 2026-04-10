@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+976713,H4Cl2Ho2O4,12,[3.61867    6.182997   6.63808987],-71.1083974875478,5,[18.09335    30.914985   33.19044935],1500,0,False

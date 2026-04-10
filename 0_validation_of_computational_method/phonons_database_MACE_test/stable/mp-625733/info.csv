@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+625733,H6La2O6,14,[6.51449236 6.51449258 3.83457827],-86.64090912706654,5,[32.5724618  32.5724629  19.17289135],1750,1,True

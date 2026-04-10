@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1958,SrTe,2,[4.74586786 4.74586885 4.74586757],-8.238388686050525,5,[23.7293393  23.72934425 23.72933785],250,0,False

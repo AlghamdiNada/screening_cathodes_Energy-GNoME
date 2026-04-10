@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-5832,Ge28Li8O60,96,[ 7.3883687   9.74004404 16.78648787],-601.7773487614272,3,[22.1651061  29.22013212 50.35946361],2592,44,True

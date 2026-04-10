@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+733443,CH4Ca7O23Si6,41,[9.47227711 9.47227711 6.69318619],-290.8366483098333,5,[47.36138555 47.36138555 33.46593095],5125,33,True

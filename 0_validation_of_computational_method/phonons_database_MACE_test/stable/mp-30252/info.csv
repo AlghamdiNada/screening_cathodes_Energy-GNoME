@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+30252,CaNa10Sn12,23,[9.70465379 9.70465513 9.70465609],-66.39597850408089,5,[48.52326895 48.52327565 48.52328045],2875,0,False

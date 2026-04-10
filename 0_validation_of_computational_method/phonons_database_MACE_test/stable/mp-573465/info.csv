@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+573465,Ag40Cl8Te16,64,[ 7.72041113 13.87301599 13.968107  ],-183.5379218598504,5,[38.60205565 69.36507995 69.840535  ],8000,0,False

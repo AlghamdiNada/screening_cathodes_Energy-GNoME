@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+557696,FNa5O16Si4Y4,30,[8.70725956 8.70725956 8.70725956],-223.15767163508417,5,[43.5362978 43.5362978 43.5362978],3750,0,False

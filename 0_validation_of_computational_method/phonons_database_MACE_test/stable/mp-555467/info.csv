@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-555467,C4Al4F20O12Sr8,48,[ 8.854568    5.519773   13.65690351],-312.05771354668883,3,[26.563704   16.559319   40.97071053],1296,0,False

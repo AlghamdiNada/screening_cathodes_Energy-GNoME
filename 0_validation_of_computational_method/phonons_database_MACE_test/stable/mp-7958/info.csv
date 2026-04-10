@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7958,KLaO2,4,[6.56244073 6.56244073 6.56244117],-26.473703759146368,5,[32.81220365 32.81220365 32.81220585],500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18373,O20Se8Zn4,32,[ 6.05592413  6.79997491 10.43032051],-160.58081996789667,5,[30.27962065 33.99987455 52.15160255],4000,0,False

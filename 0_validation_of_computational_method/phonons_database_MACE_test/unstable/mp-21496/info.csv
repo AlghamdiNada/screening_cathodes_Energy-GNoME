@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+21496,CuLa4LiO8,14,[7.11242369 7.11242369 5.305003  ],-103.66599956682546,5,[35.56211845 35.56211845 26.525015  ],1750,8,True

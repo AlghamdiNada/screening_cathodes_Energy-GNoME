@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-531297,Ga32Ge8S32,72,[11.637147 11.637147 11.637147],-300.13901786559217,3,[34.911441 34.911441 34.911441],1944,0,False

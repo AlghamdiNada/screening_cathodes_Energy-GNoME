@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+978852,HGaSnSr,4,[4.48741715 4.48741715 5.165524  ],-13.431988779567867,5,[22.43708575 22.43708575 25.82762   ],500,0,False

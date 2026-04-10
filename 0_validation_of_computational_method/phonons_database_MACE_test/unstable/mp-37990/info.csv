@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+37990,Al5O20P5,30,[9.70962814 9.70962774 9.70962726],-223.38924810584763,5,[48.5481407 48.5481387 48.5481363],3750,86,True

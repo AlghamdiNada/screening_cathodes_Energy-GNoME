@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+29365,BiLi5O5,11,[5.43769698 5.43769698 6.05401987],-56.20910123689775,5,[27.1884849  27.1884849  30.27009935],1375,29,True

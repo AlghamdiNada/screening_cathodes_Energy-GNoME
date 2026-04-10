@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+560790,BiCs2F6Na,10,[6.60810662 6.60810662 6.60810662],-44.52406326743302,5,[33.0405331 33.0405331 33.0405331],1250,0,False

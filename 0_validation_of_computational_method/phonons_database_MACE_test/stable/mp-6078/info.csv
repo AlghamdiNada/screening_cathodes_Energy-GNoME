@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6078,Cd6Na4O20Si6,36,[ 8.79468504  8.79468504 11.15158499],-217.08541307871013,5,[43.9734252  43.9734252  55.75792495],4500,0,False

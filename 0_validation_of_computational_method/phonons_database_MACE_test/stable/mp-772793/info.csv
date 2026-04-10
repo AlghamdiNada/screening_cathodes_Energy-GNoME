@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+772793,Dy8Ge8O28,44,[ 6.871369  6.871369 12.518207],-326.44049847821447,5,[34.356845 34.356845 62.591035],5500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+573145,Cs4Ga12S20,36,[12.83058619  6.9733922  10.80969582],-152.1354136489793,5,[64.15293095 34.866961   54.0484791 ],4500,0,False

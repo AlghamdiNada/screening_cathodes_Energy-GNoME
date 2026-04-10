@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+16995,N22Si12Sm6,40,[10.00990917 10.00990917  4.85467583],-327.78879321928565,5,[50.04954585 50.04954585 24.27337915],5000,0,False

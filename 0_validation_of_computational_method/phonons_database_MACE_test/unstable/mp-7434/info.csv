@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7434,Cu2Na2Te2,6,[4.36311327 4.36311327 7.07673455],-19.215444741268197,5,[21.81556635 21.81556635 35.38367275],750,0,False

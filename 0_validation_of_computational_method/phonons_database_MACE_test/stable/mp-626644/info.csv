@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+626644,H2CaO2,5,[3.63327193 3.63327193 5.01120791],-28.04749370918943,5,[18.16635965 18.16635965 25.05603955],625,22,True

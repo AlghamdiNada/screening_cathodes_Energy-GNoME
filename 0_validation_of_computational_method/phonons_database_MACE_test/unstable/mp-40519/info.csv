@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+40519,Na3O30Sr7Ta3Ti7,50,[ 3.956317    7.942507   19.81127548],-403.2273333643811,4,[15.825268   31.770028   79.24510192],3200,13,True

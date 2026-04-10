@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+555237,Cl4O16Pr4S4,28,[8.146174   6.769424   8.68660357],-182.46313172471883,5,[40.73087    33.84712    43.43301785],3500,0,False

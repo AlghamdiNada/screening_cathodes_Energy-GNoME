@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7608,Li2O2Pd,5,[5.19001127 5.19001127 5.19001127],-25.810107843591922,5,[25.95005635 25.95005635 25.95005635],625,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+mp-560058,Ga6Li18O58P16,98,[ 9.78115327  9.78115327 13.746014  ],-648.0825196843227,3,[29.34345981 29.34345981 41.238042  ],2646,60,True

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9479,Al2MgSe4,7,[ 3.92224979  3.92224979 13.90932297],-29.661760088947876,5,[19.61124895 19.61124895 69.54661485],875,0,False

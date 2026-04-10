@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27968,Ge8Li24O28,60,[ 5.371178    8.182421   16.18476541],-340.34272989829924,4,[21.484712   32.729684   64.73906164],3840,0,False

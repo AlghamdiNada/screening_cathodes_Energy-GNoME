@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3949,K28Li4Si32,64,[12.4975258 12.4975258 12.4975258],-213.25224454503177,5,[62.487629 62.487629 62.487629],8000,0,False
