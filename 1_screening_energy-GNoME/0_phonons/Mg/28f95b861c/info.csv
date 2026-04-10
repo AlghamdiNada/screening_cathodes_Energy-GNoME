@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+28f95b861c,MgMn7Ni4O24Zn6,42,[ 5.9835088   5.98272476 13.24309863],-250.43396999303263,4,[23.9340352  23.93089904 52.97239452],2688,0,False

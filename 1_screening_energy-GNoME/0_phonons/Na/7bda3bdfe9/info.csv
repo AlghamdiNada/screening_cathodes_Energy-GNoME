@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7bda3bdfe9,FeMn11Na2O24,38,[8.24626007 8.24626099 9.826997  ],-262.40690624739216,4,[32.98504028 32.98504396 39.307988  ],2432,0,False

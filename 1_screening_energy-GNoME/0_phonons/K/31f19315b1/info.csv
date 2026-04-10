@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+31f19315b1,BaK3O12Ta4,20,[8.115187   5.73381022 5.735625  ],-166.80763938345865,5,[40.575935  28.6690511 28.678125 ],2500,0,False

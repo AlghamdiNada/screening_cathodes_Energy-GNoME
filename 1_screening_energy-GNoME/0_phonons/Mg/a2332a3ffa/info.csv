@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+a2332a3ffa,AsMg3MnN12P6,23,[7.27771666 7.27771576 7.27771667],-164.7429510892422,5,[36.3885833  36.3885788  36.38858335],2875,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+80f331e859,KS8Ti6,15,[9.510154   9.51015354 3.422863  ],-102.3962167385568,5,[47.55077   47.5507677 17.114315 ],1875,0,False

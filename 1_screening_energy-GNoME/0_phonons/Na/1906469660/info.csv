@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1906469660,Hf4NaSe8,13,[8.60894704 8.60894775 8.60894778],-86.6525205891101,5,[43.0447352  43.04473875 43.0447389 ],1625,0,False

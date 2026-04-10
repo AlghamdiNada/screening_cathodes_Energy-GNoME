@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+a5ed86a,AsCo3Li2O8,14,[5.74133255 5.71612368 5.741333  ],-83.16078558030614,5,[28.70666275 28.5806184  28.706665  ],1750,0,False

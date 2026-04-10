@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3378077815,Mg3N13NiP6,23,[7.05609924 7.05609967 7.05609933],-163.27185308401874,5,[35.2804962  35.28049835 35.28049665],2875,0,False

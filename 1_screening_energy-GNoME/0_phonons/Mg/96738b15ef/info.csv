@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+96738b15ef,Gd4MgO12Rh2Sc,20,[5.41251439 5.76679147 7.80874972],-191.60812219455437,5,[27.06257195 28.83395735 39.0437486 ],2500,0,False

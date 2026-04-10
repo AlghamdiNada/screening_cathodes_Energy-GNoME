@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+75ae834ca3,K2O15Si6V,24,[7.04584213 7.29857214 7.58236977],-179.15539237249973,5,[35.22921065 36.4928607  37.91184885],3000,0,False

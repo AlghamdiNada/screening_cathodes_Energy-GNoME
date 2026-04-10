@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+bb12972fdf,Al2Co6K4O16,28,[ 5.720035    4.93599444 12.621862  ],-164.20047951133085,5,[28.600175  24.6799722 63.10931  ],3500,0,False

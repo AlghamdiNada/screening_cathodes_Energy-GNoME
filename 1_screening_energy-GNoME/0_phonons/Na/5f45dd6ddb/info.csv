@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5f45dd6ddb,Mo2NaNdO8,12,[6.95618078 6.95618103 6.95618068],-86.37756049043787,5,[34.7809039  34.78090515 34.7809034 ],1500,0,False

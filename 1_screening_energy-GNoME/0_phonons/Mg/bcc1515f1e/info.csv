@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+bcc1515f1e,Co6Mg2O16Rh2Sb2,28,[ 6.0643065  10.4917052   6.17203189],-173.4421950131678,5,[30.3215325  52.458526   30.86015945],3500,0,False

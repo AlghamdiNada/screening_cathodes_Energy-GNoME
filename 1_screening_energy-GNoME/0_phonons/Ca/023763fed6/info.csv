@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+023763fed6,Ca2Fe2Ni4O24P6,38,[9.03573238 9.03573247 9.03573268],-256.4377658394683,5,[45.1786619  45.17866235 45.1786634 ],4750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+ff41d21104,Ca2Mo4O24P6,36,[8.83018585 8.83018602 9.07737513],-264.6093411223021,5,[44.15092925 44.1509301  45.38687565],4500,0,False

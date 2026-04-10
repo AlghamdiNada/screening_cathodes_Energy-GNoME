@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+f4d274950b,InNaTe6V6,14,[4.490911   9.25958566 9.50261053],-81.97745402098116,5,[22.454555   46.2979283  47.51305265],1750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+134a6a6c09,CoMn7NaO16,25,[5.84422238 7.07894128 7.157497  ],-171.22997826437023,5,[29.2211119 35.3947064 35.787485 ],3125,0,False

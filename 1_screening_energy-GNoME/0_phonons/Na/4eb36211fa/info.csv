@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4eb36211fa,NaS4Zr2,7,[3.672431   6.30947066 7.32448286],-45.84887077160743,5,[18.362155  31.5473533 36.6224143],875,0,False

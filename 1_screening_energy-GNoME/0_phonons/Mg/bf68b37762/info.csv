@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+bf68b37762,HMg5P11Ru19,36,[12.29157853 12.29157891  3.896428  ],-263.6079453250949,5,[61.45789265 61.45789455 19.48214   ],4500,0,False

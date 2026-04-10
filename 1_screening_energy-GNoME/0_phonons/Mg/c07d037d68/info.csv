@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+c07d037d68,MgS16V9,26,[ 6.351421    6.35142044 12.302645  ],-172.87202627541723,5,[31.757105  31.7571022 61.513225 ],3250,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+70289d5f4a,Mg2O12Si4Yb2,20,[6.63465653 6.63465607 5.30038939],-149.93536932559044,5,[33.17328265 33.17328035 26.50194695],2500,0,False

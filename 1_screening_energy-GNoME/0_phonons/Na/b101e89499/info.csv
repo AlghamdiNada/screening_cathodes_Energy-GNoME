@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+b101e89499,Cu2Hf3Na2Te8,15,[ 4.09383409  7.79932236 14.23255677],-75.76698262506609,5,[20.46917045 38.9966118  71.16278385],1875,0,False

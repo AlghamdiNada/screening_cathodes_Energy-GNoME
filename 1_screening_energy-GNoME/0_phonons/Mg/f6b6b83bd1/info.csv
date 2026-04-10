@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+f6b6b83bd1,Gd3HoMg2Mn2O12,20,[5.33321077 5.59063999 7.65130293],-179.1536124922414,5,[26.66605385 27.95319995 38.25651465],2500,0,False

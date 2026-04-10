@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+240faf867b,B4MgNi11O20,36,[ 3.011717    9.12603002 12.3531    ],-209.89797398039119,4,[12.046868   36.50412008 49.4124    ],2304,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+c9223f9a64,Co17MgP12Tm6,36,[ 3.69015  10.517937 12.17157 ],-246.98075868432812,5,[18.45075  52.589685 60.85785 ],4500,0,False

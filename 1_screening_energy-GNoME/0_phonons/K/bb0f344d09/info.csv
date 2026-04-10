@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+bb0f344d09,CoKMn3O8,13,[5.77627133 5.77627124 7.04338208],-86.15362749222324,5,[28.88135665 28.8813562  35.2169104 ],1625,0,False

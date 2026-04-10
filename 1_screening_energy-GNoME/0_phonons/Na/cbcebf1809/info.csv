@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+cbcebf1809,Na2S10Zr5,17,[ 6.301533   10.21987579  8.01921833],-113.30764567251825,5,[31.507665   51.09937895 40.09609165],2125,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+18045e7915,Fe6K2Se6,14,[8.898507   8.89850715 4.277506  ],-79.53436960111216,5,[44.492535   44.49253575 21.38753   ],1750,0,False

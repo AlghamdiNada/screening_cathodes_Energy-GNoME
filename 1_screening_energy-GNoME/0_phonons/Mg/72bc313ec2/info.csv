@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+72bc313ec2,Mg2O12Pr2Sr2Ta2,20,[5.740998   5.64293999 9.8008468 ],-160.39543532864352,5,[28.70499    28.21469995 49.004234  ],2500,0,False

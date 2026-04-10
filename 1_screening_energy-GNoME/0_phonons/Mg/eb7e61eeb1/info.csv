@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+eb7e61eeb1,Mg2S12Ta6,20,[ 5.801039    5.80103863 13.008992  ],-146.7799902877059,5,[29.005195   29.00519315 65.04496   ],2500,0,False

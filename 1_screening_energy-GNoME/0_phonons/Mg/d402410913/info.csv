@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+d402410913,FeMg3O24Os8,36,[ 4.62710082 10.40100085  9.24089768],-265.5594779678941,5,[23.1355041  52.00500425 46.2044884 ],4500,0,False

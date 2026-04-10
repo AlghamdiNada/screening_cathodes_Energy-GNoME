@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+422b7a0e44,Co4Na4O14Si4,26,[ 5.37194581  5.37194513 13.831446  ],-170.5774486580594,5,[26.85972905 26.85972565 69.15723   ],3250,0,False

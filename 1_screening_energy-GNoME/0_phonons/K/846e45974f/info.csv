@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+846e45974f,KLa3O12Ti4,20,[5.58975777 5.58975709 9.66037604],-169.67819301887025,5,[27.94878885 27.94878545 48.3018802 ],2500,0,False

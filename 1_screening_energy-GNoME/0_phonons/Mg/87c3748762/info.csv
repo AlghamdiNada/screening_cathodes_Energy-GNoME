@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+87c3748762,La4Mg2Mo2O12,20,[5.794256   5.65199115 9.80757069],-153.3773219295146,5,[28.97128    28.25995575 49.03785345],2500,0,False

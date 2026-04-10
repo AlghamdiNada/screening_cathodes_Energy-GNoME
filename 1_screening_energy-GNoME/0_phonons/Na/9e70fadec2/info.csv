@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9e70fadec2,La3NaO12Ti4,20,[7.830677   5.48135341 5.579194  ],-170.00805573462742,5,[39.153385   27.40676705 27.89597   ],2500,0,False

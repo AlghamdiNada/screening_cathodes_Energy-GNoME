@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6e82276b80,Ca8Cr4O44P12,68,[ 6.745571    6.48840951 19.371636  ],-501.070965255357,4,[26.982284   25.95363804 77.486544  ],4352,0,False

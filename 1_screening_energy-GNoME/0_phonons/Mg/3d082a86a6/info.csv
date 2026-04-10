@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3d082a86a6,CdMgMo2Nd3O14Sb,22,[7.27867348 7.60968605 7.609826  ],-156.37066077498707,5,[36.3933674  38.04843025 38.04913   ],2750,0,False

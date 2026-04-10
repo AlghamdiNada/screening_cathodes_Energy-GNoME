@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+11c2b8ab71,F5K2Ni,8,[4.00785715 5.83119229 7.07972509],-32.32702508472107,5,[20.03928575 29.15596145 35.39862545],1000,0,False

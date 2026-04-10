@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+46abbaba03,Cu4NaO10P2,17,[5.46112376 5.70847197 7.63437232],-100.28925117549377,5,[27.3056188  28.54235985 38.1718616 ],2125,23,True

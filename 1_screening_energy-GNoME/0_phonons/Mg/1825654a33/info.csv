@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1825654a33,La6MgO14Os,22,[6.80257557 6.8025754  7.7611261 ],-173.45509557232177,5,[34.01287785 34.012877   38.8056305 ],2750,30,True

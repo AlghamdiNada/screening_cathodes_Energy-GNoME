@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+fd77d277fa,CrNaS4Ti,7,[3.490902   5.91881469 6.96399888],-42.87028318659131,5,[17.45451    29.59407345 34.8199944 ],875,0,False

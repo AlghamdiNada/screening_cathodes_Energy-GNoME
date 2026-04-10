@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+da78a71443,As6Cu4Mg2Ni4O24,40,[8.87230446 8.86363665 6.80715186],-225.3030278301858,5,[44.3615223  44.31818325 34.0357593 ],5000,0,False

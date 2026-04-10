@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+b8aea26896,MgMo2O14Te2Zn3,22,[5.23374344 8.68200469 7.41993919],-129.37428263408717,5,[26.1687172  43.41002345 37.09969595],2750,0,False

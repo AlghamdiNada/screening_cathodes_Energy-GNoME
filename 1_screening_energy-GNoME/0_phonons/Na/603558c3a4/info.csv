@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+603558c3a4,Na2Ni2S6U2,12,[ 6.72345454  6.72345383 10.064702  ],-74.84109397710336,5,[33.6172727  33.61726915 50.32351   ],1500,0,False

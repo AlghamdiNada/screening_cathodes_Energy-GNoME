@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+d6be5784ec,FeK8MnO48P12Ti6,76,[10.022929   10.05369461 10.056639  ],-559.21340769525,4,[40.091716   40.21477844 40.226556  ],4864,0,False

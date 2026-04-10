@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+d670cdb709,K2O18Ti4V6,30,[ 6.03057706  6.02983769 14.37972605],-239.59794747100676,5,[30.1528853  30.14918845 71.89863025],3750,0,False

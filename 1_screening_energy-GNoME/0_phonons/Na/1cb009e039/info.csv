@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1cb009e039,AlMn7NaO16,25,[5.85637212 6.98223678 7.091994  ],-174.75967106248305,5,[29.2818606 34.9111839 35.45997  ],3125,0,False

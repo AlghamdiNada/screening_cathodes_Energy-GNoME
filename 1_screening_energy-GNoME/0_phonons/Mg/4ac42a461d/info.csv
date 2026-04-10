@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4ac42a461d,Bi2LuMgO14Rh4,22,[7.12485941 7.1248597  7.0765434 ],-143.52481786581717,5,[35.62429705 35.6242985  35.382717  ],2750,94,True

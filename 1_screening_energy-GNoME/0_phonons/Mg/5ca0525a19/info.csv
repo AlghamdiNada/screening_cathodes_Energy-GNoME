@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5ca0525a19,MgO20Ru4Sr10,35,[8.9303904  8.93039005 8.93039083],-231.42156894497978,5,[44.651952   44.65195025 44.65195415],4375,0,False

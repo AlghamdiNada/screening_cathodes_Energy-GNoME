@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+400fab0a1d,Cr6Na6O32P8,52,[ 6.367622   10.13567909 10.524355  ],-368.43212299546616,4,[25.470488   40.54271636 42.09742   ],3328,0,False

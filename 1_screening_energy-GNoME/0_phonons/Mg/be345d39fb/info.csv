@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+be345d39fb,MgMnO14W3Y3,22,[7.1897798  7.18968958 7.18960933],-177.785641401305,5,[35.948899   35.9484479  35.94804665],2750,0,False

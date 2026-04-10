@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+e810bb5286,MgMo3O16P4,24,[4.85699424 6.8670857  8.92478951],-174.71055869278285,5,[24.2849712  34.3354285  44.62394755],3000,0,False

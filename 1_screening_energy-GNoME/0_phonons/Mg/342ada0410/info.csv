@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+342ada0410,Ca4Ir2Mg2O12,20,[5.614875   5.4523285  9.49329302],-129.45066048287552,5,[28.074375  27.2616425 47.4664651],2500,0,False

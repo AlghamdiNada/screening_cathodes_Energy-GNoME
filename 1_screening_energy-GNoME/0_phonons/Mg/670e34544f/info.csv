@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+670e34544f,La2Mg2O12Pr2Pt2,20,[5.58762797 5.756629   7.9519495 ],-143.18617714750684,5,[27.93813985 28.783145   39.7597475 ],2500,0,False

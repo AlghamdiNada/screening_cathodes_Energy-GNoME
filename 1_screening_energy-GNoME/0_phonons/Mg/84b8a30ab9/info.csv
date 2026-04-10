@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+84b8a30ab9,As3Co5MgO16V,26,[8.55231185 5.3584964  9.05118329],-164.04589216876337,5,[42.76155925 26.792482   45.25591645],3250,0,False

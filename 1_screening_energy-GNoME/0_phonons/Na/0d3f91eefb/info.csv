@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+0d3f91eefb,Mo4NaS8Tc2,15,[6.56204258 6.5956385  6.58935842],-110.175945652282,5,[32.8102129 32.9781925 32.9467921],1875,0,False

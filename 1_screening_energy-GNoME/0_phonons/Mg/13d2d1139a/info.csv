@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+13d2d1139a,Fe3MgO12Pr4,20,[5.53718198 5.67811002 7.87147217],-147.48635947363599,5,[27.6859099  28.3905501  39.35736085],2500,0,False

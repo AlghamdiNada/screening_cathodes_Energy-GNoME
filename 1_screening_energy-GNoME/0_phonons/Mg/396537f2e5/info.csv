@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+396537f2e5,BiMg2O14Pt4Sc,22,[7.12633955 7.18648478 7.12633878],-137.004959949608,5,[35.63169775 35.9324239  35.6316939 ],2750,0,False

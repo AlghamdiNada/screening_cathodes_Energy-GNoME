@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+a77ec8c,Cr4Li4Ni2O16Te2,28,[ 6.00832536 10.54382539  6.00816994],-174.4514692553467,5,[30.0416268  52.71912695 30.0408497 ],3500,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+08daceb095,IrMgO4,6,[4.64218402 4.64218402 3.135811  ],-38.037630135638274,5,[23.2109201 23.2109201 15.679055 ],750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+ed6b4989de,C2AlKO6,10,[6.30842289 6.308423   6.30842246],-71.89373089582539,5,[31.54211445 31.542115   31.5421123 ],1250,19,True

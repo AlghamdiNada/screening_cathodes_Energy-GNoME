@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+dafecaf0d0,C2MoNaO6,10,[6.16379322 6.16379288 6.16379305],-72.29788569866112,5,[30.8189661  30.8189644  30.81896525],1250,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+e5b48ba3d5,Cl18MgMn5,24,[ 6.2638081   6.10783412 19.98474477],-104.72419108981498,5,[31.3190405  30.5391706  99.92372385],3000,10,True

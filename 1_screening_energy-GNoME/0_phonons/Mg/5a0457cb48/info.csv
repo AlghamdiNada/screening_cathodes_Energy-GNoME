@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5a0457cb48,MgNb8Se16Zr,26,[ 7.016843   7.0168425 13.620659 ],-171.6012230779058,5,[35.084215  35.0842125 68.103295 ],3250,0,False

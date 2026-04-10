@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+11f803439e,CaF14Ga2K4Mn,22,[7.86538385 7.86538356 7.91934508],-109.08627764660122,5,[39.32691925 39.3269178  39.5967254 ],2750,0,False

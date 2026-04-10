@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+fa0c45c93d,MgO14Pr3Pt4,22,[7.44926052 7.30288107 7.449261  ],-148.30217072715544,5,[37.2463026  36.51440535 37.246305  ],2750,36,True

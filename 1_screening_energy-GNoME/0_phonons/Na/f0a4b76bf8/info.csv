@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+f0a4b76bf8,NaS8Ti4,13,[6.82983022 6.82983031 9.17076352],-83.09195722733331,5,[34.1491511  34.14915155 45.8538176 ],1625,0,False

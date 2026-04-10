@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3117cc9f17,Dy4MgMn2NiO12,20,[5.27949058 5.59391245 7.59117498],-149.0326231533023,5,[26.3974529  27.96956225 37.9558749 ],2500,0,False

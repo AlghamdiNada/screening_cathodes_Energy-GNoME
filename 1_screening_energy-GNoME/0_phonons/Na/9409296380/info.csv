@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9409296380,Mn6Na3O24P6,39,[8.73224992 8.7322507  6.76152293],-281.22300602635323,5,[43.6612496  43.6612535  33.80761465],4875,31,True

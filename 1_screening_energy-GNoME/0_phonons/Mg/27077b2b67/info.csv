@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+27077b2b67,MgO6PdPt2,10,[6.15845441 6.15845455 3.224502  ],-58.559543541874035,5,[30.79227205 30.79227275 16.12251   ],1250,0,False

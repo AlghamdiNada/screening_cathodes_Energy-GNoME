@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7e52de9471,K2P4TiZn3,10,[7.49759855 7.49759775 5.713757  ],-39.94559772730351,5,[37.48799275 37.48798875 28.568785  ],1250,0,False

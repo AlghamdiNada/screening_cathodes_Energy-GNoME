@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+cbff774278,Co8K2O16,26,[ 5.73530713  5.73484788 13.223612  ],-149.03670084558675,5,[28.67653565 28.6742394  66.11806   ],3250,0,False

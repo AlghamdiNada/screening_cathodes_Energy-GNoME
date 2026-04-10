@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+d0c0c94c16,Na4Ni2O8Rh2,16,[ 3.104268    5.57468346 10.3199214 ],-83.7679597839425,5,[15.52134   27.8734173 51.599607 ],2000,0,False

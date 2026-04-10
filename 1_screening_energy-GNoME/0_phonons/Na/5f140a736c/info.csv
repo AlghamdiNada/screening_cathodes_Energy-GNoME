@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5f140a736c,C4Fe3MnNa10O28P4,50,[ 5.20485105  8.96962202 13.40277   ],-330.74127178140975,4,[20.8194042  35.87848808 53.61108   ],3200,0,False

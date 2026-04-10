@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5a35b9a7d8,K2Mn5O10,17,[5.11527834 7.34210028 7.86162723],-115.07504701964672,5,[25.5763917  36.7105014  39.30813615],2125,0,False

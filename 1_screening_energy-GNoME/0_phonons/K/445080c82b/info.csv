@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+445080c82b,K4O15SrTa5,25,[9.02382735 9.02382826 6.989946  ],-208.13676022904366,5,[45.11913675 45.1191413  34.94973   ],3125,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+b4aa711641,Fe3Mg2O30Ru5Sr10,50,[7.90888199 9.71211946 9.78041502],-332.8485683932433,4,[31.63552796 38.84847784 39.12166008],3200,0,False

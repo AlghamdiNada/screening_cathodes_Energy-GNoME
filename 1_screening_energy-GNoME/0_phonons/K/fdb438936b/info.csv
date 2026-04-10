@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+fdb438936b,K16Se72Ti16,104,[15.237695   13.11534872 14.022942  ],-478.4707958811464,4,[60.95078    52.46139488 56.091768  ],6656,0,False

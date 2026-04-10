@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+36c0a67c83,Cl12Hf2Mg2,16,[ 6.463615    6.46361543 13.057478  ],-74.61898597650753,5,[32.318075   32.31807715 65.28739   ],2000,0,False

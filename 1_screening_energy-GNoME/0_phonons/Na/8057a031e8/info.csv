@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8057a031e8,Mo12Na2Te14,28,[10.40045362 10.4004534  10.40045325],-186.58203181810043,5,[52.0022681  52.002267   52.00226625],3500,0,False

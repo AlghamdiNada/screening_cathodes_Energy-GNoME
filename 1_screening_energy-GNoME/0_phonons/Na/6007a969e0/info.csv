@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6007a969e0,Cr3GeNa3O8,15,[6.49682744 6.49682361 6.49678687],-98.88362464648466,5,[32.4841372  32.48411805 32.48393435],1875,0,False

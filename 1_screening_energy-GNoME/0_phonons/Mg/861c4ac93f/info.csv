@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+861c4ac93f,DyFeHo2MgO14Sb3,22,[7.18808623 7.18901382 7.189035  ],-154.3102452889062,5,[35.94043115 35.9450691  35.945175  ],2750,0,False

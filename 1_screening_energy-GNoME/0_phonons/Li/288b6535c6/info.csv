@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+b6535c6,Li2O14P4Rh2,22,[8.245024   4.86049605 7.02775277],-150.42470686383405,5,[41.22512    24.30248025 35.13876385],2750,0,False

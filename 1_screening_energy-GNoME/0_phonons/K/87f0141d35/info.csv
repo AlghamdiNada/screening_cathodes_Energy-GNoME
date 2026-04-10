@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+87f0141d35,K2S10Ti5,17,[ 5.85501102 10.29482847  8.447961  ],-106.25467735538861,5,[29.2750551  51.47414235 42.239805  ],2125,0,False

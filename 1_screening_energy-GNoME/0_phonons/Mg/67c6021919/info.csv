@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+67c6021919,MgMn2Nd4O12Zn,20,[5.46181777 5.6356258  7.78433045],-147.46871809266224,5,[27.30908885 28.178129   38.92165225],2500,0,False

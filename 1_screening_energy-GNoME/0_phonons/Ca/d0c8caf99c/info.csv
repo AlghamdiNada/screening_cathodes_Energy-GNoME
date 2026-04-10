@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+d0c8caf99c,Bi3CaO14Ru4,22,[7.31637014 7.31542189 7.31666779],-148.77407033147287,5,[36.5818507  36.57710945 36.58333895],2750,0,False

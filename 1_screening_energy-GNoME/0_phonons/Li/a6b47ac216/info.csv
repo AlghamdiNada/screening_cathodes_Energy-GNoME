@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+47ac216,CoLiS12V6,20,[ 5.528308    5.52830785 12.140135  ],-130.6217623685281,5,[27.64154    27.64153925 60.700675  ],2500,0,False

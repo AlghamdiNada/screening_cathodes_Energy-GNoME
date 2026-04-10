@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+286249fd3d,Co3MgO24W8,36,[ 4.68917324 10.70590293  9.37639578],-262.11506394159727,5,[23.4458662  53.52951465 46.8819789 ],4500,0,False

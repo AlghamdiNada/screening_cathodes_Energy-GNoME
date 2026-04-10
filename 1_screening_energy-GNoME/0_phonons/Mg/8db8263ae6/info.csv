@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8db8263ae6,CrMgNb6Se12,20,[ 6.07002     6.07002128 13.269237  ],-131.10018350852107,5,[30.3501    30.3501064 66.346185 ],2500,0,False

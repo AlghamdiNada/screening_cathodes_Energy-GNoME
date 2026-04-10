@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+ec39ddb920,KMn2O14P4,21,[4.77088535 7.31398404 7.9876937 ],-149.61931942852033,5,[23.85442675 36.5699202  39.9384685 ],2625,0,False

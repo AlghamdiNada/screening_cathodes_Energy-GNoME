@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+922274ab10,MgNb2O9Sr3,15,[5.731887  5.7318861 7.045809 ],-114.09349584805538,5,[28.659435  28.6594305 35.229045 ],1875,37,True

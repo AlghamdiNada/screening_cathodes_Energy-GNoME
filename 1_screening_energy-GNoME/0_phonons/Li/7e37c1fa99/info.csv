@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7c1fa99,Cr4Li4O24Se8,40,[9.09429444 9.09429539 9.094295  ],-237.89490029125858,5,[45.4714722  45.47147695 45.471475  ],5000,0,False

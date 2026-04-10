@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+5f9c619341,Mg5NiO48P12Sr12,78,[10.1381686   9.13983592 11.84046244],-549.2785607330873,4,[40.5526744  36.55934368 47.36184976],4992,0,False

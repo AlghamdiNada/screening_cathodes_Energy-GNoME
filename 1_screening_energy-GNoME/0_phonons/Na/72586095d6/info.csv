@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+72586095d6,Mo2Na2Nb4Se12,20,[ 5.983499    5.98349776 15.715224  ],-124.42458585817798,5,[29.917495  29.9174888 78.57612  ],2500,0,False

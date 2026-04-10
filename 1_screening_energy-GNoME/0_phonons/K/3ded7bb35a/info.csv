@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3ded7bb35a,F14K4Ni2Sc2,22,[7.80078093 7.80078081 7.80078089],-115.15127131031758,5,[39.00390465 39.00390405 39.00390445],2750,0,False

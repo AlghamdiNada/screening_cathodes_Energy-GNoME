@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+60af0ac7ae,K8Mn8O40P10,66,[9.969068 9.969068 9.638108],-459.3981586721417,4,[39.876272 39.876272 38.552432],4224,34,True

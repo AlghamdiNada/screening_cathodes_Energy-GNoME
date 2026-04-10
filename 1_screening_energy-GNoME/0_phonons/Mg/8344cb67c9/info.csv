@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8344cb67c9,Cl6MgMn,8,[6.20921469 6.20921376 6.60467412],-31.220859789892156,5,[31.04607345 31.0460688  33.0233706 ],1000,0,False

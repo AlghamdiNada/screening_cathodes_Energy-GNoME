@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6d1603cd54,Cl16Fe4HgMg,22,[10.16476395 10.16476371 12.142648  ],-83.38075015923476,5,[50.82381975 50.82381855 60.71324   ],2750,0,False

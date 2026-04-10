@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+2d47ec7,Li2Mn2O16Se4,24,[4.95368604 7.14468141 9.108499  ],-136.3829410285803,5,[24.7684302  35.72340705 45.542495  ],3000,0,False

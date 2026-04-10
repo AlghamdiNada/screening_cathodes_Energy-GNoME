@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+21ed59a268,Ir4K6Li2O18,30,[ 5.813293    5.81329307 13.781016  ],-168.50647534226192,5,[29.066465   29.06646535 68.90508   ],3750,0,False

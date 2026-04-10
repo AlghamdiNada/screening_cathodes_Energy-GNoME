@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+f0dbddedef,K2O15SmTa5,23,[9.31878852 9.31878948 3.959846  ],-206.56322421912174,5,[46.5939426 46.5939474 19.79923  ],2875,11,True

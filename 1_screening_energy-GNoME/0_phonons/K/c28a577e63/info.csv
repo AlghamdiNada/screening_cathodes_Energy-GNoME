@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+c28a577e63,CrK2Mn11O24,38,[8.25508477 8.25508627 9.898177  ],-266.81568123697326,4,[33.02033908 33.02034508 39.592708  ],2432,0,False

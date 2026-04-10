@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+78b2c78f53,MgMn7O16Pb,25,[5.87464195 7.13003341 7.24005238],-172.4062528799327,5,[29.37320975 35.65016705 36.2002619 ],3125,0,False

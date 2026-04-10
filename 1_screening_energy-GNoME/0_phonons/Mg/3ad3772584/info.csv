@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3ad3772584,Ag2MgMnO4,8,[3.03022    5.29333968 6.45879483],-44.349141973858124,5,[15.1511     26.4666984  32.29397415],1000,0,False

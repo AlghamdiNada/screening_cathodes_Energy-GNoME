@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+e058df0650,Hf5Na2Se10,17,[ 6.4949759  10.63487082  8.38653283],-110.21746710528036,5,[32.4748795  53.1743541  41.93266415],2125,0,False

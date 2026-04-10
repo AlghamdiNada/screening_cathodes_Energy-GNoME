@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+3ae2a99bf6,LaMg2O12Pt2Sr3,20,[5.6546272  5.67482445 7.98631423],-125.65425800677977,5,[28.273136   28.37412225 39.93157115],2500,0,False

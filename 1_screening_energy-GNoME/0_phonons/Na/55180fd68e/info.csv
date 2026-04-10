@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+55180fd68e,Fe6Mn2Na6O16,30,[6.035911   6.48618245 8.86145948],-182.19926455938258,5,[30.179555   32.43091225 44.3072974 ],3750,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+26161817e3,CoLaMgO6Pr,10,[5.40147276 5.43983196 5.47637592],-71.28926573398664,5,[27.0073638 27.1991598 27.3818796],1250,2,True

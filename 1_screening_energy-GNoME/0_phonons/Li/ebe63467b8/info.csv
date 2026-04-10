@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+63467b8,Fe4Li4O16P4,28,[ 4.746441 10.44373   6.090226],-190.267873409149,5,[23.732205 52.21865  30.45113 ],3500,0,False

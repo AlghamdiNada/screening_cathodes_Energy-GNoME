@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+6085e15cce,As8Mg2Ni2O16,28,[8.384674 8.384674 5.781636],-164.98238944541538,5,[41.92337 41.92337 28.90818],3500,0,False

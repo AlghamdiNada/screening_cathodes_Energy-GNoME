@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+4e9061ef38,CrF2K4O20ScSi8,36,[8.11330323 8.8847245  8.884725  ],-262.81287725043796,5,[40.56651615 44.4236225  44.423625  ],4500,0,False

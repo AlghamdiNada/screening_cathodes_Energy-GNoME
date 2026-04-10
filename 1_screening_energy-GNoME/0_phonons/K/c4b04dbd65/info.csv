@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+c4b04dbd65,KMn7O16Sc,25,[5.86112265 7.13544031 7.250216  ],-178.54579903153473,5,[29.30561325 35.67720155 36.25108   ],3125,0,False

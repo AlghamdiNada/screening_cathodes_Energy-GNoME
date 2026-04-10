@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+8d9125b1a4,CaMoO24P6Ti3,35,[8.53333833 8.53333866 8.92849411],-271.6266517506858,5,[42.66669165 42.6666933  44.64247055],4375,0,False

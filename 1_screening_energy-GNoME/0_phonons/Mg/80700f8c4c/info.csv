@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+80700f8c4c,CdLa3MgO14Sb3,22,[7.4486407  7.44865038 7.44860217],-149.5995795033692,5,[37.2432035  37.2432519  37.24301085],2750,0,False

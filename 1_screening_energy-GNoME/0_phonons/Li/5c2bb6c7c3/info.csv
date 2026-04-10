@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+bb6c7c3,CoFe2La4LiO12,20,[5.52717181 5.55006249 7.85223981],-145.7021193955291,5,[27.63585905 27.75031245 39.26119905],2500,0,False

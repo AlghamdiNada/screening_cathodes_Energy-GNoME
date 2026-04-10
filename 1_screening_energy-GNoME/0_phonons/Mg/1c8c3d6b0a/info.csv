@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1c8c3d6b0a,Br8Co3MgO24,36,[ 5.63819069 10.52073611 10.5736613 ],-155.37386784919133,5,[28.19095345 52.60368055 52.8683065 ],4500,0,False

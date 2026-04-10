@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+0a6ddde9d0,Fe2Na4O24P8,38,[8.64250307 8.64250309 7.7303023 ],-260.11346094246346,5,[43.21251535 43.21251545 38.6515115 ],4750,0,False

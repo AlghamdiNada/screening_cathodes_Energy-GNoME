@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+24cb56cbba,K3O12SrTa4,20,[8.072761   5.71456701 5.71158836],-166.9218617201645,5,[40.363805   28.57283505 28.5579418 ],2500,0,False

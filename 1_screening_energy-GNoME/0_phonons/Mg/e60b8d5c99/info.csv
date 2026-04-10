@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+e60b8d5c99,MgO12Pr5Ru,19,[7.13161124 7.13161154 7.67424052],-145.0882791240326,5,[35.6580562 35.6580577 38.3712026],2375,0,False

@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+f0a1505bde,CaCu4ErO8,14,[6.25708389 6.25708402 6.25708283],-82.23860551840862,5,[31.28541945 31.2854201  31.28541415],1750,0,False

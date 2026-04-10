@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+59889c060a,CrF20Ga3K8,32,[ 5.736345    7.48363824 11.67360749],-150.12718702707812,5,[28.681725   37.4181912  58.36803745],4000,0,False

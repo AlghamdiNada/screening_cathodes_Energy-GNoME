@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+7e9e66b9cc,F12MgRu3,16,[7.57629298 5.1975307  5.46597599],-82.75185888837069,5,[37.8814649  25.9876535  27.32987995],2000,0,False

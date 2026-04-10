@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9abb7a5783,Ag3CaO6Rh2,12,[5.52249822 5.51206115 6.64280003],-65.692335575289,5,[27.6124911  27.56030575 33.21400015],1500,0,False

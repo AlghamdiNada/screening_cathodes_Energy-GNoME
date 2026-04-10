@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+b97dd82beb,Bi4Fe2Mg2O20V4,32,[ 7.8088034  11.75465     5.39082878],-215.07082459948785,5,[39.044017  58.77325   26.9541439],4000,0,False

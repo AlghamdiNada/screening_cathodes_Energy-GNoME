@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+1078a8404c,H27Mg6Ta3,36,[8.186571   8.18657122 4.889361  ],-138.45412910276488,4,[32.746284   32.74628488 19.557444  ],2304,145,True

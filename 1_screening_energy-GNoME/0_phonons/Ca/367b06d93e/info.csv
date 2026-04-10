@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+367b06d93e,CaO14P4V2,21,[4.87143601 7.12457927 7.99571271],-156.72308360958715,5,[24.35718005 35.62289635 39.97856355],2625,0,False

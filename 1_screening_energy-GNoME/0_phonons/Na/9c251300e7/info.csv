@@ -1,0 +1,2 @@
+id,chemical_formula,n_atoms,cell_lengths,potential_energy (eV),supercell_dim,supercell_lengths,n_atoms_supercell,n_imaginary_bands,has_imaginary
+9c251300e7,Fe3Na3O8Pt,15,[6.096047   5.30467995 5.77038777],-87.07977453290468,5,[30.480235   26.52339975 28.85193885],1875,0,False
