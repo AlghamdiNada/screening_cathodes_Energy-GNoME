@@ -7,7 +7,7 @@ This repository contains the input files required to reproduce the results prese
 
 **Screening novel cathode materials from the Energy-GNoME database using MACE machine learning force field and DFT**· Nada Alghamdi, Paolo de Angelis, Pietro Asinari, Eliodoro Chiavazzo
 
-<img width="486" height="399" alt="image" src="https://github.com/user-attachments/assets/516ffddc-36aa-47eb-beab-fd80b4781e81" />
+<img width="672" height="551" alt="screening" src="https://github.com/user-attachments/assets/5d43fc14-0bd8-4b4e-ae55-179fe0348833" />
 
 ## 📝 Contents
 
