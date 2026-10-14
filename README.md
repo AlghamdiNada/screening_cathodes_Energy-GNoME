@@ -7,7 +7,7 @@ This repository contains the input files required to reproduce the results prese
 
 **Screening novel cathode materials from the Energy-GNoME database using MACE machine learning force field and DFT**· Nada Alghamdi, Paolo de Angelis, Pietro Asinari, Eliodoro Chiavazzo
 
-[screening.pdf](https://github.com/user-attachments/files/33436785/screening.pdf)
+<img width="486" height="399" alt="image" src="https://github.com/user-attachments/assets/516ffddc-36aa-47eb-beab-fd80b4781e81" />
 
 ## 📝 Contents
 
@@ -37,11 +37,18 @@ DFT refinement inputs for the most promising cathode candidates identified throu
 If you use this work in your research, please cite the follwoing:
 
 ```bibtex
-@article{alghamdi2025screening,
-  title={Screening novel cathode materials from the Energy-GNoME database using MACE machine learning force field and DFT},
-  author={Alghamdi, Nada and de Angelis, Paolo and Asinari, Pietro and Chiavazzo, Eliodoro},
-  journal={arXiv preprint arXiv:2511.22504},
-  year={2025}
+@article{Alghamdi_2026,
+doi = {10.1088/2515-7639/aeae74},
+url = {https://doi.org/10.1088/2515-7639/aeae74},
+year = {2026},
+month = {oct},
+publisher = {IOP Publishing},
+volume = {9},
+number = {4},
+pages = {045007},
+author = {Alghamdi, Nada and de Angelis, Paolo and Asinari, Pietro and Chiavazzo, Eliodoro},
+title = {Screening novel cathode materials from the Energy-GNoME database using foundation machine learning force fields and DFT},
+journal = {Journal of Physics: Materials},
 }
 ```
 
