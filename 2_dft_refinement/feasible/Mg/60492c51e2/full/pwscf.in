@@ -10,7 +10,6 @@
   verbosity = 'high'
   nstep = 180
   max_seconds = 75600
-  restart_mode = 'restart'
 /
 &SYSTEM
   degauss =   2.0000000000d-02
@@ -31,8 +30,7 @@
 &ELECTRONS
   conv_thr =   7.2000000000d-09
   electron_maxstep = 250
-  mixing_beta = 0.7 !4.0000000000d-01
-  diagonalization = 'cg'
+  mixing_beta = 0.3 !4.0000000000d-01
 /
 &IONS
 /
@@ -90,5 +88,3 @@ CELL_PARAMETERS angstrom
       7.6399449500       0.0000000000       0.0000000000
      -0.0574642076       7.6465149689       0.0000000000
      -0.0575705568      -0.0604545431       7.6404629370
-HUBBARD (ortho-atomic)
-U Fe-3d 4.5
