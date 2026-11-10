@@ -3,9 +3,11 @@ This repository is currently under construction.
 # Overview
 This repository contains the input files required to reproduce the results presented in:
 [![arXiv](https://img.shields.io/badge/arXiv-2510.05020-b31b1b.svg)](https://doi.org/10.48550/arXiv.2511.22504)
-[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2510.05020-blue)](https://doi.org/10.48550/arXiv.2511.22504)
+[![DOI](https://img.shields.io/badge/DOI-10.1088%2F2515--7655%2Fae6c5a-blue)](https://doi.org/10.1088/2515-7639/aeae74)
 
-**Screening novel cathode materials from the Energy-GNoME database using MACE machine learning force field and DFT**· Nada Alghamdi, Paolo de Angelis, Pietro Asinari, Eliodoro Chiavazzo
+**Screening novel cathode materials from the Energy-GNoME database using foundation machine learning force fields and DFT**· Nada Alghamdi, Paolo de Angelis, Pietro Asinari, Eliodoro Chiavazzo
+
+<img width="672" height="551" alt="screening" src="https://github.com/user-attachments/assets/5d43fc14-0bd8-4b4e-ae55-179fe0348833" />
 
 ## 📝 Contents
 
@@ -32,14 +34,21 @@ DFT refinement inputs for the most promising cathode candidates identified throu
 
 ## Citation
 
-If you use this data in your research, please cite the follwoing pre-print:
+If you use this work in your research, please cite the follwoing:
 
 ```bibtex
-@article{alghamdi2025screening,
-  title={Screening novel cathode materials from the Energy-GNoME database using MACE machine learning force field and DFT},
-  author={Alghamdi, Nada and de Angelis, Paolo and Asinari, Pietro and Chiavazzo, Eliodoro},
-  journal={arXiv preprint arXiv:2511.22504},
-  year={2025}
+@article{Alghamdi_2026,
+doi = {10.1088/2515-7639/aeae74},
+url = {https://doi.org/10.1088/2515-7639/aeae74},
+year = {2026},
+month = {oct},
+publisher = {IOP Publishing},
+volume = {9},
+number = {4},
+pages = {045007},
+author = {Alghamdi, Nada and de Angelis, Paolo and Asinari, Pietro and Chiavazzo, Eliodoro},
+title = {Screening novel cathode materials from the Energy-GNoME database using foundation machine learning force fields and DFT},
+journal = {Journal of Physics: Materials},
 }
 ```
 
