@@ -6,8 +6,8 @@ convex hull is built, and voltage steps are taken between stable points.
 
 This folder was cleaned on 2026-11-11 from the raw cluster working directories. Final inputs and
 results are kept as they were (byte-identical), pw.x runs were collected per configuration, and
-everything else was compressed into `archive/`. Raw pw.x outputs and the archive are **not in
-git**; see [Raw outputs](#raw-outputs-not-in-git).
+everything else was compressed into `archive/`, which is **not in git**; see
+[Files not in git](#files-not-in-git).
 
 ## Method
 - Code: Quantum ESPRESSO `pw.x` (GPU build, CINECA Leonardo), driven by
@@ -165,18 +165,14 @@ voltages unchanged; μ_Li moves the LiCoO2 average.
 Files: `recomputed/<system>_voltage.csv` and `<system>_hull.csv` (variant B; the hull lists the
 energy source of each state), and `recomputed/voltage_comparison.csv` (all variants, all steps).
 
-## Raw outputs (not in git)
+## Files not in git
 
-`.gitignore` excludes the large raw files, which are kept outside git:
-- `QE/**/espresso.pwo` (and restart `N_espresso.pwo`): the pw.x outputs, 230 files, 280 MB.
-  Everything derived from them is in git (`relaxed.extxyz`, `relaxed_summary.csv`,
-  `states_crosscheck.csv`). Zenodo record: _DOI to be added_.
-- `archive/`: the old runs and backups (200 MB, see below). Not published; kept locally and
-  on the cluster.
+The pw.x outputs (`QE/**/espresso.pwo` and restart `N_espresso.pwo`: 230 files, 280 MB raw,
+largest 19 MB) **are** in git. `.gitignore` excludes:
+- `archive/`: the old runs and backups (200 MB, see below; one file is over GitHub's 100 MB
+  limit). Kept locally and on the cluster only.
 - SLURM `*.out/*.err`, `espresso.err`, `CRASH` inside `QE/`.
-
-To restore the outputs, unpack the Zenodo tarballs from this folder; they extract to
-`DFT-<system>/QE/<config>/*.pwo`.
+- `*.bak*` backups and OS/editor junk.
 
 ## Archive
 Each `archive/DFT-<system>_old_runs.tar.gz` (local only) holds, with original paths:

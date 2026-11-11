@@ -1,6 +1,5 @@
-# Large / raw outputs kept outside git (see README "Raw outputs")
+# Kept outside git (see README "Files not in git")
 archive/
-*.pwo
 **/QE/**/*.out
 **/QE/**/*.err
 **/QE/**/CRASH
