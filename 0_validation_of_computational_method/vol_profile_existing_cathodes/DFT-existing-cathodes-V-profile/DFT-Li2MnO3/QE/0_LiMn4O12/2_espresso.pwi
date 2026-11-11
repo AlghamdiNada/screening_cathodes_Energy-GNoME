@@ -1,0 +1,72 @@
+&CONTROL
+   calculation      = 'vc-relax'
+   verbosity        = 'low'
+   restart_mode     = 'from_scratch'
+   nstep            = 1000
+   tstress          = .true.
+   tprnfor          = .true.
+   outdir           = './tmp'
+   prefix           = 'pwscf'
+   max_seconds      = 82800
+   etot_conv_thr    = 0.0001
+   forc_conv_thr    = 0.001
+   pseudo_dir       = '/leonardo_scratch/large/userexternal/nalghamd/mc_mace/PP-r2scan'
+/
+&SYSTEM
+   ecutwfc          = 85
+   ecutrho          = 340
+   occupations      = 'smearing'
+   degauss          = 0.01
+   smearing         = 'cold'
+   input_dft        = 'XC-000I-000I-000I-000I-497L-498L'
+   ntyp             = 3
+   nat              = 17
+   ibrav            = 0
+/
+&ELECTRONS
+   electron_maxstep = 1000
+   conv_thr         = 1e-08
+   mixing_mode      = 'plain'
+   mixing_beta      = 0.7
+   diagonalization  = 'david'
+   startingwfc      = 'atomic'
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+Li 6.94 Li_ONCV_PBE-1.2.upf
+Mn 54.938044 Mn_ONCV_PBE-1.2.upf
+O 15.999 O_ONCV_PBE-1.2.upf
+
+K_POINTS automatic
+7 3 7  0 0 0
+
+CELL_PARAMETERS (angstrom)
+   4.612178090   0.000000000   0.314005152
+   0.000000000   8.966986460   0.000000000
+  -1.254635084   0.000000000   4.664207912
+
+ATOMIC_POSITIONS (angstrom)
+Li               1.6787715037        7.8443415476        2.4891065343
+Mn               2.3060890496        3.0794118445        0.1570025763
+Mn               2.3060890496        5.8182194529        0.1570025763
+Mn               0.0000000000        7.5743397519        0.0000000000
+Mn               0.0000000000        1.3908983736        0.0000000000
+O                2.7574657070       -0.0367960128        4.0187584663
+O                0.6000773004       -0.0367960128        0.9594546022
+O                0.0733580885        1.8342677444        3.7055798704
+O                3.2841849188        1.8342677444        1.2726331981
+O                3.2662727814        7.1252133580        1.2728556091
+O                0.0912702259        7.1252133580        3.7053574594
+O                0.4401263572        4.4601734770        3.8983077601
+O                2.9174166410        4.4601734770        1.0799053077
+O                2.3783433486        6.3276742418        3.8588831580
+O                0.9791996588        6.3276742418        1.1193299105
+O                0.9677197540        2.5801313871        1.1043371108
+O                2.3898232534        2.5801313871        3.8738759577

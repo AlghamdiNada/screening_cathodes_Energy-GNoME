@@ -1,0 +1,101 @@
+                                      _\|/_
+                                      (o o)
+                              +----oOO-{_}-OOo-------------------------------------------+
+                              |                                                          |
+                              |                                                          |
+                              |                 ____        __  __  ____                 |
+                              |                |  _ \ _   _|  \/  |/ ___|                |
+                              |                | |_) | | | | |\/| | |                    |
+                              |                |  __/| |_| | |  | | |___                 |
+                              |                |_|    \__, |_|  |_|\____|                |
+                              |                       |___/                              |
+                              |                                                          |
+                              |                                                          |
+                              |                                                          |
+                              +----------------------------------------------------------+
+                                                                        version: 1+unknown
+
+                              (c) 2024-2025, Paolo De Angelis, Nada Alghamdi              
+                              Distributed under the MIT License                           
+                              Author(s):                                                  
+                                  Paolo De Angelis (paolo.deangelis@polito.it)            
+                                  Nada Alghamdi (nada.alghamdi@polito.it)                 
+
+[ 2025-11-23 09:25:44 |  DEBUG   ] Successfully loaded YAML file: settings.yaml
+[ 2025-11-23 09:25:44 |  DEBUG   ] Detected SCF Espresso calculator.
+[ 2025-11-23 09:25:44 |  DEBUG   ] All required parameters are present.
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'removal_method' missing. Using default: semi_brute_force
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'plots' missing. Using default: True
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'restart_mode' missing. Using default: from_scratch
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'verbosity' missing. Using default: low
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'outdir' missing. Using default: ./tmp
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'prefix' missing. Using default: pwscf
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'max_seconds' missing. Using default: 82800
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'nstep' missing. Using default: 1000
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'tstress' missing. Using default: True
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'tprnfor' missing. Using default: True
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'occupations' missing. Using default: smearing
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'degauss' missing. Using default: 0.01
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'smearing' missing. Using default: cold
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'conv_thr' missing. Using default: 1e-08
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'mixing_mode' missing. Using default: plain
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'diagonalization' missing. Using default: david
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'startingwfc' missing. Using default: atomic
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'nosym' missing. Using default: False
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'plots folder' missing. Using default: plots
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'QE_dir' missing. Using default: QE
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'steps_id' missing. Using default: None
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'post_process' missing. Using default: False
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'finish_interrupted_step' missing. Using default: False
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'fully_intercalated' missing. Using default: False
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'fully_deintercalated' missing. Using default: False
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'plot_frequency' missing. Using default: 1
+[ 2025-11-23 09:25:44 |  DEBUG   ] Optional parameter 'additional_cards' missing. Using default: None
+[ 2025-11-23 09:25:44 | WARNING  ] File VP/trj.xyz already exists
+[ 2025-11-23 09:25:44 | WARNING  ] Backup created: VP/trj.xyz.20251123_092544.bak
+[ 2025-11-23 09:25:44 |  DEBUG   ] New file created: VP/trj.xyz
+[ 2025-11-23 09:25:44 | WARNING  ] File VP/thermo.csv already exists
+[ 2025-11-23 09:25:44 | WARNING  ] Backup created: VP/thermo.csv.20251123_092544.bak
+[ 2025-11-23 09:25:44 |  DEBUG   ] New file created: VP/thermo.csv
+[ 2025-11-23 09:25:44 |  DEBUG   ] No `events` setting in input file
+[ 2025-11-23 09:25:44 | WARNING  ] File VP/voltage.csv already exists
+[ 2025-11-23 09:25:44 | WARNING  ] Backup created: VP/voltage.csv.20251123_092544.bak
+[ 2025-11-23 09:25:44 |  DEBUG   ] New file created: VP/voltage.csv
+[ 2025-11-23 09:25:44 | WARNING  ] File VP/hull.csv already exists
+[ 2025-11-23 09:25:44 | WARNING  ] Backup created: VP/hull.csv.20251123_092544.bak
+[ 2025-11-23 09:25:44 |  DEBUG   ] New file created: VP/hull.csv
+[ 2025-11-23 09:25:44 | WARNING  ] Folder VP/states already exist
+[ 2025-11-23 09:25:44 | WARNING  ] Backup created: VP/states_20251123_092544.bak
+[ 2025-11-23 09:25:46 |  DEBUG   ] New folder created: VP/states
+[ 2025-11-23 09:25:46 | WARNING  ] Folder QE already exist
+[ 2025-11-23 09:25:46 | WARNING  ] Backup created: QE_20251123_092546.bak
+[ 2025-11-23 09:25:46 |  DEBUG   ] New folder created: QE
+[ 2025-11-23 09:25:46 | WARNING  ] Folder plots already exist
+[ 2025-11-23 09:25:46 | WARNING  ] Backup created: plots_20251123_092546.bak
+[ 2025-11-23 09:25:46 |  DEBUG   ] New folder created: plots
+[ 2025-11-23 09:25:47 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-11-23 09:25:47 |   INFO   ] ================================================= 0-K Voltage Profile ==================================================
+[ 2025-11-23 09:25:47 |   INFO   ] 
+[ 2025-11-23 09:25:47 |   INFO   ]                                          Stating 0-K Voltage Profile simulation                                         
+[ 2025-11-23 09:25:47 |   INFO   ] Number of states = 9
+[ 2025-11-23 09:25:47 |   INFO   ] 
+[ 2025-11-23 09:25:47 |   INFO   ] Saving trajectory in `VP/trj.xyz` every 1 steps
+[ 2025-11-23 09:25:47 |   INFO   ] Saving thermo in `VP/thermo.csv` every 1 steps
+[ 2025-11-23 09:25:47 |   INFO   ] Saving chemical state in `VP/states` folder every 1 steps
+[ 2025-11-23 09:25:47 |   INFO   ] 
+[ 2025-11-23 09:25:47 |  DEBUG   ] Dictionary successfully saved to full_simulation_settings.yaml.
+[ 2025-11-23 09:25:47 | WARNING  ] Last state found, no more states to compute.
+[ 2025-11-23 09:25:47 |   INFO   ] Computing Convex Hull
+[ 2025-11-23 09:25:47 |  DEBUG   ] Full state: F8K8O32P8V8 with # ions: 8, empty state: F8O32P8V8 with # ions: 0, working ion: K with energy -773.877
+[ 2025-11-23 09:25:47 |   INFO   ] Save file VP/hull.csv
+[ 2025-11-23 09:25:47 |   INFO   ] Computing Voltage steps
+[ 2025-11-23 09:25:47 |  DEBUG   ] Full state: F8K8O32P8V8 with # ions: 8, empty state: F8O32P8V8 with # ions: 0, working ion: K with energy -773.877
+[ 2025-11-23 09:25:47 |  DEBUG   ] Stable points: x1 = 0.0, x2 = 0.125, delta_x = 0.125, e1 = 0.0, e2 = -0.09256749999985914, delta_e =  [-0.43217375], voltage = 3.457389999998213
+[ 2025-11-23 09:25:47 |  DEBUG   ] Stable points: x1 = 0.125, x2 = 0.25, delta_x = 0.125, e1 = -0.09256749999985914, e2 = -0.16551525000068068, delta_e =  [-0.412554], voltage = 3.3004320000059124
+[ 2025-11-23 09:25:47 |  DEBUG   ] Stable points: x1 = 0.25, x2 = 0.375, delta_x = 0.125, e1 = -0.16551525000068068, e2 = -0.21235900000010588, delta_e =  [-0.38645], voltage = 3.0915999999947417
+[ 2025-11-23 09:25:47 |  DEBUG   ] Stable points: x1 = 0.375, x2 = 0.5, delta_x = 0.125, e1 = -0.21235900000010588, e2 = -0.25179374999970605, delta_e =  [-0.379041], voltage = 3.0323279999961414
+[ 2025-11-23 09:25:47 |  DEBUG   ] Stable points: x1 = 0.5, x2 = 0.625, delta_x = 0.125, e1 = -0.25179374999970605, e2 = -0.2205015875006211, delta_e =  [-0.30831409], voltage = 2.4665127000066605
+[ 2025-11-23 09:25:47 |  DEBUG   ] Stable points: x1 = 0.625, x2 = 0.75, delta_x = 0.125, e1 = -0.2205015875006211, e2 = -0.17928949999986799, delta_e =  [-0.29839416], voltage = 2.387153299993315
+[ 2025-11-23 09:25:47 |  DEBUG   ] Stable points: x1 = 0.75, x2 = 0.875, delta_x = 0.125, e1 = -0.17928949999986799, e2 = -0.09927499999957945, delta_e =  [-0.25959175], voltage = 2.076733999997032
+[ 2025-11-23 09:25:47 |  DEBUG   ] Stable points: x1 = 0.875, x2 = 1.0, delta_x = 0.125, e1 = -0.09927499999957945, e2 = 0.0, delta_e =  [-0.24033125], voltage = 1.9226500000027045
+[ 2025-11-23 09:25:47 |   INFO   ] Save file VP/voltage.csv

@@ -1,0 +1,58 @@
+continue: custom
+only_post_process: true
+calculation: vc-relax
+system: ./2x1x1-NaCoO2.cif
+input_dft: XC-000I-000I-000I-000I-497L-498L
+ecutwfc: 80
+ecutrho: 320
+etot_conv_thr: 0.0001
+forc_conv_thr: 0.001
+pseudopotentials:
+  Na: Na_ONCV_PBE-1.2.upf
+  Co: Co_ONCV_PBE-1.2.upf
+  O: O_ONCV_PBE-1.2.upf
+command: srun --cpu-bind=cores /leonardo/pub/userexternal/nalghamd/programs/q-e/bin/pw.x
+  -in pwscf.in
+pseudo_dir: /leonardo_scratch/large/userexternal/nalghamd/mc_mace/PP-r2scan
+electron_maxstep: 1000
+kpts:
+- 3
+- 5
+- 1
+koffset:
+- 0
+- 0
+- 0
+optimizer:
+  type: FIRE2
+  fmax: 0.05
+  max steps: 5000
+output files:
+  thermo: VP/thermo.csv
+  trajectory: VP/trj.xyz
+  convex hull: VP/hull.csv
+  voltage: VP/voltage.csv
+states folder: VP/states
+working ion:
+  charge carried: 1
+  chemical potential:
+    Na: -1161.234
+removal_method: semi_brute_force
+restart_mode: from_scratch
+verbosity: low
+outdir: ./tmp
+prefix: pwscf
+max_seconds: 82800
+nstep: 1000
+tstress: true
+tprnfor: true
+occupations: smearing
+degauss: 0.01
+smearing: cold
+conv_thr: 1.0e-08
+mixing_mode: plain
+mixing_beta: 0.7
+diagonalization: david
+startingwfc: atomic
+QE_dir: QE
+id_single_step: null

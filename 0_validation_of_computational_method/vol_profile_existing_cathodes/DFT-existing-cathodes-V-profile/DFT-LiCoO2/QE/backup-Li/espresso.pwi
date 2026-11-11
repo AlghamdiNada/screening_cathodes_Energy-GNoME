@@ -1,0 +1,56 @@
+&CONTROL
+   calculation      = 'vc-relax'
+   verbosity        = 'low'
+   restart_mode     = 'from_scratch'
+   nstep            = 5000
+   tstress          = .true.
+   tprnfor          = .true.
+   outdir           = './tmp'
+   prefix           = 'pwscf'
+   max_seconds      = 82800
+   etot_conv_thr    = 0.0001
+   forc_conv_thr    = 0.001
+   pseudo_dir       = '/leonardo_scratch/large/userexternal/nalghamd/mc_mace/PP-r2scan'
+/
+&SYSTEM
+   ecutwfc          = 70
+   ecutrho          = 560
+   occupations      = 'smearing'
+   degauss          = 0.01
+   smearing         = 'cold'
+   input_dft        = 'XC-000I-000I-000I-000I-497L-498L'
+   ntyp             = 1
+   nat              = 2
+   ibrav            = 0
+/
+&ELECTRONS
+   electron_maxstep = 5000
+   conv_thr         = 1e-08
+   mixing_mode      = 'plain'
+   mixing_beta      = 0.7
+   diagonalization  = 'david'
+   startingwfc      = 'atomic'
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+Li 6.94 Li_ONCV_PBE-1.2.upf
+
+K_POINTS automatic
+14 14 2  0 0 0
+
+CELL_PARAMETERS angstrom
+3.11100000000000 0.00000000000000 0.00000000000000
+-1.55550000000000 2.69420503117339 0.00000000000000
+0.00000000000000 0.00000000000000 5.09300000000000
+
+ATOMIC_POSITIONS angstrom
+Li -0.0000155550 1.7961456681 1.2732500000  
+Li 1.5555000000 0.8980863051 3.8197500000  
+

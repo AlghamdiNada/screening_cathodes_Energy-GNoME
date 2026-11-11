@@ -1,0 +1,77 @@
+&CONTROL
+   calculation      = 'vc-relax'
+   verbosity        = 'low'
+   restart_mode     = 'from_scratch'
+   nstep            = 5000
+   tstress          = .true.
+   tprnfor          = .true.
+   outdir           = './tmp'
+   prefix           = 'pwscf'
+   max_seconds      = 82800
+   etot_conv_thr    = 0.0001
+   forc_conv_thr    = 0.001
+   pseudo_dir       = '/leonardo_scratch/large/userexternal/nalghamd/mc_mace/PP-r2scan'
+/
+&SYSTEM
+   ecutwfc          = 70
+   ecutrho          = 280
+   occupations      = 'smearing'
+   degauss          = 0.01
+   smearing         = 'cold'
+   input_dft        = 'XC-000I-000I-000I-000I-497L-498L'
+   ntyp             = 3
+   nat              = 21
+   ibrav            = 0
+/
+&ELECTRONS
+   electron_maxstep = 1000
+   conv_thr         = 1e-08
+   mixing_mode      = 'plain'
+   mixing_beta      = 0.7
+   diagonalization  = 'david'
+   startingwfc      = 'atomic'
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+Li 6.94 Li_ONCV_PBE-1.2.upf
+Co 58.933194 Co_ONCV_PBE-1.2.upf
+O 15.999 O_ONCV_PBE-1.2.upf
+
+K_POINTS automatic
+8 8 2  0 0 0
+
+CELL_PARAMETERS angstrom
+5.68579654000000 0.00000000000000 0.00000000000000
+-1.42144913500000 2.46202212219483 0.00000000000000
+0.00000000000000 0.00000000000000 14.14561550000000
+
+ATOMIC_POSITIONS angstrom
+Li 0.0000000000 0.0000000000 0.0000000000  
+Li -0.0000000100 1.6413480900 9.4304103800  
+Co -0.0000000100 1.6413480900 2.3576026300  
+Co 0.0000000000 0.0000000000 7.0728077500  
+Co 1.4214491500 0.8206740300 11.7880128700  
+O 0.0000000000 0.0000000000 3.3891055800  
+O 1.4214491500 0.8206740300 1.3260995400  
+O 1.4214491500 0.8206740300 8.1043107000  
+O -0.0000000100 1.6413480900 6.0413048000  
+O -0.0000000100 1.6413480900 12.8195159600  
+O 0.0000000000 0.0000000000 10.7565099200  
+Li 2.8428982700 0.0000000000 0.0000000000  
+Co 2.8428982600 1.6413480900 2.3576026300  
+Co 2.8428982700 0.0000000000 7.0728077500  
+Co 4.2643474200 0.8206740300 11.7880128700  
+O 2.8428982700 0.0000000000 3.3891055800  
+O 4.2643474200 0.8206740300 1.3260995400  
+O 4.2643474200 0.8206740300 8.1043107000  
+O 2.8428982600 1.6413480900 6.0413048000  
+O 2.8428982600 1.6413480900 12.8195159600  
+O 2.8428982700 0.0000000000 10.7565099200  
+

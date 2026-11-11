@@ -1,0 +1,25 @@
+config,formula,n_atoms,energy_Ry,energy_eV,volume_A3,relax_finished,run_status,source_pwo,note
+0_Co6Na2O12,Co6Na2O12,20,-2179.92959938,-29659.452917,216.9845,True,complete,espresso.pwo,
+0_Co6Na3O12,Co6Na3O12,21,-2265.41171497,-30822.496340,217.4499,True,complete,espresso.pwo,
+0_Co6Na4O12,Co6Na4O12,22,-2351.00744910,-31987.085622,221.5715,True,complete,espresso.pwo,
+0_Co6Na5O12,Co6Na5O12,,,,,False,INCOMPLETE,espresso.pwo,no complete ionic step in output
+0_Co6NaO12,Co6NaO12,19,-2094.33798945,-28494.919748,191.9910,True,complete,espresso.pwo,
+0_Co6O12,Co6O12,18,-2008.70776328,-27329.861178,178.5331,True,complete,espresso.pwo,
+10_Co6NaO12,Co6NaO12,19,-2094.33268747,-28494.847611,205.2941,False,INCOMPLETE,espresso.pwo,relaxation not finished
+11_Co6Na2O12,Co6Na2O12,20,-2179.93083540,-29659.469734,217.1832,True,complete,espresso.pwo,
+11_Co6Na3O12,Co6Na3O12,21,-2265.41165892,-30822.495577,217.5369,True,complete,espresso.pwo,
+12_Co6Na3O12,Co6Na3O12,21,-2265.52670405,-30824.060846,220.1743,True,complete,espresso.pwo,
+12_Co6Na4O12,Co6Na4O12,22,-2351.00611993,-31987.067538,221.5200,True,complete,espresso.pwo,
+12_Co6Na5O12,Co6Na5O12,23,-2436.46580664,-33149.805800,221.6066,True,complete,espresso.pwo,
+13_Co6Na4O12,Co6Na4O12,22,-2351.00709124,-31987.080753,221.5383,True,complete,espresso.pwo,
+13_Co6Na5O12,Co6Na5O12,23,-2436.49153968,-33150.155916,221.9777,True,complete,espresso.pwo,
+14_Co6Na5O12,Co6Na5O12,23,-2436.49153967,-33150.155916,221.9776,True,complete,espresso.pwo,
+1_Co6Na2O12,Co6Na2O12,20,-2179.93084171,-29659.469820,216.8402,True,complete,espresso.pwo,
+1_Co6Na3O12,Co6Na3O12,21,-2265.50102375,-30823.711448,219.5254,True,complete,espresso.pwo,
+1_Co6Na4O12,Co6Na4O12,22,-2350.89785645,-31985.594538,218.2000,True,complete,espresso.pwo,
+1_Co6Na5O12,Co6Na5O12,23,-2436.49153967,-33150.155916,221.9777,True,complete,espresso.pwo,
+1_Co6NaO12,Co6NaO12,19,-2094.33799894,-28494.919877,191.9598,True,complete,espresso.pwo,
+2_Co6Na4O12,Co6Na4O12,22,-2350.97207185,-31986.604290,220.7831,True,complete,espresso.pwo,
+2_Co6Na5O12,Co6Na5O12,23,-2436.49153967,-33150.155916,221.9777,True,complete,espresso.pwo,
+Na,Na,2,-170.69825984,-2322.468121,60.6488,True,complete,espresso.pwo,
+[-1]_Co6Na6O12,Co6Na6O12,,,,,False,INCOMPLETE,espresso.pwo,no complete ionic step in output

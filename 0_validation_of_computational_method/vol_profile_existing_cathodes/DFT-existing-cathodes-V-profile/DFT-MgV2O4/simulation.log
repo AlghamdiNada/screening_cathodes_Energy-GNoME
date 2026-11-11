@@ -1,0 +1,178 @@
+                                      _\|/_
+                                      (o o)
+                              +----oOO-{_}-OOo-------------------------------------------+
+                              |                                                          |
+                              |                                                          |
+                              |                 ____        __  __  ____                 |
+                              |                |  _ \ _   _|  \/  |/ ___|                |
+                              |                | |_) | | | | |\/| | |                    |
+                              |                |  __/| |_| | |  | | |___                 |
+                              |                |_|    \__, |_|  |_|\____|                |
+                              |                       |___/                              |
+                              |                                                          |
+                              |                                                          |
+                              |                                                          |
+                              +----------------------------------------------------------+
+                                                          version: 1.0.0+30.g96537ca.dirty
+
+                              (c) 2024-2025, Paolo De Angelis, Nada Alghamdi              
+                              Distributed under the MIT License                           
+                              Author(s):                                                  
+                                  Paolo De Angelis (paolo.deangelis@polito.it)            
+                                  Nada Alghamdi (nada.alghamdi@polito.it)                 
+
+[ 2025-06-17 17:07:32 |  DEBUG   ] Successfully loaded YAML file: settings.yaml
+[ 2025-06-17 17:07:32 |  DEBUG   ] Detected SCF Espresso calculator.
+[ 2025-06-17 17:07:32 |  DEBUG   ] All required parameters are present.
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'removal_method' missing. Using default: semi_brute_force
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'restart_mode' missing. Using default: from_scratch
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'verbosity' missing. Using default: low
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'outdir' missing. Using default: ./tmp
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'prefix' missing. Using default: pwscf
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'max_seconds' missing. Using default: 82800
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'nstep' missing. Using default: 1000
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'tstress' missing. Using default: True
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'tprnfor' missing. Using default: True
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'occupations' missing. Using default: smearing
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'degauss' missing. Using default: 0.01
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'smearing' missing. Using default: cold
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'conv_thr' missing. Using default: 1e-08
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'mixing_mode' missing. Using default: plain
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'diagonalization' missing. Using default: david
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'startingwfc' missing. Using default: atomic
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'QE_dir' missing. Using default: QE
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'steps_id' missing. Using default: None
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'post_process' missing. Using default: False
+[ 2025-06-17 17:07:32 |  DEBUG   ] Optional parameter 'finish_interrupted_step' missing. Using default: False
+[ 2025-06-17 17:07:32 | WARNING  ] File VP/trj.xyz already exists
+[ 2025-06-17 17:07:32 | WARNING  ] Backup created: VP/trj.xyz.20250617_170732.bak
+[ 2025-06-17 17:07:32 |  DEBUG   ] New file created: VP/trj.xyz
+[ 2025-06-17 17:07:32 | WARNING  ] File VP/thermo.csv already exists
+[ 2025-06-17 17:07:32 | WARNING  ] Backup created: VP/thermo.csv.20250617_170732.bak
+[ 2025-06-17 17:07:33 |  DEBUG   ] New file created: VP/thermo.csv
+[ 2025-06-17 17:07:33 |  DEBUG   ] No `events` setting in input file
+[ 2025-06-17 17:07:33 | WARNING  ] File VP/voltage.csv already exists
+[ 2025-06-17 17:07:33 | WARNING  ] Backup created: VP/voltage.csv.20250617_170733.bak
+[ 2025-06-17 17:07:33 |  DEBUG   ] New file created: VP/voltage.csv
+[ 2025-06-17 17:07:33 | WARNING  ] File VP/hull.csv already exists
+[ 2025-06-17 17:07:33 | WARNING  ] Backup created: VP/hull.csv.20250617_170733.bak
+[ 2025-06-17 17:07:33 |  DEBUG   ] New file created: VP/hull.csv
+[ 2025-06-17 17:07:35 | WARNING  ] Folder VP/states already exist
+[ 2025-06-17 17:07:35 | WARNING  ] Backup created: VP/states_20250617_170735.bak
+[ 2025-06-17 17:07:37 |  DEBUG   ] New folder created: VP/states
+[ 2025-06-17 17:07:37 | WARNING  ] Folder QE already exist
+[ 2025-06-17 17:07:37 | WARNING  ] Backup created: QE_20250617_170737.bak
+[ 2025-06-17 17:07:37 |  DEBUG   ] New folder created: QE
+[ 2025-06-17 17:07:37 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-06-17 17:07:37 |   INFO   ] ================================================= 0-K Voltage Profile ==================================================
+[ 2025-06-17 17:07:37 |   INFO   ] 
+[ 2025-06-17 17:07:37 |   INFO   ]                                          Stating 0-K Voltage Profile simulation                                         
+[ 2025-06-17 17:07:37 |   INFO   ] Number of states = 9
+[ 2025-06-17 17:07:37 |   INFO   ] 
+[ 2025-06-17 17:07:37 |   INFO   ] Saving trajectory in `VP/trj.xyz` every 1 steps
+[ 2025-06-17 17:07:37 |   INFO   ] Saving thermo in `VP/thermo.csv` every 1 steps
+[ 2025-06-17 17:07:37 |   INFO   ] Saving chemical state in `VP/states` folder every 1 steps
+[ 2025-06-17 17:07:37 |   INFO   ] 
+[ 2025-06-17 17:07:37 |  DEBUG   ] Dictionary successfully saved to full_simulation_settings.yaml.
+[ 2025-06-17 17:07:37 |  DEBUG   ] Atoms done: [0]
+[ 2025-06-17 17:07:37 |   INFO   ] [     State 6/8     ] Removing 1 atom from system Mg3O32V16
+[ 2025-06-17 17:07:37 |   INFO   ] [     State 6/8     ] Optimizing Mg2O32V16 (position and cell) after removing atom id:(1,) from system Mg3O32V16
+[ 2025-06-17 17:07:37 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-06-17 17:07:37 |  DEBUG   ] Computing potential energy
+[ 2025-06-17 17:56:06 |  DEBUG   ] Optimizing system Mg2O32V16
+[ 2025-06-17 17:56:06 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-06-17 17:56:06 |   INFO   ] [     State 6/8     ] Energy -47891.379 eV -> -47891.379 eV
+[ 2025-06-17 17:56:06 |   INFO   ] [     State 6/8     ] Max Force 1.026e-01 eV/A -> 1.026e-01 eV/A
+[ 2025-06-17 17:56:06 |   INFO   ] [     State 6/8     ] Cell lengths [a, b, c] [11.921   5.9605  8.3793] A -> [11.921   5.9605  8.3793] A
+[ 2025-06-17 17:56:06 |   INFO   ] [     State 6/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-06-17 17:56:06 |   INFO   ] [     State 6/8     ] Cell volume 595.392 A^3 -> 595.392 A^3
+[ 2025-06-17 17:56:08 |   INFO   ] Saving state file VP/states/006-Mg2O32V16.xyz
+[ 2025-06-17 17:56:08 |  DEBUG   ] Updated state file: VP/states/006-Mg2O32V16.csv
+[ 2025-06-17 17:56:08 |   INFO   ] [     State 6/8     ] Optimizing Mg2O32V16 (position and cell) after removing atom id:(2,) from system Mg3O32V16
+[ 2025-06-17 17:56:08 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-06-17 17:56:08 |  DEBUG   ] Computing potential energy
+[ 2025-06-17 18:55:22 |  DEBUG   ] Optimizing system Mg2O32V16
+[ 2025-06-17 18:55:22 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-06-17 18:55:22 |   INFO   ] [     State 6/8     ] Energy -47891.485 eV -> -47891.485 eV
+[ 2025-06-17 18:55:22 |   INFO   ] [     State 6/8     ] Max Force 2.551e-02 eV/A -> 2.551e-02 eV/A
+[ 2025-06-17 18:55:22 |   INFO   ] [     State 6/8     ] Cell lengths [a, b, c] [11.921   5.9605  8.3793] A -> [11.921   5.9605  8.3793] A
+[ 2025-06-17 18:55:22 |   INFO   ] [     State 6/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-06-17 18:55:22 |   INFO   ] [     State 6/8     ] Cell volume 595.392 A^3 -> 595.392 A^3
+[ 2025-06-17 18:55:22 |   INFO   ] Saving state file VP/states/006-Mg2O32V16.xyz
+[ 2025-06-17 18:55:22 |  DEBUG   ] Updated state file: VP/states/006-Mg2O32V16.csv
+[ 2025-06-17 18:55:22 |  DEBUG   ] [     State 6/8     ] Minimal energy obtained by removing (2,) atom form Mg3O32V16
+[ 2025-06-17 18:55:22 |  DEBUG   ] Continuing volta profile from 006-Mg2O32V16.xyz
+[ 2025-06-17 18:55:22 |   INFO   ] Semi brute force method
+[ 2025-06-17 18:55:22 |   INFO   ] [     State 7/8     ] Removing 1 atom from system Mg2O32V16
+[ 2025-06-17 18:55:22 |   INFO   ] [     State 7/8     ] Optimizing MgO32V16 (position and cell) after removing atom id:(0,) from system Mg2O32V16
+[ 2025-06-17 18:55:22 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-06-17 18:55:22 |  DEBUG   ] Computing potential energy
+[ 2025-06-17 20:25:43 |  DEBUG   ] Optimizing system MgO32V16
+[ 2025-06-17 20:25:44 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-06-17 20:25:44 |   INFO   ] [     State 7/8     ] Energy -46407.613 eV -> -46407.613 eV
+[ 2025-06-17 20:25:44 |   INFO   ] [     State 7/8     ] Max Force 2.612e-02 eV/A -> 2.612e-02 eV/A
+[ 2025-06-17 20:25:44 |   INFO   ] [     State 7/8     ] Cell lengths [a, b, c] [11.921   5.9605  8.3793] A -> [11.921   5.9605  8.3793] A
+[ 2025-06-17 20:25:44 |   INFO   ] [     State 7/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-06-17 20:25:44 |   INFO   ] [     State 7/8     ] Cell volume 595.392 A^3 -> 595.392 A^3
+[ 2025-06-17 20:25:44 |   INFO   ] Saving state file VP/states/007-MgO32V16.xyz
+[ 2025-06-17 20:25:44 |  DEBUG   ] Updated state file: VP/states/007-MgO32V16.csv
+[ 2025-06-17 20:25:44 |   INFO   ] [     State 7/8     ] Optimizing MgO32V16 (position and cell) after removing atom id:(1,) from system Mg2O32V16
+[ 2025-06-17 20:25:44 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-06-17 20:25:44 |  DEBUG   ] Computing potential energy
+[ 2025-06-17 21:57:01 |  DEBUG   ] Optimizing system MgO32V16
+[ 2025-06-17 21:57:01 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-06-17 21:57:01 |   INFO   ] [     State 7/8     ] Energy -46407.605 eV -> -46407.605 eV
+[ 2025-06-17 21:57:01 |   INFO   ] [     State 7/8     ] Max Force 9.852e-02 eV/A -> 9.852e-02 eV/A
+[ 2025-06-17 21:57:01 |   INFO   ] [     State 7/8     ] Cell lengths [a, b, c] [11.921   5.9605  8.3793] A -> [11.921   5.9605  8.3793] A
+[ 2025-06-17 21:57:01 |   INFO   ] [     State 7/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-06-17 21:57:01 |   INFO   ] [     State 7/8     ] Cell volume 595.392 A^3 -> 595.392 A^3
+[ 2025-06-17 21:57:01 |   INFO   ] Saving state file VP/states/007-MgO32V16.xyz
+[ 2025-06-17 21:57:01 |  DEBUG   ] Updated state file: VP/states/007-MgO32V16.csv
+[ 2025-06-17 21:57:01 |  DEBUG   ] [     State 7/8     ] Minimal energy obtained by removing (0,) atom form Mg2O32V16
+[ 2025-06-17 21:57:02 |  DEBUG   ] Updated trajectory file: VP/trj.xyz
+[ 2025-06-17 21:57:02 |  DEBUG   ] Updated thermo file: VP/thermo.csv
+[ 2025-06-17 21:57:02 |   INFO   ] Semi brute force method
+[ 2025-06-17 21:57:02 |   INFO   ] [     State 8/8     ] Removing 1 atom from system MgO32V16
+[ 2025-06-17 21:57:02 |   INFO   ] [     State 8/8     ] Optimizing O32V16 (position and cell) after removing atom id:(0,) from system MgO32V16
+[ 2025-06-17 21:57:02 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-06-17 21:57:02 |  DEBUG   ] Computing potential energy
+[ 2025-06-17 22:40:15 |  DEBUG   ] Optimizing system O32V16
+[ 2025-06-17 22:40:15 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-06-17 22:40:15 |   INFO   ] [     State 8/8     ] Energy -44924.055 eV -> -44924.055 eV
+[ 2025-06-17 22:40:15 |   INFO   ] [     State 8/8     ] Max Force 9.848e-02 eV/A -> 9.848e-02 eV/A
+[ 2025-06-17 22:40:15 |   INFO   ] [     State 8/8     ] Cell lengths [a, b, c] [11.921   5.9605  8.3793] A -> [11.921   5.9605  8.3793] A
+[ 2025-06-17 22:40:15 |   INFO   ] [     State 8/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-06-17 22:40:15 |   INFO   ] [     State 8/8     ] Cell volume 595.392 A^3 -> 595.392 A^3
+[ 2025-06-17 22:40:15 |   INFO   ] Saving state file VP/states/008-O32V16.xyz
+[ 2025-06-17 22:40:15 |  DEBUG   ] Updated state file: VP/states/008-O32V16.csv
+[ 2025-06-17 22:40:15 |  DEBUG   ] [     State 8/8     ] Minimal energy obtained by removing (0,) atom form MgO32V16
+[ 2025-06-17 22:40:15 |  DEBUG   ] Updated trajectory file: VP/trj.xyz
+[ 2025-06-17 22:40:15 |  DEBUG   ] Updated thermo file: VP/thermo.csv
+[ 2025-06-17 22:40:15 |   INFO   ] Computing Convex Hull
+[ 2025-06-17 22:40:15 |   INFO   ] Save file VP/hull.csv
+[ 2025-06-17 22:40:15 |   INFO   ] Computing Voltage steps
+[ 2025-06-17 22:40:15 |   INFO   ] Save file VP/voltage.csv
+[ 2025-06-17 22:40:15 |   INFO   ] ========================================================= END ==========================================================
+[ 2025-06-17 22:40:15 |   INFO   ] 
+[ 2025-06-17 22:40:15 |   INFO   ] ================================================== PERFORMANCE REPORT ==================================================
+[ 2025-06-17 22:40:15 |   INFO   ] 
+[ 2025-06-17 22:40:15 |   INFO   ] -- Profiling Calculation -----------------------------------------------------------------------------------------------
+[ 2025-06-17 22:40:15 |   INFO   ] 
+[ 2025-06-17 22:40:15 |   INFO   ] Method                         | Tot. Time        Avg. Time (ms)   Min Time (ms)    Max Time (ms)    Calls      % Time    
+[ 2025-06-17 22:40:15 |   INFO   ] -------------------------------+----------------------------------------------------------------------------------------
+[ 2025-06-17 22:40:15 |   INFO   ] _get_potential_energy_new_state | 5.543 hr         3990760.249      2593226.198      5477078.102      5          100.00    
+[ 2025-06-17 22:40:15 |   INFO   ] compute_convexhull             | 0.205 s          204.575          204.575          204.575          1          0.00      
+[ 2025-06-17 22:40:15 |   INFO   ] _optimize_system               | 0.002 s          0.350            0.319            0.385            5          0.00      
+[ 2025-06-17 22:40:15 |   INFO   ] compute_voltage_profile        | 0.001 s          0.642            0.642            0.642            1          0.00      
+[ 2025-06-17 22:40:15 |   INFO   ] ------------------------------------------------------------------------------------------------------------------------
+[ 2025-06-17 22:40:15 |   INFO   ] 
+[ 2025-06-17 22:40:15 |   INFO   ] -- Profiling I/O -------------------------------------------------------------------------------------------------------
+[ 2025-06-17 22:40:15 |   INFO   ] 
+[ 2025-06-17 22:40:15 |   INFO   ] Method                         | Tot. Time        Avg. Time (ms)   Min Time (ms)    Max Time (ms)    Calls      % Time    
+[ 2025-06-17 22:40:15 |   INFO   ] -------------------------------+----------------------------------------------------------------------------------------
+[ 2025-06-17 22:40:15 |   INFO   ] save_state                     | 2.638 s          527.671          4.916            1917.588         5          83.07     
+[ 2025-06-17 22:40:15 |   INFO   ] save_trj                       | 0.493 s          246.593          1.218            491.967          2          15.53     
+[ 2025-06-17 22:40:15 |   INFO   ] write_convexhull               | 0.027 s          27.045           27.045           27.045           1          0.85      
+[ 2025-06-17 22:40:15 |   INFO   ] save_thermo                    | 0.015 s          7.296            0.998            13.594           2          0.46      
+[ 2025-06-17 22:40:15 |   INFO   ] write_voltage                  | 0.003 s          2.999            2.999            2.999            1          0.09      
+[ 2025-06-17 22:40:15 |   INFO   ] ------------------------------------------------------------------------------------------------------------------------

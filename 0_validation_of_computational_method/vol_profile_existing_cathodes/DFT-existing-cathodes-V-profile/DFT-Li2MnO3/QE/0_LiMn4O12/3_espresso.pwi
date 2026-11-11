@@ -1,0 +1,72 @@
+&CONTROL
+   calculation      = 'vc-relax'
+   verbosity        = 'low'
+   restart_mode     = 'from_scratch'
+   nstep            = 1000
+   tstress          = .true.
+   tprnfor          = .true.
+   outdir           = './tmp'
+   prefix           = 'pwscf'
+   max_seconds      = 82800
+   etot_conv_thr    = 0.0001
+   forc_conv_thr    = 0.001
+   pseudo_dir       = '/leonardo_scratch/large/userexternal/nalghamd/mc_mace/PP-r2scan'
+/
+&SYSTEM
+   ecutwfc          = 85
+   ecutrho          = 340
+   occupations      = 'smearing'
+   degauss          = 0.01
+   smearing         = 'cold'
+   input_dft        = 'XC-000I-000I-000I-000I-497L-498L'
+   ntyp             = 3
+   nat              = 17
+   ibrav            = 0
+/
+&ELECTRONS
+   electron_maxstep = 1000
+   conv_thr         = 1e-08
+   mixing_mode      = 'plain'
+   mixing_beta      = 0.3
+   diagonalization  = 'david'
+   startingwfc      = 'atomic'
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+Li 6.94 Li_ONCV_PBE-1.2.upf
+Mn 54.938044 Mn_ONCV_PBE-1.2.upf
+O 15.999 O_ONCV_PBE-1.2.upf
+
+K_POINTS automatic
+7 3 7  0 0 0
+
+CELL_PARAMETERS (angstrom)
+   4.619339244   0.000000000   0.295060457
+   0.000000000   8.980012699   0.000000000
+  -1.273186156   0.000000000   4.624758831
+
+ATOMIC_POSITIONS (angstrom)
+Li               1.6730765450        7.8858548437        2.4599096461
+Mn               2.3096696268        3.0826690815        0.1475302288
+Mn               2.3096696268        5.8224910601        0.1475302288
+Mn               0.0000000000        7.5855358547        0.0000000000
+Mn               0.0000000000        1.3917821477        0.0000000000
+O                2.7389714553       -0.0372047439        3.9683971670
+O                0.6071816348       -0.0372047439        0.9514221251
+O                0.0364082193        1.8428795045        3.6523960143
+O                3.3097448707        1.8428795045        1.2674232778
+O                3.2878856965        7.1369260376        1.2692510724
+O                0.0582673935        7.1369260376        3.6505682196
+O                0.4161679707        4.4619276251        3.8578452395
+O                2.9299851101        4.4619276251        1.0619740519
+O                2.3491204215        6.3371921117        3.8002523410
+O                0.9970326685        6.3371921117        1.1195669511
+O                0.9934933631        2.5694363323        1.1106806080
+O                2.3526597269        2.5694363323        3.8091386840

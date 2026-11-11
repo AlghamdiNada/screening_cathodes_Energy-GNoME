@@ -1,0 +1,10 @@
+# Kept outside git (see README "Files not in git")
+archive/
+**/QE/**/*.out
+**/QE/**/*.err
+**/QE/**/CRASH
+# backups and OS/editor junk
+*.bak*
+.DS_Store
+._*
+*.swp

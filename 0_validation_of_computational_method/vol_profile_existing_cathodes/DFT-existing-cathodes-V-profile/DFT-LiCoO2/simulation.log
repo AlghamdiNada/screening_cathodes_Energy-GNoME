@@ -1,0 +1,90 @@
+                                      _\|/_
+                                      (o o)
+                              +----oOO-{_}-OOo-------------------------------------------+
+                              |                                                          |
+                              |                                                          |
+                              |                 ____        __  __  ____                 |
+                              |                |  _ \ _   _|  \/  |/ ___|                |
+                              |                | |_) | | | | |\/| | |                    |
+                              |                |  __/| |_| | |  | | |___                 |
+                              |                |_|    \__, |_|  |_|\____|                |
+                              |                       |___/                              |
+                              |                                                          |
+                              |                                                          |
+                              |                                                          |
+                              +----------------------------------------------------------+
+                                                          version: 1.0.0+22.gda8937b.dirty
+
+                              (c) 2024, Paolo De Angelis                                  
+                              Distributed under the MIT License                           
+                              Author(s):                                                  
+                                  Paolo De Angelis (paolo.deangelis@polito.it)            
+
+[ 2025-05-23 14:13:52 |  DEBUG   ] Successfully loaded YAML file: settings.yaml
+[ 2025-05-23 14:13:52 |  DEBUG   ] Detected SCF Espresso calculator.
+[ 2025-05-23 14:13:52 |  DEBUG   ] All required parameters are present.
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'removal_method' missing. Using default: semi_brute_force
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'restart_mode' missing. Using default: from_scratch
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'verbosity' missing. Using default: low
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'outdir' missing. Using default: ./tmp
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'prefix' missing. Using default: pwscf
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'max_seconds' missing. Using default: 82800
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'nstep' missing. Using default: 5000
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'tstress' missing. Using default: True
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'tprnfor' missing. Using default: True
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'occupations' missing. Using default: smearing
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'degauss' missing. Using default: 0.01
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'smearing' missing. Using default: cold
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'conv_thr' missing. Using default: 1e-08
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'mixing_mode' missing. Using default: plain
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'mixing_beta' missing. Using default: 0.7
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'diagonalization' missing. Using default: david
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'startingwfc' missing. Using default: atomic
+[ 2025-05-23 14:13:52 |  DEBUG   ] Optional parameter 'QE_dir' missing. Using default: QE
+[ 2025-05-23 14:13:52 | WARNING  ] File VP/trj.xyz already exists
+[ 2025-05-23 14:13:52 | WARNING  ] Backup created: VP/trj.xyz.20250523_141352.bak
+[ 2025-05-23 14:13:52 |  DEBUG   ] New file created: VP/trj.xyz
+[ 2025-05-23 14:13:52 | WARNING  ] File VP/thermo.csv already exists
+[ 2025-05-23 14:13:52 | WARNING  ] Backup created: VP/thermo.csv.20250523_141352.bak
+[ 2025-05-23 14:13:52 |  DEBUG   ] New file created: VP/thermo.csv
+[ 2025-05-23 14:13:52 |  DEBUG   ] No `events` setting in input file
+[ 2025-05-23 14:13:52 | WARNING  ] File VP/voltage.csv already exists
+[ 2025-05-23 14:13:52 | WARNING  ] Backup created: VP/voltage.csv.20250523_141352.bak
+[ 2025-05-23 14:13:53 |  DEBUG   ] New file created: VP/voltage.csv
+[ 2025-05-23 14:13:53 | WARNING  ] File VP/hull.csv already exists
+[ 2025-05-23 14:13:53 | WARNING  ] Backup created: VP/hull.csv.20250523_141353.bak
+[ 2025-05-23 14:13:53 |  DEBUG   ] New file created: VP/hull.csv
+[ 2025-05-23 14:13:53 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-05-23 14:13:53 |   INFO   ] ================================================= 0-K Voltage Profile ==================================================
+[ 2025-05-23 14:13:53 |   INFO   ] 
+[ 2025-05-23 14:13:53 |   INFO   ]                                          Stating 0-K Voltage Profile simulation                                         
+[ 2025-05-23 14:13:53 |   INFO   ] Number of states = 7
+[ 2025-05-23 14:13:53 |   INFO   ] 
+[ 2025-05-23 14:13:53 |   INFO   ] Saving trajectory in `VP/trj.xyz` every 1 steps
+[ 2025-05-23 14:13:53 |   INFO   ] Saving thermo in `VP/thermo.csv` every 1 steps
+[ 2025-05-23 14:13:53 |   INFO   ] Saving chemical state in `VP/states` folder every 1 steps
+[ 2025-05-23 14:13:53 |   INFO   ] 
+[ 2025-05-23 14:13:53 |  DEBUG   ] Dictionary successfully saved to full_simulation_settings.yaml.
+[ 2025-05-23 14:13:53 |   INFO   ] Computing Convex Hull
+[ 2025-05-23 14:13:53 |   INFO   ] Save file VP/hull.csv
+[ 2025-05-23 14:13:53 |   INFO   ] Computing Voltage steps
+[ 2025-05-23 14:13:53 |   INFO   ] Save file VP/voltage.csv
+[ 2025-05-23 14:13:53 |   INFO   ] ========================================================= END ==========================================================
+[ 2025-05-23 14:13:53 |   INFO   ] 
+[ 2025-05-23 14:13:53 |   INFO   ] ================================================== PERFORMANCE REPORT ==================================================
+[ 2025-05-23 14:13:53 |   INFO   ] 
+[ 2025-05-23 14:13:53 |   INFO   ] -- Profiling Calculation -----------------------------------------------------------------------------------------------
+[ 2025-05-23 14:13:53 |   INFO   ] 
+[ 2025-05-23 14:13:53 |   INFO   ] Method                         | Tot. Time        Avg. Time (ms)   Min Time (ms)    Max Time (ms)    Calls      % Time    
+[ 2025-05-23 14:13:53 |   INFO   ] -------------------------------+----------------------------------------------------------------------------------------
+[ 2025-05-23 14:13:53 |   INFO   ] compute_convexhull             | 0.179 s          178.841          178.841          178.841          1          99.95     
+[ 2025-05-23 14:13:53 |   INFO   ] compute_voltage_profile        | 0.000 s          0.098            0.098            0.098            1          0.05      
+[ 2025-05-23 14:13:53 |   INFO   ] ------------------------------------------------------------------------------------------------------------------------
+[ 2025-05-23 14:13:53 |   INFO   ] 
+[ 2025-05-23 14:13:53 |   INFO   ] -- Profiling I/O -------------------------------------------------------------------------------------------------------
+[ 2025-05-23 14:13:53 |   INFO   ] 
+[ 2025-05-23 14:13:53 |   INFO   ] Method                         | Tot. Time        Avg. Time (ms)   Min Time (ms)    Max Time (ms)    Calls      % Time    
+[ 2025-05-23 14:13:53 |   INFO   ] -------------------------------+----------------------------------------------------------------------------------------
+[ 2025-05-23 14:13:53 |   INFO   ] write_convexhull               | 0.001 s          0.994            0.994            0.994            1          54.65     
+[ 2025-05-23 14:13:53 |   INFO   ] write_voltage                  | 0.001 s          0.825            0.825            0.825            1          45.35     
+[ 2025-05-23 14:13:53 |   INFO   ] ------------------------------------------------------------------------------------------------------------------------
