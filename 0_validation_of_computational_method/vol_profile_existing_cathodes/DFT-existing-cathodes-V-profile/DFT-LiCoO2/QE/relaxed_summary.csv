@@ -1,0 +1,26 @@
+config,formula,n_atoms,energy_Ry,energy_eV,volume_A3,relax_finished,run_status,source_pwo,note
+-1_Co27Li27O54,Co27Li27O54,,,,,False,INCOMPLETE,espresso.pwo,no complete ionic step in output
+-1_Co6Li6O12,Co6Li6O12,24,-2096.07115492,-28518.500666,187.2862,True,complete,espresso.pwo,
+0_Co6Li2O12,Co6Li2O12,20,-2037.90628079,-27727.127244,184.6068,True,complete,espresso.pwo,
+0_Co6Li3O12,Co6Li3O12,21,-2052.50239603,-27925.717507,186.0794,True,complete,espresso.pwo,
+0_Co6Li4O12,Co6Li4O12,22,-2067.05489453,-28123.714334,186.5871,True,complete,espresso.pwo,
+0_Co6Li5O12,Co6Li5O12,23,-2081.55230302,-28320.961624,186.6661,True,complete,espresso.pwo,
+0_Co6LiO12,Co6LiO12,19,-2023.30410113,-27528.454470,180.2011,True,complete,espresso.pwo,
+0_Co6O12,Co6O12,18,-2008.68696521,-27329.578206,171.4079,True,complete,espresso.pwo,
+12_Co6Li3O12,Co6Li3O12,21,-2052.50239618,-27925.717509,186.0792,True,complete,espresso.pwo,
+12_Co6Li4O12,Co6Li4O12,22,-2067.05077021,-28123.658220,186.5198,True,complete,espresso.pwo,
+12_Co6Li5O12,Co6Li5O12,23,-2081.55230299,-28320.961623,186.6662,True,complete,espresso.pwo,
+13_Co6Li4O12,Co6Li4O12,22,-2067.05440759,-28123.707709,186.5886,True,complete,espresso.pwo,
+13_Co6Li5O12,Co6Li5O12,23,-2081.60180801,-28321.635173,187.1920,True,complete,espresso.pwo,
+14_Co6Li5O12,Co6Li5O12,23,-2081.60180800,-28321.635173,187.1920,True,complete,espresso.pwo,
+1_Co6Li2O12,Co6Li2O12,20,-2037.90628090,-27727.127246,184.6067,True,complete,espresso.pwo,
+1_Co6Li3O12,Co6Li3O12,21,-2052.46086626,-27925.152466,185.0978,True,complete,espresso.pwo,
+1_Co6Li4O12,Co6Li4O12,22,-2067.01382797,-28123.155595,185.8255,True,complete,espresso.pwo,
+1_Co6Li5O12,Co6Li5O12,23,-2081.60180707,-28321.635161,187.1919,True,complete,espresso.pwo,
+1_Co6LiO12,Co6LiO12,19,-2023.27522745,-27528.061624,179.3475,True,complete,espresso.pwo,
+2_Co6Li2O12,Co6Li2O12,20,-2037.90499872,-27727.109801,183.3095,True,complete,espresso.pwo,
+2_Co6Li3O12,Co6Li3O12,21,-2052.46086624,-27925.152466,185.0978,True,complete,espresso.pwo,
+2_Co6Li4O12,Co6Li4O12,22,-2066.97319224,-28122.602718,185.6557,True,complete,espresso.pwo,
+2_Co6Li5O12,Co6Li5O12,23,-2081.60180627,-28321.635150,187.1919,True,complete,espresso.pwo,
+Li,Li,2,-28.53006204,-388.171266,47.3303,False,complete,espresso.pwo,relaxation not finished
+backup-Li,backup-Li,2,-28.56792223,-388.686380,42.9034,False,complete,espresso.pwo,relaxation not finished

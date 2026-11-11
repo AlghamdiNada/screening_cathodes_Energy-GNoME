@@ -1,0 +1,4 @@
+2
+Lattice="2.795349934 -0.0 -0.0 -1.397674967 2.420844056 0.0 0.0 0.0 6.914304793" Properties=species:S:1:pos:R:3 energy_eV=-2963.605618014282 energy_Ry=-217.82099709 converged=T source=espresso.pwo config=Mg pbc="T T T"
+Mg       1.39767498       0.80694801       5.18572859
+Mg      -0.00000001       1.61389605       1.72857620

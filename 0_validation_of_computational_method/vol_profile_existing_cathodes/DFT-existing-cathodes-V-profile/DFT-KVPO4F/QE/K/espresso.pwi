@@ -1,0 +1,56 @@
+&CONTROL
+   calculation      = 'vc-relax'
+   verbosity        = 'low'
+   restart_mode     = 'from_scratch'
+   nstep            = 1000
+   tstress          = .true.
+   tprnfor          = .true.
+   outdir           = './tmp'
+   prefix           = 'pwscf'
+   max_seconds      = 82800
+   etot_conv_thr    = 0.0001
+   forc_conv_thr    = 0.001
+   pseudo_dir       = '/leonardo_work/INR24_CHIROC_0/Nada/project_1/PP-r2scan'
+/
+&SYSTEM
+   ecutwfc          = 90
+   ecutrho          = 360
+   occupations      = 'smearing'
+   degauss          = 0.01
+   smearing         = 'cold'
+   input_dft        = 'XC-000I-000I-000I-000I-497L-498L'
+   ntyp             = 1
+   nat              = 2
+   ibrav            = 0
+/
+&ELECTRONS
+   electron_maxstep = 1000
+   conv_thr         = 1e-08
+   mixing_mode      = 'plain'
+   mixing_beta      = 0.3
+   diagonalization  = 'david'
+   startingwfc      = 'atomic'
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+K 39.0983 K_ONCV_PBE-1.2.upf
+
+K_POINTS automatic
+2 4 2  0 0 0
+
+CELL_PARAMETERS angstrom
+5.39511703000000 0.00000000000000 0.00000000000000
+0.00000000000000 5.39511703000000 0.00000000000000
+0.00000000000000 0.00000000000000 5.39511703000000
+
+ATOMIC_POSITIONS angstrom
+K 0.0000000000 0.0000000000 0.0000000000  
+K 2.6975585150 2.6975585150 2.6975585150  
+
