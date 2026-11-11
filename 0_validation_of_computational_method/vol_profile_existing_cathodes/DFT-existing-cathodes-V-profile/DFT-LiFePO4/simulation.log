@@ -1,0 +1,336 @@
+                                      _\|/_
+                                      (o o)
+                              +----oOO-{_}-OOo-------------------------------------------+
+                              |                                                          |
+                              |                                                          |
+                              |                 ____        __  __  ____                 |
+                              |                |  _ \ _   _|  \/  |/ ___|                |
+                              |                | |_) | | | | |\/| | |                    |
+                              |                |  __/| |_| | |  | | |___                 |
+                              |                |_|    \__, |_|  |_|\____|                |
+                              |                       |___/                              |
+                              |                                                          |
+                              |                                                          |
+                              |                                                          |
+                              +----------------------------------------------------------+
+                                                          version: 1.0.0+30.g96537ca.dirty
+
+                              (c) 2024-2025, Paolo De Angelis, Nada Alghamdi              
+                              Distributed under the MIT License                           
+                              Author(s):                                                  
+                                  Paolo De Angelis (paolo.deangelis@polito.it)            
+                                  Nada Alghamdi (nada.alghamdi@polito.it)                 
+
+[ 2025-07-02 14:16:19 |  DEBUG   ] Successfully loaded YAML file: settings.yaml
+[ 2025-07-02 14:16:19 |  DEBUG   ] Detected SCF Espresso calculator.
+[ 2025-07-02 14:16:19 |  DEBUG   ] All required parameters are present.
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'removal_method' missing. Using default: semi_brute_force
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'restart_mode' missing. Using default: from_scratch
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'verbosity' missing. Using default: low
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'outdir' missing. Using default: ./tmp
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'prefix' missing. Using default: pwscf
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'max_seconds' missing. Using default: 82800
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'nstep' missing. Using default: 1000
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'tstress' missing. Using default: True
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'tprnfor' missing. Using default: True
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'occupations' missing. Using default: smearing
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'degauss' missing. Using default: 0.01
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'smearing' missing. Using default: cold
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'conv_thr' missing. Using default: 1e-08
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'mixing_mode' missing. Using default: plain
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'startingwfc' missing. Using default: atomic
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'QE_dir' missing. Using default: QE
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'steps_id' missing. Using default: None
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'post_process' missing. Using default: False
+[ 2025-07-02 14:16:19 |  DEBUG   ] Optional parameter 'finish_interrupted_step' missing. Using default: False
+[ 2025-07-02 14:16:20 | WARNING  ] File VP/trj.xyz already exists
+[ 2025-07-02 14:16:20 | WARNING  ] Backup created: VP/trj.xyz.20250702_141620.bak
+[ 2025-07-02 14:16:20 |  DEBUG   ] New file created: VP/trj.xyz
+[ 2025-07-02 14:16:20 | WARNING  ] File VP/thermo.csv already exists
+[ 2025-07-02 14:16:20 | WARNING  ] Backup created: VP/thermo.csv.20250702_141620.bak
+[ 2025-07-02 14:16:20 |  DEBUG   ] New file created: VP/thermo.csv
+[ 2025-07-02 14:16:20 |  DEBUG   ] No `events` setting in input file
+[ 2025-07-02 14:16:20 | WARNING  ] File VP/voltage.csv already exists
+[ 2025-07-02 14:16:20 | WARNING  ] Backup created: VP/voltage.csv.20250702_141620.bak
+[ 2025-07-02 14:16:20 |  DEBUG   ] New file created: VP/voltage.csv
+[ 2025-07-02 14:16:20 | WARNING  ] File VP/hull.csv already exists
+[ 2025-07-02 14:16:20 | WARNING  ] Backup created: VP/hull.csv.20250702_141620.bak
+[ 2025-07-02 14:16:20 |  DEBUG   ] New file created: VP/hull.csv
+[ 2025-07-02 14:16:20 | WARNING  ] Folder VP/states already exist
+[ 2025-07-02 14:16:20 | WARNING  ] Backup created: VP/states_20250702_141620.bak
+[ 2025-07-02 14:16:20 |  DEBUG   ] New folder created: VP/states
+[ 2025-07-02 14:16:20 | WARNING  ] Folder QE already exist
+[ 2025-07-02 14:16:20 | WARNING  ] Backup created: QE_20250702_141620.bak
+[ 2025-07-02 14:16:20 |  DEBUG   ] New folder created: QE
+[ 2025-07-02 14:16:20 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 14:16:20 |   INFO   ] ================================================= 0-K Voltage Profile ==================================================
+[ 2025-07-02 14:16:20 |   INFO   ] 
+[ 2025-07-02 14:16:20 |   INFO   ]                                          Stating 0-K Voltage Profile simulation                                         
+[ 2025-07-02 14:16:20 |   INFO   ] Number of states = 9
+[ 2025-07-02 14:16:20 |   INFO   ] 
+[ 2025-07-02 14:16:20 |   INFO   ] Saving trajectory in `VP/trj.xyz` every 1 steps
+[ 2025-07-02 14:16:20 |   INFO   ] Saving thermo in `VP/thermo.csv` every 1 steps
+[ 2025-07-02 14:16:20 |   INFO   ] Saving chemical state in `VP/states` folder every 1 steps
+[ 2025-07-02 14:16:20 |   INFO   ] 
+[ 2025-07-02 14:16:20 |  DEBUG   ] Dictionary successfully saved to full_simulation_settings.yaml.
+[ 2025-07-02 14:16:20 |  DEBUG   ] Atoms done: [0 1 2 3]
+[ 2025-07-02 14:16:20 |   INFO   ] [     State 3/8     ] Removing 1 atom from system Fe8Li6O32P8
+[ 2025-07-02 14:16:20 |   INFO   ] [     State 3/8     ] Optimizing Fe8Li5O32P8 (position and cell) after removing atom id:(28,) from system Fe8Li6O32P8
+[ 2025-07-02 14:16:20 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 14:16:20 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 15:04:31 |  DEBUG   ] Optimizing system Fe8Li5O32P8
+[ 2025-07-02 15:04:31 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 15:04:31 |   INFO   ] [     State 3/8     ] Energy -42112.587 eV -> -42112.587 eV
+[ 2025-07-02 15:04:31 |   INFO   ] [     State 3/8     ] Max Force 1.864e-01 eV/A -> 1.864e-01 eV/A
+[ 2025-07-02 15:04:31 |   INFO   ] [     State 3/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 15:04:31 |   INFO   ] [     State 3/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 15:04:31 |   INFO   ] [     State 3/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 15:04:31 |   INFO   ] Saving state file VP/states/003-Fe8Li5O32P8.xyz
+[ 2025-07-02 15:04:31 |  DEBUG   ] Updated state file: VP/states/003-Fe8Li5O32P8.csv
+[ 2025-07-02 15:04:31 |   INFO   ] [     State 3/8     ] Optimizing Fe8Li5O32P8 (position and cell) after removing atom id:(29,) from system Fe8Li6O32P8
+[ 2025-07-02 15:04:31 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 15:04:31 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 15:52:11 |  DEBUG   ] Optimizing system Fe8Li5O32P8
+[ 2025-07-02 15:52:11 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 15:52:11 |   INFO   ] [     State 3/8     ] Energy -42112.587 eV -> -42112.587 eV
+[ 2025-07-02 15:52:11 |   INFO   ] [     State 3/8     ] Max Force 1.864e-01 eV/A -> 1.864e-01 eV/A
+[ 2025-07-02 15:52:11 |   INFO   ] [     State 3/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 15:52:11 |   INFO   ] [     State 3/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 15:52:11 |   INFO   ] [     State 3/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 15:52:11 |   INFO   ] Saving state file VP/states/003-Fe8Li5O32P8.xyz
+[ 2025-07-02 15:52:11 |  DEBUG   ] Updated state file: VP/states/003-Fe8Li5O32P8.csv
+[ 2025-07-02 15:52:11 |  DEBUG   ] [     State 3/8     ] Minimal energy obtained by removing (29,) atom form Fe8Li6O32P8
+[ 2025-07-02 15:52:11 |  DEBUG   ] Continuing volta profile from 003-Fe8Li5O32P8.xyz
+[ 2025-07-02 15:52:11 |   INFO   ] Semi brute force method
+[ 2025-07-02 15:52:11 |   INFO   ] [     State 4/8     ] Removing 1 atom from system Fe8Li5O32P8
+[ 2025-07-02 15:52:11 |   INFO   ] [     State 4/8     ] Optimizing Fe8Li4O32P8 (position and cell) after removing atom id:(0,) from system Fe8Li5O32P8
+[ 2025-07-02 15:52:11 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 15:52:11 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 16:34:30 |  DEBUG   ] Optimizing system Fe8Li4O32P8
+[ 2025-07-02 16:34:30 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 16:34:30 |   INFO   ] [     State 4/8     ] Energy -41915.351 eV -> -41915.351 eV
+[ 2025-07-02 16:34:30 |   INFO   ] [     State 4/8     ] Max Force 1.555e-01 eV/A -> 1.555e-01 eV/A
+[ 2025-07-02 16:34:30 |   INFO   ] [     State 4/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 16:34:30 |   INFO   ] [     State 4/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 16:34:30 |   INFO   ] [     State 4/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 16:34:30 |   INFO   ] Saving state file VP/states/004-Fe8Li4O32P8.xyz
+[ 2025-07-02 16:34:30 |  DEBUG   ] Updated state file: VP/states/004-Fe8Li4O32P8.csv
+[ 2025-07-02 16:34:30 |   INFO   ] [     State 4/8     ] Optimizing Fe8Li4O32P8 (position and cell) after removing atom id:(1,) from system Fe8Li5O32P8
+[ 2025-07-02 16:34:30 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 16:34:30 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 17:03:05 |  DEBUG   ] Optimizing system Fe8Li4O32P8
+[ 2025-07-02 17:03:05 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 17:03:05 |   INFO   ] [     State 4/8     ] Energy -41915.394 eV -> -41915.394 eV
+[ 2025-07-02 17:03:05 |   INFO   ] [     State 4/8     ] Max Force 1.803e-01 eV/A -> 1.803e-01 eV/A
+[ 2025-07-02 17:03:05 |   INFO   ] [     State 4/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 17:03:05 |   INFO   ] [     State 4/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 17:03:05 |   INFO   ] [     State 4/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 17:03:05 |   INFO   ] Saving state file VP/states/004-Fe8Li4O32P8.xyz
+[ 2025-07-02 17:03:05 |  DEBUG   ] Updated state file: VP/states/004-Fe8Li4O32P8.csv
+[ 2025-07-02 17:03:05 |   INFO   ] [     State 4/8     ] Optimizing Fe8Li4O32P8 (position and cell) after removing atom id:(2,) from system Fe8Li5O32P8
+[ 2025-07-02 17:03:05 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 17:03:05 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 17:31:52 |  DEBUG   ] Optimizing system Fe8Li4O32P8
+[ 2025-07-02 17:31:52 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 17:31:52 |   INFO   ] [     State 4/8     ] Energy -41914.792 eV -> -41914.792 eV
+[ 2025-07-02 17:31:52 |   INFO   ] [     State 4/8     ] Max Force 1.761e-01 eV/A -> 1.761e-01 eV/A
+[ 2025-07-02 17:31:52 |   INFO   ] [     State 4/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 17:31:52 |   INFO   ] [     State 4/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 17:31:52 |   INFO   ] [     State 4/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 17:31:52 |   INFO   ] Saving state file VP/states/004-Fe8Li4O32P8.xyz
+[ 2025-07-02 17:31:52 |  DEBUG   ] Updated state file: VP/states/004-Fe8Li4O32P8.csv
+[ 2025-07-02 17:31:52 |   INFO   ] [     State 4/8     ] Optimizing Fe8Li4O32P8 (position and cell) after removing atom id:(3,) from system Fe8Li5O32P8
+[ 2025-07-02 17:31:52 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 17:31:52 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 18:21:01 |  DEBUG   ] Optimizing system Fe8Li4O32P8
+[ 2025-07-02 18:21:01 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 18:21:01 |   INFO   ] [     State 4/8     ] Energy -41915.347 eV -> -41915.347 eV
+[ 2025-07-02 18:21:01 |   INFO   ] [     State 4/8     ] Max Force 1.569e-01 eV/A -> 1.569e-01 eV/A
+[ 2025-07-02 18:21:01 |   INFO   ] [     State 4/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 18:21:01 |   INFO   ] [     State 4/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 18:21:01 |   INFO   ] [     State 4/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 18:21:01 |   INFO   ] Saving state file VP/states/004-Fe8Li4O32P8.xyz
+[ 2025-07-02 18:21:01 |  DEBUG   ] Updated state file: VP/states/004-Fe8Li4O32P8.csv
+[ 2025-07-02 18:21:01 |   INFO   ] [     State 4/8     ] Optimizing Fe8Li4O32P8 (position and cell) after removing atom id:(28,) from system Fe8Li5O32P8
+[ 2025-07-02 18:21:01 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 18:21:01 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 18:47:03 |  DEBUG   ] Optimizing system Fe8Li4O32P8
+[ 2025-07-02 18:47:03 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 18:47:03 |   INFO   ] [     State 4/8     ] Energy -41914.992 eV -> -41914.992 eV
+[ 2025-07-02 18:47:03 |   INFO   ] [     State 4/8     ] Max Force 1.687e-01 eV/A -> 1.687e-01 eV/A
+[ 2025-07-02 18:47:03 |   INFO   ] [     State 4/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 18:47:03 |   INFO   ] [     State 4/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 18:47:03 |   INFO   ] [     State 4/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 18:47:03 |   INFO   ] Saving state file VP/states/004-Fe8Li4O32P8.xyz
+[ 2025-07-02 18:47:03 |  DEBUG   ] Updated state file: VP/states/004-Fe8Li4O32P8.csv
+[ 2025-07-02 18:47:03 |  DEBUG   ] [     State 4/8     ] Minimal energy obtained by removing (1,) atom form Fe8Li5O32P8
+[ 2025-07-02 18:47:03 |  DEBUG   ] Updated trajectory file: VP/trj.xyz
+[ 2025-07-02 18:47:03 |  DEBUG   ] Updated thermo file: VP/thermo.csv
+[ 2025-07-02 18:47:03 |   INFO   ] Semi brute force method
+[ 2025-07-02 18:47:03 |   INFO   ] [     State 5/8     ] Removing 1 atom from system Fe8Li4O32P8
+[ 2025-07-02 18:47:03 |   INFO   ] [     State 5/8     ] Optimizing Fe8Li3O32P8 (position and cell) after removing atom id:(0,) from system Fe8Li4O32P8
+[ 2025-07-02 18:47:03 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 18:47:03 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 19:43:21 |  DEBUG   ] Optimizing system Fe8Li3O32P8
+[ 2025-07-02 19:43:21 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 19:43:21 |   INFO   ] [     State 5/8     ] Energy -41718.051 eV -> -41718.051 eV
+[ 2025-07-02 19:43:21 |   INFO   ] [     State 5/8     ] Max Force 1.372e-01 eV/A -> 1.372e-01 eV/A
+[ 2025-07-02 19:43:21 |   INFO   ] [     State 5/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 19:43:21 |   INFO   ] [     State 5/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 19:43:21 |   INFO   ] [     State 5/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 19:43:21 |   INFO   ] Saving state file VP/states/005-Fe8Li3O32P8.xyz
+[ 2025-07-02 19:43:21 |  DEBUG   ] Updated state file: VP/states/005-Fe8Li3O32P8.csv
+[ 2025-07-02 19:43:21 |   INFO   ] [     State 5/8     ] Optimizing Fe8Li3O32P8 (position and cell) after removing atom id:(1,) from system Fe8Li4O32P8
+[ 2025-07-02 19:43:21 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 19:43:21 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 20:32:15 |  DEBUG   ] Optimizing system Fe8Li3O32P8
+[ 2025-07-02 20:32:15 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 20:32:15 |   INFO   ] [     State 5/8     ] Energy -41717.650 eV -> -41717.650 eV
+[ 2025-07-02 20:32:15 |   INFO   ] [     State 5/8     ] Max Force 1.428e-01 eV/A -> 1.428e-01 eV/A
+[ 2025-07-02 20:32:15 |   INFO   ] [     State 5/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 20:32:15 |   INFO   ] [     State 5/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 20:32:15 |   INFO   ] [     State 5/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 20:32:15 |   INFO   ] Saving state file VP/states/005-Fe8Li3O32P8.xyz
+[ 2025-07-02 20:32:15 |  DEBUG   ] Updated state file: VP/states/005-Fe8Li3O32P8.csv
+[ 2025-07-02 20:32:15 |   INFO   ] [     State 5/8     ] Optimizing Fe8Li3O32P8 (position and cell) after removing atom id:(2,) from system Fe8Li4O32P8
+[ 2025-07-02 20:32:15 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 20:32:15 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 21:30:25 |  DEBUG   ] Optimizing system Fe8Li3O32P8
+[ 2025-07-02 21:30:25 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 21:30:25 |   INFO   ] [     State 5/8     ] Energy -41718.051 eV -> -41718.051 eV
+[ 2025-07-02 21:30:25 |   INFO   ] [     State 5/8     ] Max Force 1.372e-01 eV/A -> 1.372e-01 eV/A
+[ 2025-07-02 21:30:25 |   INFO   ] [     State 5/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 21:30:25 |   INFO   ] [     State 5/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 21:30:25 |   INFO   ] [     State 5/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 21:30:25 |   INFO   ] Saving state file VP/states/005-Fe8Li3O32P8.xyz
+[ 2025-07-02 21:30:25 |  DEBUG   ] Updated state file: VP/states/005-Fe8Li3O32P8.csv
+[ 2025-07-02 21:30:25 |   INFO   ] [     State 5/8     ] Optimizing Fe8Li3O32P8 (position and cell) after removing atom id:(27,) from system Fe8Li4O32P8
+[ 2025-07-02 21:30:25 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 21:30:25 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 22:18:32 |  DEBUG   ] Optimizing system Fe8Li3O32P8
+[ 2025-07-02 22:18:32 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 22:18:32 |   INFO   ] [     State 5/8     ] Energy -41717.650 eV -> -41717.650 eV
+[ 2025-07-02 22:18:32 |   INFO   ] [     State 5/8     ] Max Force 1.428e-01 eV/A -> 1.428e-01 eV/A
+[ 2025-07-02 22:18:32 |   INFO   ] [     State 5/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 22:18:32 |   INFO   ] [     State 5/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 22:18:32 |   INFO   ] [     State 5/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 22:18:32 |   INFO   ] Saving state file VP/states/005-Fe8Li3O32P8.xyz
+[ 2025-07-02 22:18:32 |  DEBUG   ] Updated state file: VP/states/005-Fe8Li3O32P8.csv
+[ 2025-07-02 22:18:32 |  DEBUG   ] [     State 5/8     ] Minimal energy obtained by removing (2,) atom form Fe8Li4O32P8
+[ 2025-07-02 22:18:32 |  DEBUG   ] Updated trajectory file: VP/trj.xyz
+[ 2025-07-02 22:18:32 |  DEBUG   ] Updated thermo file: VP/thermo.csv
+[ 2025-07-02 22:18:32 |   INFO   ] Semi brute force method
+[ 2025-07-02 22:18:32 |   INFO   ] [     State 6/8     ] Removing 1 atom from system Fe8Li3O32P8
+[ 2025-07-02 22:18:32 |   INFO   ] [     State 6/8     ] Optimizing Fe8Li2O32P8 (position and cell) after removing atom id:(0,) from system Fe8Li3O32P8
+[ 2025-07-02 22:18:32 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 22:18:32 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 22:41:18 |  DEBUG   ] Optimizing system Fe8Li2O32P8
+[ 2025-07-02 22:41:18 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 22:41:18 |   INFO   ] [     State 6/8     ] Energy -41519.602 eV -> -41519.602 eV
+[ 2025-07-02 22:41:18 |   INFO   ] [     State 6/8     ] Max Force 1.114e-01 eV/A -> 1.114e-01 eV/A
+[ 2025-07-02 22:41:18 |   INFO   ] [     State 6/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 22:41:18 |   INFO   ] [     State 6/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 22:41:18 |   INFO   ] [     State 6/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 22:41:18 |   INFO   ] Saving state file VP/states/006-Fe8Li2O32P8.xyz
+[ 2025-07-02 22:41:18 |  DEBUG   ] Updated state file: VP/states/006-Fe8Li2O32P8.csv
+[ 2025-07-02 22:41:18 |   INFO   ] [     State 6/8     ] Optimizing Fe8Li2O32P8 (position and cell) after removing atom id:(1,) from system Fe8Li3O32P8
+[ 2025-07-02 22:41:18 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 22:41:18 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 23:22:00 |  DEBUG   ] Optimizing system Fe8Li2O32P8
+[ 2025-07-02 23:22:00 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 23:22:00 |   INFO   ] [     State 6/8     ] Energy -41520.219 eV -> -41520.219 eV
+[ 2025-07-02 23:22:00 |   INFO   ] [     State 6/8     ] Max Force 1.508e-01 eV/A -> 1.508e-01 eV/A
+[ 2025-07-02 23:22:00 |   INFO   ] [     State 6/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 23:22:00 |   INFO   ] [     State 6/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 23:22:00 |   INFO   ] [     State 6/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 23:22:00 |   INFO   ] Saving state file VP/states/006-Fe8Li2O32P8.xyz
+[ 2025-07-02 23:22:00 |  DEBUG   ] Updated state file: VP/states/006-Fe8Li2O32P8.csv
+[ 2025-07-02 23:22:00 |   INFO   ] [     State 6/8     ] Optimizing Fe8Li2O32P8 (position and cell) after removing atom id:(26,) from system Fe8Li3O32P8
+[ 2025-07-02 23:22:00 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 23:22:00 |  DEBUG   ] Computing potential energy
+[ 2025-07-02 23:51:51 |  DEBUG   ] Optimizing system Fe8Li2O32P8
+[ 2025-07-02 23:51:51 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-02 23:51:51 |   INFO   ] [     State 6/8     ] Energy -41520.212 eV -> -41520.212 eV
+[ 2025-07-02 23:51:51 |   INFO   ] [     State 6/8     ] Max Force 1.269e-01 eV/A -> 1.269e-01 eV/A
+[ 2025-07-02 23:51:51 |   INFO   ] [     State 6/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-02 23:51:51 |   INFO   ] [     State 6/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-02 23:51:51 |   INFO   ] [     State 6/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-02 23:51:51 |   INFO   ] Saving state file VP/states/006-Fe8Li2O32P8.xyz
+[ 2025-07-02 23:51:51 |  DEBUG   ] Updated state file: VP/states/006-Fe8Li2O32P8.csv
+[ 2025-07-02 23:51:51 |  DEBUG   ] [     State 6/8     ] Minimal energy obtained by removing (1,) atom form Fe8Li3O32P8
+[ 2025-07-02 23:51:51 |  DEBUG   ] Updated trajectory file: VP/trj.xyz
+[ 2025-07-02 23:51:51 |  DEBUG   ] Updated thermo file: VP/thermo.csv
+[ 2025-07-02 23:51:51 |   INFO   ] Semi brute force method
+[ 2025-07-02 23:51:51 |   INFO   ] [     State 7/8     ] Removing 1 atom from system Fe8Li2O32P8
+[ 2025-07-02 23:51:51 |   INFO   ] [     State 7/8     ] Optimizing Fe8LiO32P8 (position and cell) after removing atom id:(0,) from system Fe8Li2O32P8
+[ 2025-07-02 23:51:51 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-02 23:51:51 |  DEBUG   ] Computing potential energy
+[ 2025-07-03 00:34:13 |  DEBUG   ] Optimizing system Fe8LiO32P8
+[ 2025-07-03 00:34:13 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-03 00:34:13 |   INFO   ] [     State 7/8     ] Energy -41321.996 eV -> -41321.996 eV
+[ 2025-07-03 00:34:13 |   INFO   ] [     State 7/8     ] Max Force 1.424e-01 eV/A -> 1.424e-01 eV/A
+[ 2025-07-03 00:34:13 |   INFO   ] [     State 7/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-03 00:34:13 |   INFO   ] [     State 7/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-03 00:34:13 |   INFO   ] [     State 7/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-03 00:34:13 |   INFO   ] Saving state file VP/states/007-Fe8LiO32P8.xyz
+[ 2025-07-03 00:34:13 |  DEBUG   ] Updated state file: VP/states/007-Fe8LiO32P8.csv
+[ 2025-07-03 00:34:13 |   INFO   ] [     State 7/8     ] Optimizing Fe8LiO32P8 (position and cell) after removing atom id:(25,) from system Fe8Li2O32P8
+[ 2025-07-03 00:34:13 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-03 00:34:13 |  DEBUG   ] Computing potential energy
+[ 2025-07-03 01:16:46 |  DEBUG   ] Optimizing system Fe8LiO32P8
+[ 2025-07-03 01:16:46 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-03 01:16:46 |   INFO   ] [     State 7/8     ] Energy -41321.996 eV -> -41321.996 eV
+[ 2025-07-03 01:16:46 |   INFO   ] [     State 7/8     ] Max Force 1.424e-01 eV/A -> 1.424e-01 eV/A
+[ 2025-07-03 01:16:46 |   INFO   ] [     State 7/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-03 01:16:46 |   INFO   ] [     State 7/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-03 01:16:46 |   INFO   ] [     State 7/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-03 01:16:46 |   INFO   ] Saving state file VP/states/007-Fe8LiO32P8.xyz
+[ 2025-07-03 01:16:46 |  DEBUG   ] Updated state file: VP/states/007-Fe8LiO32P8.csv
+[ 2025-07-03 01:16:46 |  DEBUG   ] [     State 7/8     ] Minimal energy obtained by removing (25,) atom form Fe8Li2O32P8
+[ 2025-07-03 01:16:46 |  DEBUG   ] Updated trajectory file: VP/trj.xyz
+[ 2025-07-03 01:16:46 |  DEBUG   ] Updated thermo file: VP/thermo.csv
+[ 2025-07-03 01:16:46 |   INFO   ] Semi brute force method
+[ 2025-07-03 01:16:46 |   INFO   ] [     State 8/8     ] Removing 1 atom from system Fe8LiO32P8
+[ 2025-07-03 01:16:46 |   INFO   ] [     State 8/8     ] Optimizing Fe8O32P8 (position and cell) after removing atom id:(0,) from system Fe8LiO32P8
+[ 2025-07-03 01:16:46 |  DEBUG   ] Loading Quantum espresso calculator
+[ 2025-07-03 01:16:46 |  DEBUG   ] Computing potential energy
+[ 2025-07-03 02:03:57 |  DEBUG   ] Optimizing system Fe8O32P8
+[ 2025-07-03 02:03:57 |  DEBUG   ] Optimization method: quantum espresso vc-relaxation
+[ 2025-07-03 02:03:57 |   INFO   ] [     State 8/8     ] Energy -41124.350 eV -> -41124.350 eV
+[ 2025-07-03 02:03:57 |   INFO   ] [     State 8/8     ] Max Force 1.056e-01 eV/A -> 1.056e-01 eV/A
+[ 2025-07-03 02:03:57 |   INFO   ] [     State 8/8     ] Cell lengths [a, b, c] [ 9.49288  6.09023 10.4437 ] A -> [ 9.49288  6.09023 10.4437 ] A
+[ 2025-07-03 02:03:57 |   INFO   ] [     State 8/8     ] Cell angles [α,β,γ] [90. 90. 90.] ° -> [90. 90. 90.] °
+[ 2025-07-03 02:03:57 |   INFO   ] [     State 8/8     ] Cell volume 603.790 A^3 -> 603.790 A^3
+[ 2025-07-03 02:03:57 |   INFO   ] Saving state file VP/states/008-Fe8O32P8.xyz
+[ 2025-07-03 02:03:57 |  DEBUG   ] Updated state file: VP/states/008-Fe8O32P8.csv
+[ 2025-07-03 02:03:57 |  DEBUG   ] [     State 8/8     ] Minimal energy obtained by removing (0,) atom form Fe8LiO32P8
+[ 2025-07-03 02:03:57 |  DEBUG   ] Updated trajectory file: VP/trj.xyz
+[ 2025-07-03 02:03:57 |  DEBUG   ] Updated thermo file: VP/thermo.csv
+[ 2025-07-03 02:03:57 |   INFO   ] Computing Convex Hull
+[ 2025-07-03 02:03:57 |   INFO   ] Save file VP/hull.csv
+[ 2025-07-03 02:03:57 |   INFO   ] Computing Voltage steps
+[ 2025-07-03 02:03:57 |   INFO   ] Save file VP/voltage.csv
+[ 2025-07-03 02:03:57 |   INFO   ] ========================================================= END ==========================================================
+[ 2025-07-03 02:03:57 |   INFO   ] 
+[ 2025-07-03 02:03:57 |   INFO   ] ================================================== PERFORMANCE REPORT ==================================================
+[ 2025-07-03 02:03:57 |   INFO   ] 
+[ 2025-07-03 02:03:57 |   INFO   ] -- Profiling Calculation -----------------------------------------------------------------------------------------------
+[ 2025-07-03 02:03:57 |   INFO   ] 
+[ 2025-07-03 02:03:57 |   INFO   ] Method                         | Tot. Time        Avg. Time (ms)   Min Time (ms)    Max Time (ms)    Calls      % Time    
+[ 2025-07-03 02:03:57 |   INFO   ] -------------------------------+----------------------------------------------------------------------------------------
+[ 2025-07-03 02:03:57 |   INFO   ] _get_potential_energy_new_state | 11.794 hr        2497450.617      1365870.816      3489123.322      17         100.00    
+[ 2025-07-03 02:03:57 |   INFO   ] compute_convexhull             | 0.159 s          159.290          159.290          159.290          1          0.00      
+[ 2025-07-03 02:03:57 |   INFO   ] _optimize_system               | 0.006 s          0.357            0.319            0.431            17         0.00      
+[ 2025-07-03 02:03:57 |   INFO   ] compute_voltage_profile        | 0.001 s          0.625            0.625            0.625            1          0.00      
+[ 2025-07-03 02:03:57 |   INFO   ] ------------------------------------------------------------------------------------------------------------------------
+[ 2025-07-03 02:03:57 |   INFO   ] 
+[ 2025-07-03 02:03:57 |   INFO   ] -- Profiling I/O -------------------------------------------------------------------------------------------------------
+[ 2025-07-03 02:03:57 |   INFO   ] 
+[ 2025-07-03 02:03:57 |   INFO   ] Method                         | Tot. Time        Avg. Time (ms)   Min Time (ms)    Max Time (ms)    Calls      % Time    
+[ 2025-07-03 02:03:57 |   INFO   ] -------------------------------+----------------------------------------------------------------------------------------
+[ 2025-07-03 02:03:57 |   INFO   ] save_state                     | 0.206 s          12.105           3.389            43.039           17         64.10     
+[ 2025-07-03 02:03:57 |   INFO   ] save_thermo                    | 0.073 s          14.599           1.017            35.530           5          22.74     
+[ 2025-07-03 02:03:57 |   INFO   ] save_trj                       | 0.039 s          7.726            1.446            19.056           5          12.03     
+[ 2025-07-03 02:03:57 |   INFO   ] write_convexhull               | 0.002 s          2.215            2.215            2.215            1          0.69      
+[ 2025-07-03 02:03:57 |   INFO   ] write_voltage                  | 0.001 s          1.401            1.401            1.401            1          0.44      
+[ 2025-07-03 02:03:57 |   INFO   ] ------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+# Large / raw outputs kept outside git (see README "Raw outputs")
+archive/
+*.pwo
+QE/**/*.out
+QE/**/*.err
+QE/**/CRASH
+# backups and OS/editor junk
+*.bak*
+.DS_Store
+._*
+*.swp

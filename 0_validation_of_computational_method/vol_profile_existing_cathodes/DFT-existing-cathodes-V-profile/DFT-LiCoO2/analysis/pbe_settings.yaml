@@ -1,0 +1,33 @@
+continue: False
+calculation: vc-relax
+system: ./Co27Li27O54.xyz 
+#ecutwfc: 60
+#ecutrho: 480
+ecutwfc: 40
+ecutrho: 320
+etot_conv_thr: 0.0001
+forc_conv_thr: 0.001
+pseudopotentials:
+  Li: li_pbe_v1.4.uspp.F.UPF
+  Co: Co_pbe_v1.2.uspp.F.UPF
+  O: O.pbe-n-kjpaw_psl.0.1.UPF
+command: srun --cpu-bind=cores pw.x -in pwscf.in
+pseudo_dir: /leonardo_scratch/large/userexternal/nalghamd/mc_mace/PP
+electron_maxstep: 5000
+#kpts: [18, 18, 3] # QE input generator suggestion
+kpts: [10, 10, 2]
+koffset: [0, 0, 0]
+optimizer:
+  type: FIRE2
+  fmax: 0.05
+  max steps: 5000
+output files:
+  thermo: VP/thermo.csv
+  trajectory: VP/trj.xyz
+  convex hull: VP/hull.csv
+  voltage: VP/voltage.csv
+states folder: VP/states
+working ion:
+  charge carried: 1
+  chemical potential:
+         Li: ./Li.cif
